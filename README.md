@@ -1,1 +1,1 @@
-"# Odd-comparision" 
+Analysis of odds provided by OddPortal 
