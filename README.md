@@ -1,1 +1,1 @@
-Analysis of odds provided by OddPortal 
+Analysis of odds provided by OddPortal https://www.oddsportal.com
