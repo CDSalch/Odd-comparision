@@ -1,0 +1,5362 @@
+[
+    {
+        "date": "2019-05-24",
+        "team_1": "Amiens",
+        "team_2": "Guingamp",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.49,
+            "X": 4.15,
+            "2": 7.16
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/amiens-sc-guingamp-nTGU3u1U/"
+    },
+    {
+        "date": "2019-05-24",
+        "team_1": "Angers",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.19,
+            "X": 3.69,
+            "2": 2.9
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/angers-st-etienne-CjryPOWu/"
+    },
+    {
+        "date": "2019-05-24",
+        "team_1": "Caen",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.85,
+            "X": 3.39,
+            "2": 4.43
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/caen-bordeaux-jssuOrnn/"
+    },
+    {
+        "date": "2019-05-24",
+        "team_1": "Dijon",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.44,
+            "X": 4.65,
+            "2": 6.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/dijon-toulouse-pIerN21h/"
+    },
+    {
+        "date": "2019-05-24",
+        "team_1": "Marseille",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.84,
+            "X": 4.0,
+            "2": 3.9
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/marseille-montpellier-O8fnMMGb/"
+    },
+    {
+        "date": "2019-05-24",
+        "team_1": "Nantes",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.84,
+            "X": 3.81,
+            "2": 4.05
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nantes-strasbourg-6XqiLtW4/"
+    },
+    {
+        "date": "2019-05-24",
+        "team_1": "Nice",
+        "team_2": "Monaco",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.34,
+            "X": 3.44,
+            "2": 2.13
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nice-monaco-KzleK0oB/"
+    },
+    {
+        "date": "2019-05-24",
+        "team_1": "Nimes",
+        "team_2": "Lyon",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.74,
+            "X": 4.29,
+            "2": 1.83
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nimes-lyon-EcmaJK0H/"
+    },
+    {
+        "date": "2019-05-24",
+        "team_1": "Reims",
+        "team_2": "PSG",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 6.63,
+            "X": 5.34,
+            "2": 1.38
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/reims-psg-hln3IvGN/"
+    },
+    {
+        "date": "2019-05-24",
+        "team_1": "Rennes",
+        "team_2": "Lille",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.39,
+            "X": 3.77,
+            "2": 2.74
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/rennes-lille-APt8HbVT/"
+    },
+    {
+        "date": "2019-05-18",
+        "team_1": "Bordeaux",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.17,
+            "X": 3.26,
+            "2": 3.59
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/bordeaux-reims-Qammi2HO/"
+    },
+    {
+        "date": "2019-05-18",
+        "team_1": "Guingamp",
+        "team_2": "Nimes",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.35,
+            "X": 3.55,
+            "2": 2.91
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/guingamp-nimes-EFtVFofP/"
+    },
+    {
+        "date": "2019-05-18",
+        "team_1": "Lille",
+        "team_2": "Angers",
+        "score": {
+            "1": 5,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.59,
+            "X": 4.11,
+            "2": 5.95
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lille-angers-GOSdB52t/"
+    },
+    {
+        "date": "2019-05-18",
+        "team_1": "Lyon",
+        "team_2": "Caen",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.23,
+            "X": 6.81,
+            "2": 10.88
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lyon-caen-bmI1APHn/"
+    },
+    {
+        "date": "2019-05-18",
+        "team_1": "Monaco",
+        "team_2": "Amiens",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.55,
+            "X": 4.03,
+            "2": 6.38
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/monaco-amiens-sc-ANL59qXh/"
+    },
+    {
+        "date": "2019-05-18",
+        "team_1": "Montpellier",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.87,
+            "X": 3.74,
+            "2": 4.18
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/montpellier-nantes-4pL983na/"
+    },
+    {
+        "date": "2019-05-18",
+        "team_1": "PSG",
+        "team_2": "Dijon",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.2,
+            "X": 7.44,
+            "2": 11.38
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/psg-dijon-ryKD7N15/"
+    },
+    {
+        "date": "2019-05-18",
+        "team_1": "St Etienne",
+        "team_2": "Nice",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.59,
+            "X": 4.18,
+            "2": 5.65
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/st-etienne-nice-0CEI6sHB/"
+    },
+    {
+        "date": "2019-05-18",
+        "team_1": "Strasbourg",
+        "team_2": "Rennes",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.14,
+            "X": 3.65,
+            "2": 3.29
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/strasbourg-rennes-v3DM51WH/"
+    },
+    {
+        "date": "2019-05-18",
+        "team_1": "Toulouse",
+        "team_2": "Marseille",
+        "score": {
+            "1": 2,
+            "2": 5
+        },
+        "odds": {
+            "1": 3.16,
+            "X": 3.48,
+            "2": 2.29
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/toulouse-marseille-YPCQ4LoO/"
+    },
+    {
+        "date": "2019-05-12",
+        "team_1": "Marseille",
+        "team_2": "Lyon",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.9,
+            "X": 3.82,
+            "2": 2.29
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/marseille-lyon-n9lqhr2I/"
+    },
+    {
+        "date": "2019-05-12",
+        "team_1": "Lille",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.46,
+            "X": 4.2,
+            "2": 7.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lille-bordeaux-xIuVd6mm/"
+    },
+    {
+        "date": "2019-05-12",
+        "team_1": "Rennes",
+        "team_2": "Guingamp",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.77,
+            "X": 3.88,
+            "2": 4.38
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/rennes-guingamp-jsezf4X5/"
+    },
+    {
+        "date": "2019-05-11",
+        "team_1": "Amiens",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.18,
+            "X": 3.11,
+            "2": 3.76
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/amiens-sc-toulouse-QwCCvPXI/"
+    },
+    {
+        "date": "2019-05-11",
+        "team_1": "Caen",
+        "team_2": "Reims",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.74,
+            "X": 2.99,
+            "2": 2.95
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/caen-reims-tnfa2SPP/"
+    },
+    {
+        "date": "2019-05-11",
+        "team_1": "Dijon",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.01,
+            "X": 3.54,
+            "2": 3.78
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/dijon-strasbourg-bRtRcnYt/"
+    },
+    {
+        "date": "2019-05-11",
+        "team_1": "Nice",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.54,
+            "X": 3.19,
+            "2": 2.98
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nice-nantes-ITdSeQ2g/"
+    },
+    {
+        "date": "2019-05-11",
+        "team_1": "Nimes",
+        "team_2": "Monaco",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.65,
+            "X": 3.84,
+            "2": 1.92
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nimes-monaco-dKeWfpIa/"
+    },
+    {
+        "date": "2019-05-11",
+        "team_1": "Angers",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 6.0,
+            "X": 4.63,
+            "2": 1.51
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/angers-psg-Srje38AJ/"
+    },
+    {
+        "date": "2019-05-10",
+        "team_1": "St Etienne",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.71,
+            "X": 3.84,
+            "2": 4.78
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/st-etienne-montpellier-4pavgOnC/"
+    },
+    {
+        "date": "2019-05-05",
+        "team_1": "Lyon",
+        "team_2": "Lille",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.58,
+            "X": 4.44,
+            "2": 5.31
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lyon-lille-AkpG2yK8/"
+    },
+    {
+        "date": "2019-05-05",
+        "team_1": "Monaco",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.14,
+            "X": 3.64,
+            "2": 3.16
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/monaco-st-etienne-SQvL1eZE/"
+    },
+    {
+        "date": "2019-05-05",
+        "team_1": "Montpellier",
+        "team_2": "Amiens",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.73,
+            "X": 3.59,
+            "2": 5.3
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/montpellier-amiens-sc-4j2lpT3s/"
+    },
+    {
+        "date": "2019-05-05",
+        "team_1": "Nantes",
+        "team_2": "Dijon",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.98,
+            "X": 3.45,
+            "2": 4.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nantes-dijon-bD1hqmJm/"
+    },
+    {
+        "date": "2019-05-05",
+        "team_1": "Toulouse",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.29,
+            "X": 3.25,
+            "2": 3.19
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/toulouse-rennes-nmD8u5IC/"
+    },
+    {
+        "date": "2019-05-04",
+        "team_1": "Bordeaux",
+        "team_2": "Angers",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.49,
+            "X": 3.14,
+            "2": 3.1
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/bordeaux-angers-IecUvYR1/"
+    },
+    {
+        "date": "2019-05-04",
+        "team_1": "Guingamp",
+        "team_2": "Caen",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.95,
+            "X": 3.38,
+            "2": 4.36
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/guingamp-caen-WboC3H42/"
+    },
+    {
+        "date": "2019-05-04",
+        "team_1": "Reims",
+        "team_2": "Nimes",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.95,
+            "X": 3.41,
+            "2": 4.2
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/reims-nimes-vN90sRm0/"
+    },
+    {
+        "date": "2019-05-04",
+        "team_1": "PSG",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.2,
+            "X": 8.0,
+            "2": 12.25
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/psg-nice-dbKer7Yg/"
+    },
+    {
+        "date": "2019-05-03",
+        "team_1": "Strasbourg",
+        "team_2": "Marseille",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.75,
+            "X": 3.46,
+            "2": 2.01
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/strasbourg-marseille-ID84to36/"
+    },
+    {
+        "date": "2019-05-01",
+        "team_1": "Rennes",
+        "team_2": "Monaco",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.45,
+            "X": 3.54,
+            "2": 2.14
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/rennes-monaco-MT3Ltfck/"
+    },
+    {
+        "date": "2019-04-30",
+        "team_1": "Montpellier",
+        "team_2": "PSG",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 4.59,
+            "X": 4.04,
+            "2": 1.72
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/montpellier-psg-CfIknGZR/"
+    },
+    {
+        "date": "2019-04-28",
+        "team_1": "Marseille",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.49,
+            "X": 4.29,
+            "2": 6.94
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/marseille-nantes-Y3JomdKL/"
+    },
+    {
+        "date": "2019-04-28",
+        "team_1": "St Etienne",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.44,
+            "X": 4.43,
+            "2": 7.06
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/st-etienne-toulouse-4hgQuECe/"
+    },
+    {
+        "date": "2019-04-28",
+        "team_1": "Amiens",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.24,
+            "X": 3.19,
+            "2": 3.4
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/amiens-sc-strasbourg-QwdlrnHd/"
+    },
+    {
+        "date": "2019-04-28",
+        "team_1": "Angers",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.33,
+            "X": 3.08,
+            "2": 3.22
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/angers-reims-4ORUjvLd/"
+    },
+    {
+        "date": "2019-04-28",
+        "team_1": "Caen",
+        "team_2": "Dijon",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.05,
+            "X": 3.05,
+            "2": 2.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/caen-dijon-xxQxkIk9/"
+    },
+    {
+        "date": "2019-04-28",
+        "team_1": "Lille",
+        "team_2": "Nimes",
+        "score": {
+            "1": 5,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.44,
+            "X": 4.59,
+            "2": 7.36
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lille-nimes-juUtlx5F/"
+    },
+    {
+        "date": "2019-04-28",
+        "team_1": "Nice",
+        "team_2": "Guingamp",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.16,
+            "X": 3.06,
+            "2": 3.76
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nice-guingamp-rw5Hszrq/"
+    },
+    {
+        "date": "2019-04-26",
+        "team_1": "Bordeaux",
+        "team_2": "Lyon",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 5.3,
+            "X": 4.21,
+            "2": 1.57
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/bordeaux-lyon-rFQYkbz3/"
+    },
+    {
+        "date": "2019-04-21",
+        "team_1": "PSG",
+        "team_2": "Monaco",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.27,
+            "X": 6.19,
+            "2": 10.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/psg-monaco-nmcpqS1j/"
+    },
+    {
+        "date": "2019-04-21",
+        "team_1": "Reims",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.51,
+            "X": 3.24,
+            "2": 2.89
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/reims-st-etienne-z9H9kUOM/"
+    },
+    {
+        "date": "2019-04-21",
+        "team_1": "Nantes",
+        "team_2": "Amiens",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.97,
+            "X": 2.99,
+            "2": 4.58
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nantes-amiens-sc-lhFchWv4/"
+    },
+    {
+        "date": "2019-04-21",
+        "team_1": "Toulouse",
+        "team_2": "Lille",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.74,
+            "X": 3.4,
+            "2": 2.05
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/toulouse-lille-hQctp8np/"
+    },
+    {
+        "date": "2019-04-20",
+        "team_1": "Nice",
+        "team_2": "Caen",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.62,
+            "X": 3.56,
+            "2": 6.31
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nice-caen-SrE1ijfA/"
+    },
+    {
+        "date": "2019-04-20",
+        "team_1": "Nimes",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.04,
+            "X": 3.44,
+            "2": 3.66
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nimes-bordeaux-dII5jA9G/"
+    },
+    {
+        "date": "2019-04-20",
+        "team_1": "Strasbourg",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.74,
+            "X": 3.14,
+            "2": 2.72
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/strasbourg-montpellier-IX6EllvT/"
+    },
+    {
+        "date": "2019-04-20",
+        "team_1": "Guingamp",
+        "team_2": "Marseille",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 4.24,
+            "X": 3.43,
+            "2": 1.91
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/guingamp-marseille-hQLlfhAi/"
+    },
+    {
+        "date": "2019-04-19",
+        "team_1": "Lyon",
+        "team_2": "Angers",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.3,
+            "X": 5.71,
+            "2": 9.75
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lyon-angers-6TPhgCPc/"
+    },
+    {
+        "date": "2019-04-19",
+        "team_1": "Dijon",
+        "team_2": "Rennes",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.85,
+            "X": 3.26,
+            "2": 2.55
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/dijon-rennes-vNX6V8Xj/"
+    },
+    {
+        "date": "2019-04-17",
+        "team_1": "Nantes",
+        "team_2": "PSG",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.91,
+            "X": 3.54,
+            "2": 1.99
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nantes-psg-G8dQ5nER/"
+    },
+    {
+        "date": "2019-04-14",
+        "team_1": "Lille",
+        "team_2": "PSG",
+        "score": {
+            "1": 5,
+            "2": 1
+        },
+        "odds": {
+            "1": 5.03,
+            "X": 3.88,
+            "2": 1.7
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lille-psg-YoKJtZuh/"
+    },
+    {
+        "date": "2019-04-14",
+        "team_1": "St Etienne",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.55,
+            "X": 4.08,
+            "2": 6.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/st-etienne-bordeaux-AiFryV9T/"
+    },
+    {
+        "date": "2019-04-14",
+        "team_1": "Montpellier",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.91,
+            "X": 3.21,
+            "2": 4.35
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/montpellier-toulouse-OzDWwXPA/"
+    },
+    {
+        "date": "2019-04-14",
+        "team_1": "Rennes",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.89,
+            "X": 3.24,
+            "2": 4.48
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/rennes-nice-W0GvxBfN/"
+    },
+    {
+        "date": "2019-04-13",
+        "team_1": "Caen",
+        "team_2": "Angers",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.36,
+            "X": 3.04,
+            "2": 2.4
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/caen-angers-hjsXIVmo/"
+    },
+    {
+        "date": "2019-04-13",
+        "team_1": "Monaco",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.84,
+            "X": 3.4,
+            "2": 4.71
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/monaco-reims-tCNRvDA4/"
+    },
+    {
+        "date": "2019-04-13",
+        "team_1": "Strasbourg",
+        "team_2": "Guingamp",
+        "score": {
+            "1": 3,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.98,
+            "X": 3.31,
+            "2": 4.25
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/strasbourg-guingamp-0WY2WlIp/"
+    },
+    {
+        "date": "2019-04-13",
+        "team_1": "Marseille",
+        "team_2": "Nimes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.37,
+            "X": 5.0,
+            "2": 8.19
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/marseille-nimes-2LONugeb/"
+    },
+    {
+        "date": "2019-04-12",
+        "team_1": "Nantes",
+        "team_2": "Lyon",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.26,
+            "X": 3.8,
+            "2": 1.83
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nantes-lyon-xvHzwiuH/"
+    },
+    {
+        "date": "2019-04-12",
+        "team_1": "Dijon",
+        "team_2": "Amiens",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.45,
+            "X": 3.13,
+            "2": 3.15
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/dijon-amiens-sc-feLFsFQo/"
+    },
+    {
+        "date": "2019-04-09",
+        "team_1": "Nimes",
+        "team_2": "Rennes",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.76,
+            "X": 3.4,
+            "2": 2.56
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nimes-rennes-vRNIn77k/"
+    },
+    {
+        "date": "2019-04-07",
+        "team_1": "PSG",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.22,
+            "X": 6.94,
+            "2": 11.75
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/psg-strasbourg-pphcPXAH/"
+    },
+    {
+        "date": "2019-04-07",
+        "team_1": "Nice",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.01,
+            "X": 2.94,
+            "2": 2.61
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nice-montpellier-lIblRgt5/"
+    },
+    {
+        "date": "2019-04-07",
+        "team_1": "Reims",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.81,
+            "X": 3.05,
+            "2": 2.73
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/reims-lille-Ozi1OiQN/"
+    },
+    {
+        "date": "2019-04-07",
+        "team_1": "Toulouse",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.55,
+            "X": 3.07,
+            "2": 3.01
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/toulouse-nantes-Icj5NBuU/"
+    },
+    {
+        "date": "2019-04-06",
+        "team_1": "Amiens",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.34,
+            "X": 3.1,
+            "2": 2.3
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/amiens-sc-st-etienne-fcfQMvkJ/"
+    },
+    {
+        "date": "2019-04-06",
+        "team_1": "Angers",
+        "team_2": "Rennes",
+        "score": {
+            "1": 3,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.7,
+            "X": 3.19,
+            "2": 2.76
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/angers-rennes-Kx7XUyst/"
+    },
+    {
+        "date": "2019-04-06",
+        "team_1": "Guingamp",
+        "team_2": "Monaco",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.73,
+            "X": 3.24,
+            "2": 2.1
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/guingamp-monaco-thetTFBh/"
+    },
+    {
+        "date": "2019-04-06",
+        "team_1": "Nimes",
+        "team_2": "Caen",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.77,
+            "X": 3.55,
+            "2": 4.81
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nimes-caen-S8chQDeB/"
+    },
+    {
+        "date": "2019-04-06",
+        "team_1": "Lyon",
+        "team_2": "Dijon",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.18,
+            "X": 7.5,
+            "2": 15.0
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lyon-dijon-feapSZQb/"
+    },
+    {
+        "date": "2019-04-05",
+        "team_1": "Bordeaux",
+        "team_2": "Marseille",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.49,
+            "X": 3.3,
+            "2": 2.17
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/bordeaux-marseille-bT5yUedn/"
+    },
+    {
+        "date": "2019-04-03",
+        "team_1": "Montpellier",
+        "team_2": "Guingamp",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.83,
+            "X": 3.3,
+            "2": 4.75
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/montpellier-guingamp-Uk90SrLs/"
+    },
+    {
+        "date": "2019-04-03",
+        "team_1": "Strasbourg",
+        "team_2": "Reims",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.03,
+            "X": 3.01,
+            "2": 2.56
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/strasbourg-reims-Ys6HO0K6/"
+    },
+    {
+        "date": "2019-04-01",
+        "team_1": "St Etienne",
+        "team_2": "Nimes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.67,
+            "X": 3.89,
+            "2": 5.11
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/st-etienne-nimes-Kv2DPt50/"
+    },
+    {
+        "date": "2019-03-31",
+        "team_1": "Toulouse",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 7.69,
+            "X": 5.05,
+            "2": 1.39
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/toulouse-psg-G6eMNKZC/"
+    },
+    {
+        "date": "2019-03-31",
+        "team_1": "Nantes",
+        "team_2": "Lille",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.7,
+            "X": 3.09,
+            "2": 2.7
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nantes-lille-nR35R2zl/"
+    },
+    {
+        "date": "2019-03-31",
+        "team_1": "Amiens",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.61,
+            "X": 2.99,
+            "2": 2.95
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/amiens-sc-bordeaux-YTQrA15D/"
+    },
+    {
+        "date": "2019-03-31",
+        "team_1": "Dijon",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.34,
+            "X": 3.14,
+            "2": 3.21
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/dijon-nice-zZ4RYprE/"
+    },
+    {
+        "date": "2019-03-31",
+        "team_1": "Monaco",
+        "team_2": "Caen",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.33,
+            "X": 4.86,
+            "2": 9.81
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/monaco-caen-StNYWOCQ/"
+    },
+    {
+        "date": "2019-03-30",
+        "team_1": "Marseille",
+        "team_2": "Angers",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.47,
+            "X": 4.23,
+            "2": 7.94
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/marseille-angers-YJNUX4cK/"
+    },
+    {
+        "date": "2019-03-29",
+        "team_1": "Rennes",
+        "team_2": "Lyon",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.28,
+            "X": 3.93,
+            "2": 1.76
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/rennes-lyon-QH29QMkf/"
+    },
+    {
+        "date": "2019-03-17",
+        "team_1": "PSG",
+        "team_2": "Marseille",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.28,
+            "X": 6.38,
+            "2": 10.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/psg-marseille-fwSvBsj7/"
+    },
+    {
+        "date": "2019-03-17",
+        "team_1": "Bordeaux",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.53,
+            "X": 3.05,
+            "2": 2.93
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/bordeaux-rennes-zDTjM7b8/"
+    },
+    {
+        "date": "2019-03-17",
+        "team_1": "Reims",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 3.09,
+            "2": 3.69
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/reims-nantes-Q3NzCNz1/"
+    },
+    {
+        "date": "2019-03-17",
+        "team_1": "Lyon",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.43,
+            "X": 4.56,
+            "2": 6.75
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lyon-montpellier-joVNEPjr/"
+    },
+    {
+        "date": "2019-03-16",
+        "team_1": "Angers",
+        "team_2": "Amiens",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.04,
+            "X": 3.09,
+            "2": 4.13
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/angers-amiens-sc-M9u9cOL7/"
+    },
+    {
+        "date": "2019-03-16",
+        "team_1": "Caen",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 0,
+            "2": 5
+        },
+        "odds": {
+            "1": 3.21,
+            "X": 3.1,
+            "2": 2.34
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/caen-st-etienne-E3SfLRDE/"
+    },
+    {
+        "date": "2019-03-16",
+        "team_1": "Guingamp",
+        "team_2": "Dijon",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.1,
+            "X": 3.11,
+            "2": 3.88
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/guingamp-dijon-fFqhKoTK/"
+    },
+    {
+        "date": "2019-03-16",
+        "team_1": "Nimes",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.28,
+            "X": 3.31,
+            "2": 3.25
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nimes-strasbourg-nDOWC3Lf/"
+    },
+    {
+        "date": "2019-03-15",
+        "team_1": "Lille",
+        "team_2": "Monaco",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.91,
+            "X": 3.34,
+            "2": 3.91
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lille-monaco-Y5rdJ5rR/"
+    },
+    {
+        "date": "2019-02-10",
+        "team_1": "Guingamp",
+        "team_2": "Lille",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.31,
+            "X": 3.24,
+            "2": 2.17
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/guingamp-lille-Y9Y7z4IP/"
+    },
+    {
+        "date": "2019-02-10",
+        "team_1": "Rennes",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.03,
+            "X": 3.36,
+            "2": 3.59
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/rennes-st-etienne-KUCjSuQ5/"
+    },
+    {
+        "date": "2019-02-10",
+        "team_1": "Montpellier",
+        "team_2": "Monaco",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.33,
+            "X": 3.09,
+            "2": 3.14
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/montpellier-monaco-jkLZVNQt/"
+    },
+    {
+        "date": "2019-02-10",
+        "team_1": "Nantes",
+        "team_2": "Nimes",
+        "score": {
+            "1": 2,
+            "2": 4
+        },
+        "odds": {
+            "1": 1.73,
+            "X": 3.61,
+            "2": 4.44
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nantes-nimes-UuKwVstm/"
+    },
+    {
+        "date": "2019-02-10",
+        "team_1": "Toulouse",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.63,
+            "X": 2.96,
+            "2": 2.88
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/toulouse-reims-0vLbQJfI/"
+    },
+    {
+        "date": "2019-02-09",
+        "team_1": "Amiens",
+        "team_2": "Caen",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.08,
+            "X": 2.98,
+            "2": 3.95
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/amiens-sc-caen-GY3NSiaJ/"
+    },
+    {
+        "date": "2019-02-09",
+        "team_1": "Strasbourg",
+        "team_2": "Angers",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.9,
+            "X": 3.21,
+            "2": 4.53
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/strasbourg-angers-IFVgRauC/"
+    },
+    {
+        "date": "2019-02-09",
+        "team_1": "PSG",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.26,
+            "X": 5.69,
+            "2": 10.81
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/psg-bordeaux-Q7DnTLAa/"
+    },
+    {
+        "date": "2019-02-08",
+        "team_1": "Dijon",
+        "team_2": "Marseille",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 4.3,
+            "X": 3.6,
+            "2": 1.82
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/dijon-marseille-K6U3yp3J/"
+    },
+    {
+        "date": "2019-02-05",
+        "team_1": "Marseille",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.23,
+            "X": 3.18,
+            "2": 3.34
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/marseille-bordeaux-E5JFnhka/"
+    },
+    {
+        "date": "2019-02-03",
+        "team_1": "Lyon",
+        "team_2": "PSG",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.65,
+            "X": 3.91,
+            "2": 1.86
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lyon-psg-xr5JTXqD/"
+    },
+    {
+        "date": "2019-02-03",
+        "team_1": "Nimes",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.61,
+            "X": 2.93,
+            "2": 2.89
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nimes-montpellier-faD2XFpl/"
+    },
+    {
+        "date": "2019-02-02",
+        "team_1": "Reims",
+        "team_2": "Marseille",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.82,
+            "X": 3.06,
+            "2": 2.7
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/reims-marseille-82H6WZaf/"
+    },
+    {
+        "date": "2019-02-02",
+        "team_1": "Angers",
+        "team_2": "Dijon",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.94,
+            "X": 3.41,
+            "2": 4.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/angers-dijon-lbptGEFD/"
+    },
+    {
+        "date": "2019-02-02",
+        "team_1": "Monaco",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.67,
+            "X": 3.77,
+            "2": 5.1
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/monaco-toulouse-0xEbYeVs/"
+    },
+    {
+        "date": "2019-02-02",
+        "team_1": "Rennes",
+        "team_2": "Amiens",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.56,
+            "X": 3.81,
+            "2": 6.44
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/rennes-amiens-sc-jR6BVgF0/"
+    },
+    {
+        "date": "2019-02-01",
+        "team_1": "Lille",
+        "team_2": "Nice",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 3.41,
+            "2": 4.78
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lille-nice-bTRWxxNQ/"
+    },
+    {
+        "date": "2019-01-30",
+        "team_1": "Nantes",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.73,
+            "X": 3.15,
+            "2": 2.7
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nantes-st-etienne-8rkLKx1r/"
+    },
+    {
+        "date": "2019-01-27",
+        "team_1": "PSG",
+        "team_2": "Rennes",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.17,
+            "X": 7.63,
+            "2": 14.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/psg-rennes-G8hTIGVf/"
+    },
+    {
+        "date": "2019-01-27",
+        "team_1": "Toulouse",
+        "team_2": "Angers",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.29,
+            "X": 3.06,
+            "2": 3.4
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/toulouse-angers-xOtxHf07/"
+    },
+    {
+        "date": "2019-01-27",
+        "team_1": "Amiens",
+        "team_2": "Lyon",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 6.44,
+            "X": 4.39,
+            "2": 1.46
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/amiens-sc-lyon-fRD4GN9d/"
+    },
+    {
+        "date": "2019-01-27",
+        "team_1": "Montpellier",
+        "team_2": "Caen",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.54,
+            "X": 3.74,
+            "2": 6.88
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/montpellier-caen-Spyix5WF/"
+    },
+    {
+        "date": "2019-01-26",
+        "team_1": "Dijon",
+        "team_2": "Monaco",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.57,
+            "X": 3.35,
+            "2": 2.09
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/dijon-monaco-tUYvu7nc/"
+    },
+    {
+        "date": "2019-01-26",
+        "team_1": "Guingamp",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.59,
+            "X": 2.95,
+            "2": 2.99
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/guingamp-reims-KKXrvR13/"
+    },
+    {
+        "date": "2019-01-26",
+        "team_1": "Nice",
+        "team_2": "Nimes",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.39,
+            "X": 3.13,
+            "2": 3.18
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nice-nimes-nZmPJdGl/"
+    },
+    {
+        "date": "2019-01-26",
+        "team_1": "Strasbourg",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.18,
+            "X": 3.15,
+            "2": 3.55
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/strasbourg-bordeaux-faiXHzo1/"
+    },
+    {
+        "date": "2019-01-25",
+        "team_1": "Marseille",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.41,
+            "X": 3.21,
+            "2": 3.05
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/marseille-lille-EsXnwoH9/"
+    },
+    {
+        "date": "2019-01-23",
+        "team_1": "Nimes",
+        "team_2": "Angers",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.16,
+            "X": 3.15,
+            "2": 3.55
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nimes-angers-AZ9nAnmN/"
+    },
+    {
+        "date": "2019-01-20",
+        "team_1": "St Etienne",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.43,
+            "X": 3.58,
+            "2": 2.08
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/st-etienne-lyon-GzF0H3fj/"
+    },
+    {
+        "date": "2019-01-20",
+        "team_1": "Bordeaux",
+        "team_2": "Dijon",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.64,
+            "X": 3.71,
+            "2": 5.44
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/bordeaux-dijon-MDw5ST2i/"
+    },
+    {
+        "date": "2019-01-20",
+        "team_1": "Angers",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.39,
+            "X": 2.99,
+            "2": 3.23
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/angers-nantes-8AkN3pQj/"
+    },
+    {
+        "date": "2019-01-20",
+        "team_1": "Caen",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.66,
+            "X": 3.69,
+            "2": 1.74
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/caen-marseille-Yms9RmIc/"
+    },
+    {
+        "date": "2019-01-20",
+        "team_1": "Rennes",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.03,
+            "X": 3.15,
+            "2": 3.84
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/rennes-montpellier-MDFdIqup/"
+    },
+    {
+        "date": "2019-01-19",
+        "team_1": "Monaco",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 1,
+            "2": 5
+        },
+        "odds": {
+            "1": 1.88,
+            "X": 3.38,
+            "2": 4.29
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/monaco-strasbourg-f3VHPRnA/"
+    },
+    {
+        "date": "2019-01-19",
+        "team_1": "Nimes",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.97,
+            "X": 3.45,
+            "2": 3.75
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nimes-toulouse-OxzMOo2G/"
+    },
+    {
+        "date": "2019-01-19",
+        "team_1": "Reims",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.18,
+            "X": 3.0,
+            "2": 3.72
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/reims-nice-phOUMPWS/"
+    },
+    {
+        "date": "2019-01-19",
+        "team_1": "PSG",
+        "team_2": "Guingamp",
+        "score": {
+            "1": 9,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.06,
+            "X": 12.5,
+            "2": 34.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/psg-guingamp-2TYPN5HM/"
+    },
+    {
+        "date": "2019-01-18",
+        "team_1": "Lille",
+        "team_2": "Amiens",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.61,
+            "X": 3.75,
+            "2": 6.29
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lille-amiens-sc-GCWDQ7X3/"
+    },
+    {
+        "date": "2019-01-16",
+        "team_1": "St Etienne",
+        "team_2": "Marseille",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.46,
+            "X": 3.47,
+            "2": 2.85
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/st-etienne-marseille-0renouEf/"
+    },
+    {
+        "date": "2019-01-16",
+        "team_1": "Guingamp",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.87,
+            "X": 3.15,
+            "2": 2.57
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/guingamp-rennes-f33ElEKn/"
+    },
+    {
+        "date": "2019-01-16",
+        "team_1": "Monaco",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.23,
+            "X": 3.2,
+            "2": 3.57
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/monaco-nice-ADG7hNLK/"
+    },
+    {
+        "date": "2019-01-16",
+        "team_1": "Nimes",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.33,
+            "X": 3.2,
+            "2": 3.23
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nimes-nantes-l4FBisyR/"
+    },
+    {
+        "date": "2019-01-16",
+        "team_1": "Toulouse",
+        "team_2": "Lyon",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 5.33,
+            "X": 4.18,
+            "2": 1.59
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/toulouse-lyon-88bfqJr7/"
+    },
+    {
+        "date": "2019-01-15",
+        "team_1": "Angers",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.6,
+            "X": 3.0,
+            "2": 2.97
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/angers-bordeaux-0rZGVaE7/"
+    },
+    {
+        "date": "2019-01-13",
+        "team_1": "Marseille",
+        "team_2": "Monaco",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 3.88,
+            "2": 4.13
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/marseille-monaco-UJjJ4QAp/"
+    },
+    {
+        "date": "2019-01-13",
+        "team_1": "Dijon",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.25,
+            "X": 3.2,
+            "2": 2.3
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/dijon-montpellier-YTIREAYi/"
+    },
+    {
+        "date": "2019-01-13",
+        "team_1": "Toulouse",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.33,
+            "X": 3.08,
+            "2": 3.18
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/toulouse-strasbourg-lQ8j962T/"
+    },
+    {
+        "date": "2019-01-13",
+        "team_1": "Nantes",
+        "team_2": "Rennes",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.6,
+            "X": 3.08,
+            "2": 2.77
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nantes-rennes-296vC8IA/"
+    },
+    {
+        "date": "2019-01-12",
+        "team_1": "Guingamp",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.75,
+            "X": 3.2,
+            "2": 2.57
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/guingamp-st-etienne-tfIVDUmb/"
+    },
+    {
+        "date": "2019-01-12",
+        "team_1": "Nice",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.63,
+            "X": 3.03,
+            "2": 2.95
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nice-bordeaux-GCArBSXG/"
+    },
+    {
+        "date": "2019-01-12",
+        "team_1": "Amiens",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 15.83,
+            "X": 7.33,
+            "2": 1.2
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/amiens-sc-psg-hYuui7to/"
+    },
+    {
+        "date": "2019-01-11",
+        "team_1": "Lyon",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.4,
+            "X": 4.6,
+            "2": 7.87
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lyon-reims-KpHZCl34/"
+    },
+    {
+        "date": "2019-01-11",
+        "team_1": "Caen",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.8,
+            "X": 3.23,
+            "2": 2.08
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/caen-lille-fwKNFjJo/"
+    },
+    {
+        "date": "2019-01-08",
+        "team_1": "Amiens",
+        "team_2": "Angers",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.97,
+            "X": 2.93,
+            "2": 2.55
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/amiens-sc-angers-nacbrwbD/"
+    },
+    {
+        "date": "2019-01-08",
+        "team_1": "Nantes",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.33,
+            "X": 3.0,
+            "2": 3.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nantes-montpellier-hdIJoC45/"
+    },
+    {
+        "date": "2018-12-23",
+        "team_1": "Bordeaux",
+        "team_2": "Amiens",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.7,
+            "X": 3.38,
+            "2": 6.3
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/bordeaux-amiens-sc-Y9jt3DZu/"
+    },
+    {
+        "date": "2018-12-22",
+        "team_1": "Angers",
+        "team_2": "Marseille",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.72,
+            "X": 3.45,
+            "2": 1.98
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/angers-marseille-MyAzrU3U/"
+    },
+    {
+        "date": "2018-12-22",
+        "team_1": "Lille",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.59,
+            "X": 3.92,
+            "2": 5.63
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lille-toulouse-C0kp2Xln/"
+    },
+    {
+        "date": "2018-12-22",
+        "team_1": "Monaco",
+        "team_2": "Guingamp",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.98,
+            "X": 3.2,
+            "2": 3.97
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/monaco-guingamp-fPvk1i4h/"
+    },
+    {
+        "date": "2018-12-22",
+        "team_1": "Montpellier",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.43,
+            "X": 3.33,
+            "2": 2.1
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/montpellier-lyon-hAch0BJb/"
+    },
+    {
+        "date": "2018-12-22",
+        "team_1": "PSG",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.11,
+            "X": 9.67,
+            "2": 20.67
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/psg-nantes-nXddaVY4/"
+    },
+    {
+        "date": "2018-12-22",
+        "team_1": "Reims",
+        "team_2": "Caen",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.68,
+            "X": 3.38,
+            "2": 5.92
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/reims-caen-QNe0bklB/"
+    },
+    {
+        "date": "2018-12-22",
+        "team_1": "Rennes",
+        "team_2": "Nimes",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.74,
+            "X": 3.48,
+            "2": 4.75
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/rennes-nimes-raj5c93H/"
+    },
+    {
+        "date": "2018-12-22",
+        "team_1": "St Etienne",
+        "team_2": "Dijon",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.48,
+            "X": 4.32,
+            "2": 6.42
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/st-etienne-dijon-Mkk9dTIN/"
+    },
+    {
+        "date": "2018-12-22",
+        "team_1": "Strasbourg",
+        "team_2": "Nice",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.17,
+            "X": 3.1,
+            "2": 3.48
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/strasbourg-nice-GClDemYT/"
+    },
+    {
+        "date": "2018-12-18",
+        "team_1": "Caen",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.49,
+            "X": 3.03,
+            "2": 3.08
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/caen-toulouse-l4ys7MzE/"
+    },
+    {
+        "date": "2018-12-16",
+        "team_1": "Lyon",
+        "team_2": "Monaco",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.32,
+            "X": 5.5,
+            "2": 8.75
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lyon-monaco-Yg2ImYZh/"
+    },
+    {
+        "date": "2018-12-16",
+        "team_1": "Nice",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.17,
+            "X": 3.08,
+            "2": 3.55
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nice-st-etienne-nJHNpWJB/"
+    },
+    {
+        "date": "2018-12-16",
+        "team_1": "Nimes",
+        "team_2": "Lille",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.53,
+            "X": 3.23,
+            "2": 2.88
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nimes-lille-0MLRqjZH/"
+    },
+    {
+        "date": "2018-12-15",
+        "team_1": "Reims",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.27,
+            "X": 3.03,
+            "2": 3.67
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/reims-strasbourg-roBWrAlO/"
+    },
+    {
+        "date": "2018-12-09",
+        "team_1": "Lille",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.87,
+            "X": 3.18,
+            "2": 4.57
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lille-reims-hxM2g36E/"
+    },
+    {
+        "date": "2018-12-09",
+        "team_1": "Strasbourg",
+        "team_2": "Caen",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.71,
+            "X": 3.48,
+            "2": 5.2
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/strasbourg-caen-vZgjpaT0/"
+    },
+    {
+        "date": "2018-12-08",
+        "team_1": "Guingamp",
+        "team_2": "Amiens",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.95,
+            "X": 3.02,
+            "2": 4.3
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/guingamp-amiens-sc-EoNbfqi8/"
+    },
+    {
+        "date": "2018-12-08",
+        "team_1": "Rennes",
+        "team_2": "Dijon",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.5,
+            "X": 3.93,
+            "2": 6.4
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/rennes-dijon-IJ5snLbl/"
+    },
+    {
+        "date": "2018-12-05",
+        "team_1": "Strasbourg",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 7.0,
+            "X": 4.7,
+            "2": 1.36
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/strasbourg-psg-nuVCWua1/"
+    },
+    {
+        "date": "2018-12-05",
+        "team_1": "Bordeaux",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.63,
+            "X": 3.13,
+            "2": 2.83
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/bordeaux-st-etienne-00lIs672/"
+    },
+    {
+        "date": "2018-12-05",
+        "team_1": "Caen",
+        "team_2": "Nimes",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.83,
+            "X": 3.1,
+            "2": 2.67
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/caen-nimes-vimMtQM8/"
+    },
+    {
+        "date": "2018-12-05",
+        "team_1": "Dijon",
+        "team_2": "Guingamp",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.32,
+            "X": 3.22,
+            "2": 3.3
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/dijon-guingamp-YDnQupxF/"
+    },
+    {
+        "date": "2018-12-05",
+        "team_1": "Lyon",
+        "team_2": "Rennes",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.44,
+            "X": 4.65,
+            "2": 6.7
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lyon-rennes-nHjUv4iL/"
+    },
+    {
+        "date": "2018-12-05",
+        "team_1": "Nantes",
+        "team_2": "Marseille",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.07,
+            "X": 3.38,
+            "2": 2.31
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nantes-marseille-WlS0ZsFr/"
+    },
+    {
+        "date": "2018-12-05",
+        "team_1": "Reims",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.82,
+            "X": 3.43,
+            "2": 4.9
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/reims-toulouse-4Gu8XLqe/"
+    },
+    {
+        "date": "2018-12-04",
+        "team_1": "Montpellier",
+        "team_2": "Lille",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.18,
+            "X": 3.18,
+            "2": 3.55
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/montpellier-lille-UutZwO6R/"
+    },
+    {
+        "date": "2018-12-04",
+        "team_1": "Amiens",
+        "team_2": "Monaco",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.07,
+            "X": 3.25,
+            "2": 2.45
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/amiens-sc-monaco-Or5ZIMU1/"
+    },
+    {
+        "date": "2018-12-04",
+        "team_1": "Nice",
+        "team_2": "Angers",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.92,
+            "X": 3.25,
+            "2": 4.5
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nice-angers-QPt4Y1Ul/"
+    },
+    {
+        "date": "2018-12-02",
+        "team_1": "Bordeaux",
+        "team_2": "PSG",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 9.83,
+            "X": 5.83,
+            "2": 1.29
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/bordeaux-psg-jVUZUSNd/"
+    },
+    {
+        "date": "2018-12-02",
+        "team_1": "Marseille",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.45,
+            "X": 4.07,
+            "2": 8.0
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/marseille-reims-QmNnSQ7F/"
+    },
+    {
+        "date": "2018-12-02",
+        "team_1": "Rennes",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 1,
+            "2": 4
+        },
+        "odds": {
+            "1": 1.66,
+            "X": 3.8,
+            "2": 5.25
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/rennes-strasbourg-ve3NLOpq/"
+    },
+    {
+        "date": "2018-12-02",
+        "team_1": "Toulouse",
+        "team_2": "Dijon",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.91,
+            "X": 3.5,
+            "2": 4.0
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/toulouse-dijon-ph6VJ2Fe/"
+    },
+    {
+        "date": "2018-12-01",
+        "team_1": "Angers",
+        "team_2": "Caen",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.76,
+            "X": 3.35,
+            "2": 5.07
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/angers-caen-xSth6qod/"
+    },
+    {
+        "date": "2018-12-01",
+        "team_1": "Guingamp",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.98,
+            "X": 3.17,
+            "2": 2.4
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/guingamp-nice-4YYwUnw3/"
+    },
+    {
+        "date": "2018-12-01",
+        "team_1": "Monaco",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.63,
+            "X": 3.28,
+            "2": 2.73
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/monaco-montpellier-fNRjRpNL/"
+    },
+    {
+        "date": "2018-12-01",
+        "team_1": "Nimes",
+        "team_2": "Amiens",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.75,
+            "X": 3.4,
+            "2": 4.77
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nimes-amiens-sc-YDQfQ4xS/"
+    },
+    {
+        "date": "2018-12-01",
+        "team_1": "Lille",
+        "team_2": "Lyon",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.7,
+            "X": 3.47,
+            "2": 2.43
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lille-lyon-ncOrT6h9/"
+    },
+    {
+        "date": "2018-11-30",
+        "team_1": "St Etienne",
+        "team_2": "Nantes",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.88,
+            "X": 3.4,
+            "2": 4.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/st-etienne-nantes-jV6RKr0k/"
+    },
+    {
+        "date": "2018-11-25",
+        "team_1": "Amiens",
+        "team_2": "Marseille",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 5.0,
+            "X": 3.65,
+            "2": 1.75
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/amiens-sc-marseille-zwJJ9czi/"
+    },
+    {
+        "date": "2018-11-25",
+        "team_1": "Nice",
+        "team_2": "Lille",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.37,
+            "X": 3.12,
+            "2": 3.08
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nice-lille-MguLDRhM/"
+    },
+    {
+        "date": "2018-11-25",
+        "team_1": "Montpellier",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.19,
+            "X": 3.08,
+            "2": 3.45
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/montpellier-rennes-QRoCFmO9/"
+    },
+    {
+        "date": "2018-11-24",
+        "team_1": "Caen",
+        "team_2": "Monaco",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.05,
+            "X": 3.15,
+            "2": 2.47
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/caen-monaco-vBq0Ikvi/"
+    },
+    {
+        "date": "2018-11-24",
+        "team_1": "Dijon",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.9,
+            "X": 3.18,
+            "2": 2.5
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/dijon-bordeaux-I1r4H9gc/"
+    },
+    {
+        "date": "2018-11-24",
+        "team_1": "Nantes",
+        "team_2": "Angers",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 3.2,
+            "2": 4.0
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nantes-angers-8jyHE7wG/"
+    },
+    {
+        "date": "2018-11-24",
+        "team_1": "Reims",
+        "team_2": "Guingamp",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.98,
+            "X": 3.1,
+            "2": 4.4
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/reims-guingamp-IPQj85Gq/"
+    },
+    {
+        "date": "2018-11-24",
+        "team_1": "Strasbourg",
+        "team_2": "Nimes",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.1,
+            "X": 3.28,
+            "2": 3.6
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/strasbourg-nimes-byrl7PVk/"
+    },
+    {
+        "date": "2018-11-24",
+        "team_1": "PSG",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.09,
+            "X": 9.83,
+            "2": 21.33
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/psg-toulouse-GGvPCo8S/"
+    },
+    {
+        "date": "2018-11-23",
+        "team_1": "Lyon",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.52,
+            "X": 4.13,
+            "2": 5.72
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lyon-st-etienne-nym8GT83/"
+    },
+    {
+        "date": "2018-11-11",
+        "team_1": "Monaco",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 4
+        },
+        "odds": {
+            "1": 15.0,
+            "X": 8.25,
+            "2": 1.17
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/monaco-psg-xh0GAwLp/"
+    },
+    {
+        "date": "2018-11-11",
+        "team_1": "Marseille",
+        "team_2": "Dijon",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.24,
+            "X": 5.43,
+            "2": 9.33
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/marseille-dijon-GGpWVmig/"
+    },
+    {
+        "date": "2018-11-11",
+        "team_1": "Rennes",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.16,
+            "X": 3.25,
+            "2": 3.48
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/rennes-nantes-lUrvURL5/"
+    },
+    {
+        "date": "2018-11-11",
+        "team_1": "Bordeaux",
+        "team_2": "Caen",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.6,
+            "X": 3.87,
+            "2": 5.67
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/bordeaux-caen-Iu5exjEP/"
+    },
+    {
+        "date": "2018-11-10",
+        "team_1": "Angers",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.8,
+            "X": 3.03,
+            "2": 2.75
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/angers-montpellier-jZGDD6yP/"
+    },
+    {
+        "date": "2018-11-10",
+        "team_1": "Nimes",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.42,
+            "X": 3.27,
+            "2": 3.02
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nimes-nice-AwpzV76a/"
+    },
+    {
+        "date": "2018-11-10",
+        "team_1": "St Etienne",
+        "team_2": "Reims",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.78,
+            "X": 3.5,
+            "2": 4.67
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/st-etienne-reims-65wqToyC/"
+    },
+    {
+        "date": "2018-11-10",
+        "team_1": "Toulouse",
+        "team_2": "Amiens",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.13,
+            "X": 3.07,
+            "2": 3.67
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/toulouse-amiens-sc-pdxmS5jI/"
+    },
+    {
+        "date": "2018-11-10",
+        "team_1": "Guingamp",
+        "team_2": "Lyon",
+        "score": {
+            "1": 2,
+            "2": 4
+        },
+        "odds": {
+            "1": 5.2,
+            "X": 3.9,
+            "2": 1.66
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/guingamp-lyon-KliNX9Mt/"
+    },
+    {
+        "date": "2018-11-09",
+        "team_1": "Lille",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.7,
+            "X": 3.67,
+            "2": 5.2
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lille-strasbourg-2DtSWTym/"
+    },
+    {
+        "date": "2018-11-04",
+        "team_1": "Montpellier",
+        "team_2": "Marseille",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.92,
+            "X": 3.22,
+            "2": 2.45
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/montpellier-marseille-nyXqKjhs/"
+    },
+    {
+        "date": "2018-11-04",
+        "team_1": "St Etienne",
+        "team_2": "Angers",
+        "score": {
+            "1": 4,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.86,
+            "X": 3.52,
+            "2": 4.37
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/st-etienne-angers-UJS4FS6C/"
+    },
+    {
+        "date": "2018-11-04",
+        "team_1": "Nantes",
+        "team_2": "Guingamp",
+        "score": {
+            "1": 5,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.68,
+            "X": 3.6,
+            "2": 5.48
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nantes-guingamp-QRVmJA7m/"
+    },
+    {
+        "date": "2018-11-03",
+        "team_1": "Caen",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.6,
+            "X": 3.17,
+            "2": 2.13
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/caen-rennes-GG2V0TiJ/"
+    },
+    {
+        "date": "2018-11-03",
+        "team_1": "Dijon",
+        "team_2": "Nimes",
+        "score": {
+            "1": 0,
+            "2": 4
+        },
+        "odds": {
+            "1": 2.32,
+            "X": 3.4,
+            "2": 2.97
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/dijon-nimes-ILtEPCUJ/"
+    },
+    {
+        "date": "2018-11-03",
+        "team_1": "Nice",
+        "team_2": "Amiens",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.67,
+            "X": 3.48,
+            "2": 5.47
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nice-amiens-sc-r3QhIUMg/"
+    },
+    {
+        "date": "2018-11-03",
+        "team_1": "Reims",
+        "team_2": "Monaco",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.42,
+            "X": 3.3,
+            "2": 2.9
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/reims-monaco-GGO0G8i6/"
+    },
+    {
+        "date": "2018-11-03",
+        "team_1": "Strasbourg",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.83,
+            "X": 3.5,
+            "2": 4.3
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/strasbourg-toulouse-CrI9EnMI/"
+    },
+    {
+        "date": "2018-11-03",
+        "team_1": "Lyon",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.37,
+            "X": 4.8,
+            "2": 8.2
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lyon-bordeaux-UepIOWqQ/"
+    },
+    {
+        "date": "2018-11-02",
+        "team_1": "PSG",
+        "team_2": "Lille",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.17,
+            "X": 7.5,
+            "2": 15.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/psg-lille-MgPdHlx0/"
+    },
+    {
+        "date": "2018-10-28",
+        "team_1": "Marseille",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 5.87,
+            "X": 4.5,
+            "2": 1.51
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/marseille-psg-xQ3R19xD/"
+    },
+    {
+        "date": "2018-10-28",
+        "team_1": "Bordeaux",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.35,
+            "X": 3.18,
+            "2": 3.12
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/bordeaux-nice-AukrCg0K/"
+    },
+    {
+        "date": "2018-10-28",
+        "team_1": "Rennes",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.71,
+            "X": 3.48,
+            "2": 5.28
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/rennes-reims-Ua0J3V70/"
+    },
+    {
+        "date": "2018-10-27",
+        "team_1": "Amiens",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.1,
+            "X": 3.07,
+            "2": 2.5
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/amiens-sc-nantes-Io2dlj8D/"
+    },
+    {
+        "date": "2018-10-27",
+        "team_1": "Guingamp",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.35,
+            "X": 3.2,
+            "2": 3.12
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/guingamp-strasbourg-x2LvBDFQ/"
+    },
+    {
+        "date": "2018-10-27",
+        "team_1": "Lille",
+        "team_2": "Caen",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.54,
+            "X": 3.82,
+            "2": 7.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lille-caen-vB766XNs/"
+    },
+    {
+        "date": "2018-10-27",
+        "team_1": "Monaco",
+        "team_2": "Dijon",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.62,
+            "X": 4.1,
+            "2": 5.07
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/monaco-dijon-YX6A5iwl/"
+    },
+    {
+        "date": "2018-10-27",
+        "team_1": "Toulouse",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.08,
+            "X": 3.05,
+            "2": 2.48
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/toulouse-montpellier-8jaN2kN6/"
+    },
+    {
+        "date": "2018-10-27",
+        "team_1": "Angers",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.8,
+            "X": 3.63,
+            "2": 1.85
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/angers-lyon-WljvDZpE/"
+    },
+    {
+        "date": "2018-10-26",
+        "team_1": "Nimes",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.76,
+            "X": 3.3,
+            "2": 2.6
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nimes-st-etienne-nyBE4Bhf/"
+    },
+    {
+        "date": "2018-10-21",
+        "team_1": "Nice",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.1,
+            "X": 3.6,
+            "2": 2.22
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nice-marseille-z36ygEgr/"
+    },
+    {
+        "date": "2018-10-21",
+        "team_1": "St Etienne",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.17,
+            "X": 3.25,
+            "2": 3.42
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/st-etienne-rennes-MJ8mjCw1/"
+    },
+    {
+        "date": "2018-10-21",
+        "team_1": "Montpellier",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.03,
+            "X": 3.15,
+            "2": 4.07
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/montpellier-bordeaux-IoQ4bzWK/"
+    },
+    {
+        "date": "2018-10-20",
+        "team_1": "Caen",
+        "team_2": "Guingamp",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.1,
+            "X": 3.23,
+            "2": 3.47
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/caen-guingamp-8GrEyDO7/"
+    },
+    {
+        "date": "2018-10-20",
+        "team_1": "Dijon",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.27,
+            "X": 3.5,
+            "2": 2.13
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/dijon-lille-pYRd0d18/"
+    },
+    {
+        "date": "2018-10-20",
+        "team_1": "Nantes",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.95,
+            "X": 3.3,
+            "2": 4.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nantes-toulouse-ULT8cfoR/"
+    },
+    {
+        "date": "2018-10-20",
+        "team_1": "Reims",
+        "team_2": "Angers",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.23,
+            "X": 3.0,
+            "2": 3.7
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/reims-angers-rT9qihOf/"
+    },
+    {
+        "date": "2018-10-20",
+        "team_1": "Strasbourg",
+        "team_2": "Monaco",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.55,
+            "X": 3.43,
+            "2": 2.6
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/strasbourg-monaco-4rbhkWh7/"
+    },
+    {
+        "date": "2018-10-20",
+        "team_1": "PSG",
+        "team_2": "Amiens",
+        "score": {
+            "1": 5,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.08,
+            "X": 11.0,
+            "2": 27.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/psg-amiens-sc-Eg5uhY8l/"
+    },
+    {
+        "date": "2018-10-19",
+        "team_1": "Lyon",
+        "team_2": "Nimes",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.29,
+            "X": 5.7,
+            "2": 9.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lyon-nimes-OOQ0aGGE/"
+    },
+    {
+        "date": "2018-10-07",
+        "team_1": "PSG",
+        "team_2": "Lyon",
+        "score": {
+            "1": 5,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.25,
+            "X": 6.78,
+            "2": 10.33
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/psg-lyon-UPqAxg91/"
+    },
+    {
+        "date": "2018-10-07",
+        "team_1": "Marseille",
+        "team_2": "Caen",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.36,
+            "X": 4.93,
+            "2": 8.58
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/marseille-caen-2BTTdNfG/"
+    },
+    {
+        "date": "2018-10-07",
+        "team_1": "Monaco",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.07,
+            "X": 3.42,
+            "2": 3.57
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/monaco-rennes-vyicuePr/"
+    },
+    {
+        "date": "2018-10-07",
+        "team_1": "Bordeaux",
+        "team_2": "Nantes",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.33,
+            "X": 3.07,
+            "2": 3.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/bordeaux-nantes-YVuHaPAc/"
+    },
+    {
+        "date": "2018-10-06",
+        "team_1": "Amiens",
+        "team_2": "Dijon",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.3,
+            "X": 3.2,
+            "2": 3.18
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/amiens-sc-dijon-6PmVyMIj/"
+    },
+    {
+        "date": "2018-10-06",
+        "team_1": "Angers",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.25,
+            "X": 3.2,
+            "2": 3.28
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/angers-strasbourg-KSyD05ei/"
+    },
+    {
+        "date": "2018-10-06",
+        "team_1": "Guingamp",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.05,
+            "X": 3.0,
+            "2": 2.48
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/guingamp-montpellier-GfVLbqQ3/"
+    },
+    {
+        "date": "2018-10-06",
+        "team_1": "Nimes",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.35,
+            "X": 3.25,
+            "2": 3.0
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nimes-reims-Mat2vFvk/"
+    },
+    {
+        "date": "2018-10-06",
+        "team_1": "Lille",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.91,
+            "X": 3.42,
+            "2": 3.93
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lille-st-etienne-foUPc3uA/"
+    },
+    {
+        "date": "2018-10-05",
+        "team_1": "Toulouse",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.25,
+            "X": 3.25,
+            "2": 3.25
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/toulouse-nice-z3p6wZge/"
+    },
+    {
+        "date": "2018-09-30",
+        "team_1": "Lille",
+        "team_2": "Marseille",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.87,
+            "X": 3.43,
+            "2": 2.47
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lille-marseille-QiczmnRi/"
+    },
+    {
+        "date": "2018-09-30",
+        "team_1": "Montpellier",
+        "team_2": "Nimes",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.95,
+            "X": 3.25,
+            "2": 4.3
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/montpellier-nimes-YH0roQe4/"
+    },
+    {
+        "date": "2018-09-30",
+        "team_1": "Rennes",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.82,
+            "X": 3.57,
+            "2": 4.5
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/rennes-toulouse-8l8frOuN/"
+    },
+    {
+        "date": "2018-09-29",
+        "team_1": "Angers",
+        "team_2": "Guingamp",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.96,
+            "X": 3.23,
+            "2": 4.1
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/angers-guingamp-pdKmPrZp/"
+    },
+    {
+        "date": "2018-09-29",
+        "team_1": "Caen",
+        "team_2": "Amiens",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.18,
+            "X": 3.05,
+            "2": 3.6
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/caen-amiens-sc-n1bWmSBo/"
+    },
+    {
+        "date": "2018-09-29",
+        "team_1": "Lyon",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.25,
+            "X": 5.77,
+            "2": 11.0
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lyon-nantes-fR1vn6tb/"
+    },
+    {
+        "date": "2018-09-29",
+        "team_1": "Reims",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.28,
+            "X": 3.1,
+            "2": 3.33
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/reims-bordeaux-ER8jq4QG/"
+    },
+    {
+        "date": "2018-09-29",
+        "team_1": "Strasbourg",
+        "team_2": "Dijon",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 3.6,
+            "2": 4.2
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/strasbourg-dijon-SYlRx23p/"
+    },
+    {
+        "date": "2018-09-29",
+        "team_1": "Nice",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 9.5,
+            "X": 6.0,
+            "2": 1.29
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nice-psg-GtjmppBA/"
+    },
+    {
+        "date": "2018-09-28",
+        "team_1": "St Etienne",
+        "team_2": "Monaco",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.88,
+            "X": 3.6,
+            "2": 3.8
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/st-etienne-monaco-nu7bsreT/"
+    },
+    {
+        "date": "2018-09-26",
+        "team_1": "PSG",
+        "team_2": "Reims",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.09,
+            "X": 9.5,
+            "2": 21.33
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/psg-reims-EDTHU4BN/"
+    },
+    {
+        "date": "2018-09-26",
+        "team_1": "Amiens",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.27,
+            "X": 3.13,
+            "2": 2.3
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/amiens-sc-rennes-z7tjG5dU/"
+    },
+    {
+        "date": "2018-09-26",
+        "team_1": "Bordeaux",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.43,
+            "X": 3.15,
+            "2": 2.93
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/bordeaux-lille-nuNeykSu/"
+    },
+    {
+        "date": "2018-09-26",
+        "team_1": "Caen",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.1,
+            "X": 2.93,
+            "2": 2.53
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/caen-montpellier-QVLaz9sn/"
+    },
+    {
+        "date": "2018-09-26",
+        "team_1": "Dijon",
+        "team_2": "Lyon",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 5.4,
+            "X": 4.3,
+            "2": 1.53
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/dijon-lyon-8fB4ZSdh/"
+    },
+    {
+        "date": "2018-09-26",
+        "team_1": "Marseille",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.36,
+            "X": 4.7,
+            "2": 8.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/marseille-strasbourg-McF8YnCb/"
+    },
+    {
+        "date": "2018-09-26",
+        "team_1": "Nimes",
+        "team_2": "Guingamp",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.86,
+            "X": 3.4,
+            "2": 3.93
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nimes-guingamp-zNUDVpdH/"
+    },
+    {
+        "date": "2018-09-25",
+        "team_1": "Toulouse",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.46,
+            "X": 3.1,
+            "2": 2.93
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/toulouse-st-etienne-8zTLTOQT/"
+    },
+    {
+        "date": "2018-09-25",
+        "team_1": "Monaco",
+        "team_2": "Angers",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.65,
+            "X": 3.78,
+            "2": 5.5
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/monaco-angers-GKECX6R4/"
+    },
+    {
+        "date": "2018-09-25",
+        "team_1": "Nantes",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.25,
+            "X": 3.25,
+            "2": 3.2
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nantes-nice-fBDGWQtB/"
+    },
+    {
+        "date": "2018-09-23",
+        "team_1": "Lyon",
+        "team_2": "Marseille",
+        "score": {
+            "1": 4,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.85,
+            "X": 3.87,
+            "2": 3.93
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lyon-marseille-dGsnHosO/"
+    },
+    {
+        "date": "2018-09-23",
+        "team_1": "Guingamp",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.5,
+            "X": 3.17,
+            "2": 2.78
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/guingamp-bordeaux-2g6jSBkP/"
+    },
+    {
+        "date": "2018-09-23",
+        "team_1": "Rennes",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 9.5,
+            "X": 5.78,
+            "2": 1.28
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/rennes-psg-8fkZJmc5/"
+    },
+    {
+        "date": "2018-09-22",
+        "team_1": "Angers",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.23,
+            "X": 3.33,
+            "2": 3.23
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/angers-toulouse-0lS73SCO/"
+    },
+    {
+        "date": "2018-09-22",
+        "team_1": "Montpellier",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.37,
+            "X": 3.15,
+            "2": 3.2
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/montpellier-nice-CSeQL9Sh/"
+    },
+    {
+        "date": "2018-09-22",
+        "team_1": "Reims",
+        "team_2": "Dijon",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.05,
+            "X": 3.32,
+            "2": 3.63
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/reims-dijon-U3jVKTsa/"
+    },
+    {
+        "date": "2018-09-22",
+        "team_1": "St Etienne",
+        "team_2": "Caen",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.52,
+            "X": 3.87,
+            "2": 6.7
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/st-etienne-caen-2HlwJ7CB/"
+    },
+    {
+        "date": "2018-09-22",
+        "team_1": "Strasbourg",
+        "team_2": "Amiens",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.82,
+            "X": 3.4,
+            "2": 4.75
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/strasbourg-amiens-sc-EihsIRRH/"
+    },
+    {
+        "date": "2018-09-22",
+        "team_1": "Lille",
+        "team_2": "Nantes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.84,
+            "X": 3.5,
+            "2": 4.47
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lille-nantes-vFcINVct/"
+    },
+    {
+        "date": "2018-09-21",
+        "team_1": "Monaco",
+        "team_2": "Nimes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.92,
+            "X": 3.35,
+            "2": 3.9
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/monaco-nimes-YycMMkDn/"
+    },
+    {
+        "date": "2018-09-16",
+        "team_1": "Marseille",
+        "team_2": "Guingamp",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.23,
+            "X": 6.17,
+            "2": 10.83
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/marseille-guingamp-bsNq9Wrm/"
+    },
+    {
+        "date": "2018-09-16",
+        "team_1": "Bordeaux",
+        "team_2": "Nimes",
+        "score": {
+            "1": 3,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.81,
+            "X": 3.57,
+            "2": 4.55
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/bordeaux-nimes-Qk67SKq8/"
+    },
+    {
+        "date": "2018-09-16",
+        "team_1": "Nantes",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.07,
+            "X": 3.22,
+            "2": 3.67
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nantes-reims-67Qi7ADa/"
+    },
+    {
+        "date": "2018-09-15",
+        "team_1": "Amiens",
+        "team_2": "Lille",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.22,
+            "X": 3.2,
+            "2": 2.23
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/amiens-sc-lille-CnIP3y77/"
+    },
+    {
+        "date": "2018-09-15",
+        "team_1": "Dijon",
+        "team_2": "Angers",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.13,
+            "X": 3.37,
+            "2": 3.27
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/dijon-angers-KjOuACTt/"
+    },
+    {
+        "date": "2018-09-15",
+        "team_1": "Montpellier",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.85,
+            "X": 3.32,
+            "2": 4.43
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/montpellier-strasbourg-h4Mm8jbg/"
+    },
+    {
+        "date": "2018-09-15",
+        "team_1": "Toulouse",
+        "team_2": "Monaco",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.52,
+            "X": 3.4,
+            "2": 2.6
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/toulouse-monaco-McT348cI/"
+    },
+    {
+        "date": "2018-09-15",
+        "team_1": "Caen",
+        "team_2": "Lyon",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 6.07,
+            "X": 4.23,
+            "2": 1.48
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/caen-lyon-4t5BRvaE/"
+    },
+    {
+        "date": "2018-09-14",
+        "team_1": "PSG",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.19,
+            "X": 6.67,
+            "2": 12.67
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/psg-st-etienne-SME05lrC/"
+    },
+    {
+        "date": "2018-09-14",
+        "team_1": "Nice",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.55,
+            "X": 3.22,
+            "2": 2.78
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nice-rennes-lWFd6US5/"
+    },
+    {
+        "date": "2018-09-02",
+        "team_1": "Monaco",
+        "team_2": "Marseille",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.76,
+            "X": 3.65,
+            "2": 2.33
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/monaco-marseille-0CEL4Hi1/"
+    },
+    {
+        "date": "2018-09-02",
+        "team_1": "Rennes",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 3.23,
+            "2": 3.87
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/rennes-bordeaux-ANL87J7r/"
+    },
+    {
+        "date": "2018-09-02",
+        "team_1": "St Etienne",
+        "team_2": "Amiens",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.62,
+            "X": 3.53,
+            "2": 6.03
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/st-etienne-amiens-sc-vcQC6wNl/"
+    },
+    {
+        "date": "2018-09-01",
+        "team_1": "Angers",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.62,
+            "X": 3.3,
+            "2": 2.65
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/angers-lille-xEki7kd2/"
+    },
+    {
+        "date": "2018-09-01",
+        "team_1": "Dijon",
+        "team_2": "Caen",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 3.5,
+            "2": 4.62
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/dijon-caen-vZsQFs02/"
+    },
+    {
+        "date": "2018-09-01",
+        "team_1": "Guingamp",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.08,
+            "X": 3.4,
+            "2": 3.5
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/guingamp-toulouse-IPtUE1F8/"
+    },
+    {
+        "date": "2018-09-01",
+        "team_1": "Reims",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.78,
+            "X": 3.03,
+            "2": 2.73
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/reims-montpellier-8EZtCaaR/"
+    },
+    {
+        "date": "2018-09-01",
+        "team_1": "Strasbourg",
+        "team_2": "Nantes",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.05,
+            "X": 3.35,
+            "2": 3.75
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/strasbourg-nantes-ImPG5cxe/"
+    },
+    {
+        "date": "2018-09-01",
+        "team_1": "Nimes",
+        "team_2": "PSG",
+        "score": {
+            "1": 2,
+            "2": 4
+        },
+        "odds": {
+            "1": 13.0,
+            "X": 7.33,
+            "2": 1.19
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nimes-psg-QkpxDupL/"
+    },
+    {
+        "date": "2018-08-31",
+        "team_1": "Lyon",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.33,
+            "X": 5.35,
+            "2": 9.0
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lyon-nice-CntYDLUE/"
+    },
+    {
+        "date": "2018-08-26",
+        "team_1": "Marseille",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.43,
+            "X": 4.7,
+            "2": 6.67
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/marseille-rennes-xj74GgZF/"
+    },
+    {
+        "date": "2018-08-26",
+        "team_1": "Bordeaux",
+        "team_2": "Monaco",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.86,
+            "X": 3.4,
+            "2": 2.43
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/bordeaux-monaco-Ik0hJekc/"
+    },
+    {
+        "date": "2018-08-26",
+        "team_1": "Lille",
+        "team_2": "Guingamp",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.9,
+            "X": 3.6,
+            "2": 4.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lille-guingamp-GzJeIF43/"
+    },
+    {
+        "date": "2018-08-25",
+        "team_1": "Amiens",
+        "team_2": "Reims",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.05,
+            "X": 3.05,
+            "2": 2.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/amiens-sc-reims-4nCAfCCd/"
+    },
+    {
+        "date": "2018-08-25",
+        "team_1": "Montpellier",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.3,
+            "X": 3.17,
+            "2": 3.23
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/montpellier-st-etienne-6PB8FDlM/"
+    },
+    {
+        "date": "2018-08-25",
+        "team_1": "Nantes",
+        "team_2": "Caen",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.92,
+            "X": 3.18,
+            "2": 4.53
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nantes-caen-pGACEX3S/"
+    },
+    {
+        "date": "2018-08-25",
+        "team_1": "Nice",
+        "team_2": "Dijon",
+        "score": {
+            "1": 0,
+            "2": 4
+        },
+        "odds": {
+            "1": 1.83,
+            "X": 3.6,
+            "2": 4.35
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nice-dijon-jcmuAiCq/"
+    },
+    {
+        "date": "2018-08-25",
+        "team_1": "Toulouse",
+        "team_2": "Nimes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.42,
+            "X": 3.4,
+            "2": 2.82
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/toulouse-nimes-bNjm8Vtd/"
+    },
+    {
+        "date": "2018-08-25",
+        "team_1": "PSG",
+        "team_2": "Angers",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.07,
+            "X": 11.33,
+            "2": 32.33
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/psg-angers-40iq9BRk/"
+    },
+    {
+        "date": "2018-08-24",
+        "team_1": "Lyon",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.26,
+            "X": 5.33,
+            "2": 10.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lyon-strasbourg-ba80HZJ9/"
+    },
+    {
+        "date": "2018-08-19",
+        "team_1": "Nimes",
+        "team_2": "Marseille",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.9,
+            "X": 4.07,
+            "2": 1.65
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nimes-marseille-boTR2z5G/"
+    },
+    {
+        "date": "2018-08-19",
+        "team_1": "Toulouse",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.4,
+            "X": 3.08,
+            "2": 3.15
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/toulouse-bordeaux-QeD6ehcj/"
+    },
+    {
+        "date": "2018-08-19",
+        "team_1": "Strasbourg",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.83,
+            "X": 3.25,
+            "2": 2.52
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/strasbourg-st-etienne-8KI1dYsp/"
+    },
+    {
+        "date": "2018-08-18",
+        "team_1": "Amiens",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.17,
+            "X": 2.95,
+            "2": 2.42
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/amiens-sc-montpellier-lA2SsZSj/"
+    },
+    {
+        "date": "2018-08-18",
+        "team_1": "Caen",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.81,
+            "X": 3.1,
+            "2": 2.62
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/caen-nice-jFtB6I5i/"
+    },
+    {
+        "date": "2018-08-18",
+        "team_1": "Dijon",
+        "team_2": "Nantes",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.46,
+            "X": 3.32,
+            "2": 2.77
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/dijon-nantes-U5uF5xLc/"
+    },
+    {
+        "date": "2018-08-18",
+        "team_1": "Monaco",
+        "team_2": "Lille",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.59,
+            "X": 4.15,
+            "2": 5.37
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/monaco-lille-GMwN3GkA/"
+    },
+    {
+        "date": "2018-08-18",
+        "team_1": "Rennes",
+        "team_2": "Angers",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.85,
+            "X": 3.4,
+            "2": 4.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/rennes-angers-6BWZ0EZS/"
+    },
+    {
+        "date": "2018-08-18",
+        "team_1": "Guingamp",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 13.25,
+            "X": 6.63,
+            "2": 1.2
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/guingamp-psg-xWvJ4dz4/"
+    },
+    {
+        "date": "2018-08-17",
+        "team_1": "Reims",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 5.2,
+            "X": 4.2,
+            "2": 1.58
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/reims-lyon-ClXV1fKM/"
+    },
+    {
+        "date": "2018-08-12",
+        "team_1": "PSG",
+        "team_2": "Caen",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.08,
+            "X": 12.5,
+            "2": 31.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/psg-caen-Mo33uXm9/"
+    },
+    {
+        "date": "2018-08-12",
+        "team_1": "Bordeaux",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.77,
+            "X": 3.5,
+            "2": 4.83
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/bordeaux-strasbourg-rL3ZhV0B/"
+    },
+    {
+        "date": "2018-08-12",
+        "team_1": "Lyon",
+        "team_2": "Amiens",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.2,
+            "X": 6.42,
+            "2": 14.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lyon-amiens-sc-xML7zNpp/"
+    },
+    {
+        "date": "2018-08-11",
+        "team_1": "Angers",
+        "team_2": "Nimes",
+        "score": {
+            "1": 3,
+            "2": 4
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 3.18,
+            "2": 3.37
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/angers-nimes-4U4VgBo5/"
+    },
+    {
+        "date": "2018-08-11",
+        "team_1": "Lille",
+        "team_2": "Rennes",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.62,
+            "X": 3.17,
+            "2": 2.73
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/lille-rennes-0dbvhkGH/"
+    },
+    {
+        "date": "2018-08-11",
+        "team_1": "Montpellier",
+        "team_2": "Dijon",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.69,
+            "X": 3.58,
+            "2": 5.37
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/montpellier-dijon-pnPFY0Fd/"
+    },
+    {
+        "date": "2018-08-11",
+        "team_1": "Nice",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.79,
+            "X": 3.52,
+            "2": 4.63
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nice-reims-SAl0tDY2/"
+    },
+    {
+        "date": "2018-08-11",
+        "team_1": "St Etienne",
+        "team_2": "Guingamp",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.7,
+            "X": 3.63,
+            "2": 5.13
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/st-etienne-guingamp-0x27vi3F/"
+    },
+    {
+        "date": "2018-08-11",
+        "team_1": "Nantes",
+        "team_2": "Monaco",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.5,
+            "X": 3.27,
+            "2": 2.75
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/nantes-monaco-lKkdsgJd/"
+    },
+    {
+        "date": "2018-08-10",
+        "team_1": "Marseille",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.38,
+            "X": 4.67,
+            "2": 8.33
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2018-2019/marseille-toulouse-WrLBZt0j/"
+    }
+]

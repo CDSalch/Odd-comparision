@@ -1,0 +1,1522 @@
+[
+    {
+        "date": "2007-05-26",
+        "team_1": "Lille",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.9,
+            "X": 3.1,
+            "2": 2.29
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/lille-rennes-UTCL9CHn/"
+    },
+    {
+        "date": "2007-05-19",
+        "team_1": "Auxerre",
+        "team_2": "Lille",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.15,
+            "X": 3.2,
+            "2": 3.1
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/auxerre-lille-KSrgE13E/"
+    },
+    {
+        "date": "2007-05-19",
+        "team_1": "Le Mans",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.75,
+            "X": 3.0,
+            "2": 2.5
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/le-mans-bordeaux-EkrcDLIK/"
+    },
+    {
+        "date": "2007-05-19",
+        "team_1": "Lens",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.65,
+            "X": 3.2,
+            "2": 5.5
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/lens-nice-Shn1CuYQ/"
+    },
+    {
+        "date": "2007-05-19",
+        "team_1": "Monaco",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.95,
+            "X": 2.9,
+            "2": 2.4
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/monaco-lyon-YZOT7atr/"
+    },
+    {
+        "date": "2007-05-19",
+        "team_1": "Nancy",
+        "team_2": "Sochaux",
+        "score": {
+            "1": 5,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.29,
+            "X": 3.1,
+            "2": 2.9
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/nancy-sochaux-Grnt7Jel/"
+    },
+    {
+        "date": "2007-05-19",
+        "team_1": "Nantes",
+        "team_2": "Toulouse",
+        "score": {
+            "1": null,
+            "2": null
+        },
+        "odds": {
+            "1": 2.8,
+            "X": 3.05,
+            "2": 2.4
+        },
+        "winner": null,
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/nantes-toulouse-pIjp6wBf/"
+    },
+    {
+        "date": "2007-05-19",
+        "team_1": "PSG",
+        "team_2": "Troyes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.85,
+            "X": 3.25,
+            "2": 3.95
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/psg-troyes-vilBgKte/"
+    },
+    {
+        "date": "2007-05-19",
+        "team_1": "Rennes",
+        "team_2": "Lorient",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.75,
+            "X": 3.25,
+            "2": 4.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/rennes-lorient-YDmFhvd1/"
+    },
+    {
+        "date": "2007-05-19",
+        "team_1": "Sedan",
+        "team_2": "Valenciennes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 2.95,
+            "2": 3.25
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/sedan-valenciennes-txpkFsl8/"
+    },
+    {
+        "date": "2007-05-19",
+        "team_1": "St Etienne",
+        "team_2": "Marseille",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.85,
+            "X": 2.95,
+            "2": 2.4
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/st-etienne-marseille-C4nJibB7/"
+    },
+    {
+        "date": "2007-05-10",
+        "team_1": "Toulouse",
+        "team_2": "Le Mans",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.65,
+            "X": 3.25,
+            "2": 5.0
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/toulouse-le-mans-Qmp7f0Rl/"
+    },
+    {
+        "date": "2007-05-09",
+        "team_1": "Lyon",
+        "team_2": "Lens",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 3.3,
+            "2": 4.15
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/lyon-lens-rPf2etCr/"
+    },
+    {
+        "date": "2007-05-09",
+        "team_1": "Bordeaux",
+        "team_2": "Nantes",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.4,
+            "X": 3.8,
+            "2": 8.0
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/bordeaux-nantes-lOYB3442/"
+    },
+    {
+        "date": "2007-05-09",
+        "team_1": "Lille",
+        "team_2": "Sedan",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 3.15,
+            "2": 4.34
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/lille-sedan-n9iF2OJ8/"
+    },
+    {
+        "date": "2007-05-09",
+        "team_1": "Lorient",
+        "team_2": "Auxerre",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.29,
+            "X": 2.95,
+            "2": 3.05
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/lorient-auxerre-UXtK1rZE/"
+    },
+    {
+        "date": "2007-05-09",
+        "team_1": "Marseille",
+        "team_2": "Nancy",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.4,
+            "X": 3.85,
+            "2": 7.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/marseille-nancy-8OuO02lL/"
+    },
+    {
+        "date": "2007-05-09",
+        "team_1": "Nice",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.4,
+            "X": 2.9,
+            "2": 2.95
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/nice-psg-xbpSaM3R/"
+    },
+    {
+        "date": "2007-05-09",
+        "team_1": "Troyes",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.45,
+            "X": 3.2,
+            "2": 2.65
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/troyes-rennes-hCNHu1Ce/"
+    },
+    {
+        "date": "2007-05-09",
+        "team_1": "Valenciennes",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 2.9,
+            "2": 3.3
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/valenciennes-st-etienne-W2MLvLR1/"
+    },
+    {
+        "date": "2007-05-09",
+        "team_1": "Sochaux",
+        "team_2": "Monaco",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.15,
+            "X": 3.05,
+            "2": 3.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/sochaux-monaco-zyTCtsck/"
+    },
+    {
+        "date": "2007-05-06",
+        "team_1": "St Etienne",
+        "team_2": "Lille",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.1,
+            "X": 2.95,
+            "2": 3.4
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/st-etienne-lille-v5ssn3ZR/"
+    },
+    {
+        "date": "2007-05-05",
+        "team_1": "Auxerre",
+        "team_2": "Troyes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 3.2,
+            "2": 4.2
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/auxerre-troyes-EDSDjRKd/"
+    },
+    {
+        "date": "2007-05-05",
+        "team_1": "Le Mans",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 3.3,
+            "2": 4.09
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/le-mans-nantes-h4RHkoz3/"
+    },
+    {
+        "date": "2007-05-05",
+        "team_1": "Lens",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.75,
+            "X": 3.15,
+            "2": 4.59
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/lens-toulouse-0UQLl5k9/"
+    },
+    {
+        "date": "2007-05-05",
+        "team_1": "Nancy",
+        "team_2": "Nice",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.25,
+            "X": 2.9,
+            "2": 3.2
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/nancy-nice-vLPPmP4F/"
+    },
+    {
+        "date": "2007-05-05",
+        "team_1": "Rennes",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.15,
+            "X": 3.0,
+            "2": 3.25
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/rennes-bordeaux-MqFUnqKL/"
+    },
+    {
+        "date": "2007-05-05",
+        "team_1": "Sedan",
+        "team_2": "Lorient",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.15,
+            "X": 3.1,
+            "2": 3.2
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/sedan-lorient-hKZKrF1j/"
+    },
+    {
+        "date": "2007-05-05",
+        "team_1": "Sochaux",
+        "team_2": "Valenciennes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 3.2,
+            "2": 4.3
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/sochaux-valenciennes-6NwPsZGd/"
+    },
+    {
+        "date": "2007-04-29",
+        "team_1": "Marseille",
+        "team_2": "Sochaux",
+        "score": {
+            "1": 4,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 3.1,
+            "2": 4.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/marseille-sochaux-dllklyvT/"
+    },
+    {
+        "date": "2007-04-29",
+        "team_1": "Bordeaux",
+        "team_2": "Lens",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 2.95,
+            "2": 3.7
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/bordeaux-lens-vDgpkHOM/"
+    },
+    {
+        "date": "2007-04-28",
+        "team_1": "Lorient",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 2.95,
+            "2": 3.2
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/lorient-st-etienne-8rvLhaPc/"
+    },
+    {
+        "date": "2007-04-28",
+        "team_1": "Lyon",
+        "team_2": "Le Mans",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.4,
+            "X": 3.8,
+            "2": 8.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/lyon-le-mans-j7TPiJv4/"
+    },
+    {
+        "date": "2007-04-28",
+        "team_1": "Nantes",
+        "team_2": "Rennes",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.4,
+            "X": 3.1,
+            "2": 2.75
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/nantes-rennes-2sXTjwfA/"
+    },
+    {
+        "date": "2007-04-28",
+        "team_1": "Troyes",
+        "team_2": "Sedan",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.1,
+            "X": 3.2,
+            "2": 3.15
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/troyes-sedan-bTOMVyIp/"
+    },
+    {
+        "date": "2007-04-28",
+        "team_1": "Valenciennes",
+        "team_2": "Monaco",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.4,
+            "X": 2.9,
+            "2": 2.95
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/valenciennes-monaco-xKNQUeXj/"
+    },
+    {
+        "date": "2007-04-22",
+        "team_1": "St Etienne",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.25,
+            "X": 2.95,
+            "2": 3.15
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/st-etienne-bordeaux-4S6llpYB/"
+    },
+    {
+        "date": "2007-04-22",
+        "team_1": "Auxerre",
+        "team_2": "Lyon",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.5,
+            "X": 2.95,
+            "2": 2.1
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/auxerre-lyon-A57pkQI5/"
+    },
+    {
+        "date": "2007-04-21",
+        "team_1": "Lens",
+        "team_2": "Le Mans",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.65,
+            "X": 3.25,
+            "2": 5.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/lens-le-mans-pvMAY4YO/"
+    },
+    {
+        "date": "2007-04-21",
+        "team_1": "Marseille",
+        "team_2": "Troyes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.5,
+            "X": 3.5,
+            "2": 6.65
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/marseille-troyes-j1O1clBP/"
+    },
+    {
+        "date": "2007-04-21",
+        "team_1": "Monaco",
+        "team_2": "Lille",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.15,
+            "X": 3.0,
+            "2": 3.3
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/monaco-lille-SMFTh8Jt/"
+    },
+    {
+        "date": "2007-04-21",
+        "team_1": "Nancy",
+        "team_2": "Valenciennes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.15,
+            "X": 2.9,
+            "2": 3.45
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/nancy-valenciennes-MqFXiSYn/"
+    },
+    {
+        "date": "2007-04-21",
+        "team_1": "Rennes",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.25,
+            "X": 2.95,
+            "2": 3.15
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/rennes-toulouse-0zEyinlg/"
+    },
+    {
+        "date": "2007-04-21",
+        "team_1": "Sedan",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.29,
+            "X": 2.85,
+            "2": 3.15
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/sedan-nice-SdpYk63a/"
+    },
+    {
+        "date": "2007-04-21",
+        "team_1": "Sochaux",
+        "team_2": "Lorient",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.9,
+            "X": 3.05,
+            "2": 4.0
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/sochaux-lorient-6mN6ZpJI/"
+    },
+    {
+        "date": "2007-04-21",
+        "team_1": "PSG",
+        "team_2": "Nantes",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.7,
+            "X": 3.2,
+            "2": 5.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/psg-nantes-xEI2zR3C/"
+    },
+    {
+        "date": "2007-04-18",
+        "team_1": "Bordeaux",
+        "team_2": "Nancy",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.6,
+            "X": 3.4,
+            "2": 5.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/bordeaux-nancy-d2PFCjLf/"
+    },
+    {
+        "date": "2007-04-18",
+        "team_1": "Lyon",
+        "team_2": "Rennes",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.42,
+            "X": 3.65,
+            "2": 8.0
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/lyon-rennes-EwzBDW5l/"
+    },
+    {
+        "date": "2007-04-15",
+        "team_1": "Lyon",
+        "team_2": "Sedan",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.35,
+            "X": 4.05,
+            "2": 9.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/lyon-sedan-bNJby7l6/"
+    },
+    {
+        "date": "2007-04-15",
+        "team_1": "Nice",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 3.0,
+            "2": 3.2
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/nice-st-etienne-GbUgxmZa/"
+    },
+    {
+        "date": "2007-04-14",
+        "team_1": "Le Mans",
+        "team_2": "Rennes",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.15,
+            "X": 3.0,
+            "2": 3.3
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/le-mans-rennes-CMwMN7ZC/"
+    },
+    {
+        "date": "2007-04-14",
+        "team_1": "Lille",
+        "team_2": "Sochaux",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.1,
+            "X": 3.0,
+            "2": 3.4
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/lille-sochaux-QPsQMRlJ/"
+    },
+    {
+        "date": "2007-04-14",
+        "team_1": "Lorient",
+        "team_2": "Monaco",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.45,
+            "X": 2.9,
+            "2": 2.85
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/lorient-monaco-rofGoBRJ/"
+    },
+    {
+        "date": "2007-04-14",
+        "team_1": "Nantes",
+        "team_2": "Lens",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.7,
+            "X": 3.0,
+            "2": 2.5
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/nantes-lens-MygKpVtQ/"
+    },
+    {
+        "date": "2007-04-14",
+        "team_1": "Toulouse",
+        "team_2": "Auxerre",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 3.0,
+            "2": 3.75
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/toulouse-auxerre-2Vzmtkks/"
+    },
+    {
+        "date": "2007-04-14",
+        "team_1": "Troyes",
+        "team_2": "Nancy",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.25,
+            "X": 2.95,
+            "2": 3.15
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/troyes-nancy-tMZju94m/"
+    },
+    {
+        "date": "2007-04-14",
+        "team_1": "Valenciennes",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.7,
+            "X": 2.9,
+            "2": 2.54
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/valenciennes-marseille-zqZfvTJg/"
+    },
+    {
+        "date": "2007-04-14",
+        "team_1": "Bordeaux",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 3.1,
+            "2": 3.6
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/bordeaux-psg-UclHOmK6/"
+    },
+    {
+        "date": "2007-04-07",
+        "team_1": "Valenciennes",
+        "team_2": "Lyon",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 4.8,
+            "X": 3.25,
+            "2": 1.7
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/valenciennes-lyon-fmrJBAz1/"
+    },
+    {
+        "date": "2007-04-01",
+        "team_1": "Lens",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.9,
+            "X": 3.2,
+            "2": 3.85
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/lens-psg-WUCbECjr/"
+    },
+    {
+        "date": "2007-04-01",
+        "team_1": "Le Mans",
+        "team_2": "Auxerre",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 2.95,
+            "2": 3.25
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/le-mans-auxerre-vwLWIhrR/"
+    },
+    {
+        "date": "2007-04-01",
+        "team_1": "Lille",
+        "team_2": "Valenciennes",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.6,
+            "X": 3.4,
+            "2": 5.5
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/lille-valenciennes-naGTdBL7/"
+    },
+    {
+        "date": "2007-04-01",
+        "team_1": "Nice",
+        "team_2": "Monaco",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.29,
+            "X": 2.9,
+            "2": 3.1
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/nice-monaco-4KSJLfb8/"
+    },
+    {
+        "date": "2007-04-01",
+        "team_1": "Toulouse",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.15,
+            "X": 3.0,
+            "2": 3.3
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/toulouse-st-etienne-INWNKEDE/"
+    },
+    {
+        "date": "2007-04-01",
+        "team_1": "Troyes",
+        "team_2": "Sochaux",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.5,
+            "X": 3.0,
+            "2": 2.8
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/troyes-sochaux-0nMSJYSK/"
+    },
+    {
+        "date": "2007-03-31",
+        "team_1": "Lorient",
+        "team_2": "Marseille",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.75,
+            "X": 2.85,
+            "2": 2.54
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/lorient-marseille-Sd0SbXje/"
+    },
+    {
+        "date": "2007-03-18",
+        "team_1": "Rennes",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 2.9,
+            "2": 3.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/rennes-psg-l61OaDyk/"
+    },
+    {
+        "date": "2007-03-18",
+        "team_1": "Auxerre",
+        "team_2": "Lens",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.29,
+            "X": 2.85,
+            "2": 3.1
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/auxerre-lens-fq2K0gMr/"
+    },
+    {
+        "date": "2007-03-17",
+        "team_1": "Lille",
+        "team_2": "Le Mans",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.6,
+            "X": 3.3,
+            "2": 5.55
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/lille-le-mans-IZMZJsN3/"
+    },
+    {
+        "date": "2007-03-17",
+        "team_1": "Marseille",
+        "team_2": "Nice",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.7,
+            "X": 3.2,
+            "2": 4.8
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/marseille-nice-dQLwJ1xA/"
+    },
+    {
+        "date": "2007-03-17",
+        "team_1": "Monaco",
+        "team_2": "Nantes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 3.1,
+            "2": 4.34
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/monaco-nantes-vkBrILiG/"
+    },
+    {
+        "date": "2007-03-17",
+        "team_1": "Nancy",
+        "team_2": "Lyon",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 4.45,
+            "X": 3.2,
+            "2": 1.75
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/nancy-lyon-hCDWc00p/"
+    },
+    {
+        "date": "2007-03-17",
+        "team_1": "Sedan",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.54,
+            "X": 3.0,
+            "2": 2.65
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/sedan-bordeaux-A9JRL3hi/"
+    },
+    {
+        "date": "2007-03-17",
+        "team_1": "St Etienne",
+        "team_2": "Troyes",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.65,
+            "X": 3.2,
+            "2": 5.3
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/st-etienne-troyes-4nHzcKFj/"
+    },
+    {
+        "date": "2007-03-17",
+        "team_1": "Valenciennes",
+        "team_2": "Lorient",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 2.9,
+            "2": 3.8
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/valenciennes-lorient-l0IVKN7c/"
+    },
+    {
+        "date": "2007-03-17",
+        "team_1": "Sochaux",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 4,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 2.85,
+            "2": 3.3
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/sochaux-toulouse-zXQ42thT/"
+    },
+    {
+        "date": "2007-03-11",
+        "team_1": "Lyon",
+        "team_2": "Marseille",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.55,
+            "X": 3.45,
+            "2": 5.8
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/lyon-marseille-dtS03MxN/"
+    },
+    {
+        "date": "2007-03-11",
+        "team_1": "Lens",
+        "team_2": "Sedan",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.5,
+            "X": 3.5,
+            "2": 6.4
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/lens-sedan-v5Xe42NG/"
+    },
+    {
+        "date": "2007-03-11",
+        "team_1": "PSG",
+        "team_2": "Auxerre",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.9,
+            "X": 2.95,
+            "2": 4.09
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/psg-auxerre-ddAq5r8A/"
+    },
+    {
+        "date": "2007-03-10",
+        "team_1": "Bordeaux",
+        "team_2": "Sochaux",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.9,
+            "X": 2.95,
+            "2": 4.09
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/bordeaux-sochaux-67HW7pOi/"
+    },
+    {
+        "date": "2007-03-10",
+        "team_1": "Le Mans",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 2.85,
+            "2": 3.3
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/le-mans-st-etienne-lW6y74wb/"
+    },
+    {
+        "date": "2007-03-10",
+        "team_1": "Lorient",
+        "team_2": "Lille",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.8,
+            "X": 2.9,
+            "2": 2.45
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/lorient-lille-2ZAu6Oh4/"
+    },
+    {
+        "date": "2007-03-10",
+        "team_1": "Nantes",
+        "team_2": "Nancy",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.15,
+            "X": 2.9,
+            "2": 3.35
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/nantes-nancy-rByPkNNT/"
+    },
+    {
+        "date": "2007-03-10",
+        "team_1": "Nice",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.95,
+            "X": 3.0,
+            "2": 3.8
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/nice-rennes-pKNjosWp/"
+    },
+    {
+        "date": "2007-03-10",
+        "team_1": "Troyes",
+        "team_2": "Valenciennes",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.95,
+            "X": 2.85,
+            "2": 4.09
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/troyes-valenciennes-SGIS8Q8o/"
+    },
+    {
+        "date": "2007-03-04",
+        "team_1": "Marseille",
+        "team_2": "Lens",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.04,
+            "X": 3.0,
+            "2": 3.5
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/marseille-lens-nqrGiqgH/"
+    },
+    {
+        "date": "2007-03-04",
+        "team_1": "Sochaux",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.74,
+            "X": 3.1,
+            "2": 4.75
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/sochaux-nantes-hMrChPwB/"
+    },
+    {
+        "date": "2007-03-03",
+        "team_1": "Auxerre",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.04,
+            "X": 2.9,
+            "2": 3.65
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/auxerre-rennes-KOSnd7vn/"
+    },
+    {
+        "date": "2007-03-03",
+        "team_1": "Lille",
+        "team_2": "Troyes",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.6,
+            "X": 3.15,
+            "2": 6.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/lille-troyes-EoSjeRgh/"
+    },
+    {
+        "date": "2007-03-03",
+        "team_1": "Lorient",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.25,
+            "X": 2.85,
+            "2": 3.2
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/lorient-nice-hxRffo9b/"
+    },
+    {
+        "date": "2007-03-03",
+        "team_1": "Monaco",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 2.95,
+            "2": 3.7
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/monaco-bordeaux-ADLag5O4/"
+    },
+    {
+        "date": "2007-03-03",
+        "team_1": "Nancy",
+        "team_2": "Le Mans",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.12,
+            "X": 2.8,
+            "2": 3.5
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/nancy-le-mans-0IzQxpvO/"
+    },
+    {
+        "date": "2007-03-03",
+        "team_1": "Sedan",
+        "team_2": "PSG",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.9,
+            "X": 2.9,
+            "2": 2.4
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/sedan-psg-v9ZTy4gU/"
+    },
+    {
+        "date": "2007-03-03",
+        "team_1": "Valenciennes",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.4,
+            "X": 2.85,
+            "2": 2.95
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/valenciennes-toulouse-8lPrcmPu/"
+    },
+    {
+        "date": "2007-03-03",
+        "team_1": "St Etienne",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.05,
+            "X": 2.95,
+            "2": 2.29
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2006-2007/st-etienne-lyon-WrWLwQOH/"
+    }
+]

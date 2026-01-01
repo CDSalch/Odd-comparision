@@ -1,0 +1,5602 @@
+[
+    {
+        "date": "2023-06-03",
+        "team_1": "AC Ajaccio",
+        "team_2": "Marseille",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 7.3,
+            "X": 4.63,
+            "2": 1.4
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/ac-ajaccio-marseille-W0ldfU30/"
+    },
+    {
+        "date": "2023-06-03",
+        "team_1": "Auxerre",
+        "team_2": "Lens",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.03,
+            "X": 3.53,
+            "2": 2.19
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/auxerre-lens-p4h0glJ6/"
+    },
+    {
+        "date": "2023-06-03",
+        "team_1": "Brest",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 4.57,
+            "X": 4.13,
+            "2": 1.64
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/brest-rennes-W0AR993m/"
+    },
+    {
+        "date": "2023-06-03",
+        "team_1": "Lorient",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.91,
+            "X": 3.42,
+            "2": 2.26
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lorient-strasbourg-6Jt9iSmJ/"
+    },
+    {
+        "date": "2023-06-03",
+        "team_1": "Monaco",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.35,
+            "X": 5.68,
+            "2": 6.6
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/monaco-toulouse-SSs5h8YC/"
+    },
+    {
+        "date": "2023-06-03",
+        "team_1": "Nantes",
+        "team_2": "Angers",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.48,
+            "X": 4.45,
+            "2": 5.75
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nantes-angers-YPUjGBQJ/"
+    },
+    {
+        "date": "2023-06-03",
+        "team_1": "Nice",
+        "team_2": "Lyon",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.38,
+            "X": 3.97,
+            "2": 2.51
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nice-lyon-CGTfFVuQ/"
+    },
+    {
+        "date": "2023-06-03",
+        "team_1": "PSG",
+        "team_2": "Clermont",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.27,
+            "X": 6.35,
+            "2": 8.75
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/psg-clermont-Ic6NAkls/"
+    },
+    {
+        "date": "2023-06-03",
+        "team_1": "Reims",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.79,
+            "X": 4.1,
+            "2": 3.68
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/reims-montpellier-QN9V8TIg/"
+    },
+    {
+        "date": "2023-06-03",
+        "team_1": "Troyes",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 12.83,
+            "X": 8.25,
+            "2": 1.16
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/troyes-lille-4E8Z7mYa/"
+    },
+    {
+        "date": "2023-05-27",
+        "team_1": "Angers",
+        "team_2": "Troyes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.72,
+            "X": 4.08,
+            "2": 4.05
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/angers-troyes-bZAFsiKf/"
+    },
+    {
+        "date": "2023-05-27",
+        "team_1": "Clermont",
+        "team_2": "Lorient",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.17,
+            "X": 3.28,
+            "2": 3.28
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/clermont-lorient-xQ9JtBZ0/"
+    },
+    {
+        "date": "2023-05-27",
+        "team_1": "Lens",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.15,
+            "X": 7.5,
+            "2": 18.67
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lens-ac-ajaccio-v39H1CBQ/"
+    },
+    {
+        "date": "2023-05-27",
+        "team_1": "Lille",
+        "team_2": "Nantes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.42,
+            "X": 4.64,
+            "2": 6.92
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lille-nantes-6aENuVl7/"
+    },
+    {
+        "date": "2023-05-27",
+        "team_1": "Lyon",
+        "team_2": "Reims",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.64,
+            "X": 4.5,
+            "2": 4.17
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lyon-reims-neiA3YtE/"
+    },
+    {
+        "date": "2023-05-27",
+        "team_1": "Marseille",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.29,
+            "X": 5.57,
+            "2": 8.97
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/marseille-brest-ptAD2hdK/"
+    },
+    {
+        "date": "2023-05-27",
+        "team_1": "Montpellier",
+        "team_2": "Nice",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.33,
+            "X": 3.46,
+            "2": 2.79
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/montpellier-nice-pjDRvk4D/"
+    },
+    {
+        "date": "2023-05-27",
+        "team_1": "Rennes",
+        "team_2": "Monaco",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.92,
+            "X": 3.77,
+            "2": 3.52
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/rennes-monaco-bmjldjZm/"
+    },
+    {
+        "date": "2023-05-27",
+        "team_1": "Strasbourg",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.25,
+            "X": 4.05,
+            "2": 1.74
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/strasbourg-psg-tCeqcWJs/"
+    },
+    {
+        "date": "2023-05-27",
+        "team_1": "Toulouse",
+        "team_2": "Auxerre",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.07,
+            "X": 3.78,
+            "2": 3.09
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/toulouse-auxerre-xvkheAlf/"
+    },
+    {
+        "date": "2023-05-21",
+        "team_1": "Auxerre",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 8.02,
+            "X": 5.37,
+            "2": 1.33
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/auxerre-psg-x4YrUXke/"
+    },
+    {
+        "date": "2023-05-21",
+        "team_1": "Lorient",
+        "team_2": "Lens",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 4.77,
+            "X": 3.94,
+            "2": 1.64
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lorient-lens-KSNmTi51/"
+    },
+    {
+        "date": "2023-05-21",
+        "team_1": "Brest",
+        "team_2": "Clermont",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 3.4,
+            "2": 3.7
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/brest-clermont-pSUvlgsR/"
+    },
+    {
+        "date": "2023-05-21",
+        "team_1": "Nice",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.93,
+            "X": 3.76,
+            "2": 3.57
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nice-toulouse-QPEwjFCE/"
+    },
+    {
+        "date": "2023-05-21",
+        "team_1": "Reims",
+        "team_2": "Angers",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.34,
+            "X": 5.37,
+            "2": 7.43
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/reims-angers-27H6qDkr/"
+    },
+    {
+        "date": "2023-05-21",
+        "team_1": "Troyes",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 7.07,
+            "X": 4.8,
+            "2": 1.4
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/troyes-strasbourg-GALArX4l/"
+    },
+    {
+        "date": "2023-05-21",
+        "team_1": "AC Ajaccio",
+        "team_2": "Rennes",
+        "score": {
+            "1": 0,
+            "2": 5
+        },
+        "odds": {
+            "1": 7.55,
+            "X": 4.48,
+            "2": 1.4
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/ac-ajaccio-rennes-bDZvVDzk/"
+    },
+    {
+        "date": "2023-05-20",
+        "team_1": "Lille",
+        "team_2": "Marseille",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.64,
+            "X": 3.42,
+            "2": 2.47
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lille-marseille-nZFZjec8/"
+    },
+    {
+        "date": "2023-05-20",
+        "team_1": "Nantes",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.11,
+            "X": 3.4,
+            "2": 3.27
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nantes-montpellier-YVRiSBK7/"
+    },
+    {
+        "date": "2023-05-19",
+        "team_1": "Lyon",
+        "team_2": "Monaco",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.3,
+            "X": 3.82,
+            "2": 2.66
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lyon-monaco-6yWzkZRK/"
+    },
+    {
+        "date": "2023-05-14",
+        "team_1": "Marseille",
+        "team_2": "Angers",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.14,
+            "X": 8.28,
+            "2": 16.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/marseille-angers-lpX7SKEj/"
+    },
+    {
+        "date": "2023-05-14",
+        "team_1": "Monaco",
+        "team_2": "Lille",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.76,
+            "X": 3.49,
+            "2": 2.34
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/monaco-lille-vBsYYMyN/"
+    },
+    {
+        "date": "2023-05-14",
+        "team_1": "Brest",
+        "team_2": "Auxerre",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.89,
+            "X": 3.31,
+            "2": 4.17
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/brest-auxerre-AkI2l2yA/"
+    },
+    {
+        "date": "2023-05-14",
+        "team_1": "Montpellier",
+        "team_2": "Lorient",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.9,
+            "X": 3.48,
+            "2": 3.9
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/montpellier-lorient-AgY3T0ap/"
+    },
+    {
+        "date": "2023-05-14",
+        "team_1": "Rennes",
+        "team_2": "Troyes",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.18,
+            "X": 7.52,
+            "2": 12.73
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/rennes-troyes-hE77mMjG/"
+    },
+    {
+        "date": "2023-05-14",
+        "team_1": "Toulouse",
+        "team_2": "Nantes",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.19,
+            "X": 3.54,
+            "2": 3.06
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/toulouse-nantes-UwVzWgLr/"
+    },
+    {
+        "date": "2023-05-14",
+        "team_1": "Clermont",
+        "team_2": "Lyon",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.8,
+            "X": 3.69,
+            "2": 1.88
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/clermont-lyon-hEoxYtiT/"
+    },
+    {
+        "date": "2023-05-13",
+        "team_1": "PSG",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 5,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.1,
+            "X": 9.88,
+            "2": 25.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/psg-ac-ajaccio-Q1Gji4ii/"
+    },
+    {
+        "date": "2023-05-13",
+        "team_1": "Strasbourg",
+        "team_2": "Nice",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.42,
+            "X": 3.29,
+            "2": 2.81
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/strasbourg-nice-bFEbkrM3/"
+    },
+    {
+        "date": "2023-05-12",
+        "team_1": "Lens",
+        "team_2": "Reims",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.53,
+            "X": 4.47,
+            "2": 5.47
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lens-reims-4hFfjO6c/"
+    },
+    {
+        "date": "2023-05-07",
+        "team_1": "Troyes",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 9.83,
+            "X": 6.33,
+            "2": 1.24
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/troyes-psg-dnhTZ2MG/"
+    },
+    {
+        "date": "2023-05-07",
+        "team_1": "Lyon",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 5,
+            "2": 4
+        },
+        "odds": {
+            "1": 1.65,
+            "X": 4.12,
+            "2": 4.49
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lyon-montpellier-pUuIx5xb/"
+    },
+    {
+        "date": "2023-05-07",
+        "team_1": "AC Ajaccio",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.86,
+            "X": 3.45,
+            "2": 1.93
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/ac-ajaccio-toulouse-xOIjMqhH/"
+    },
+    {
+        "date": "2023-05-07",
+        "team_1": "Auxerre",
+        "team_2": "Clermont",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.38,
+            "X": 3.24,
+            "2": 2.9
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/auxerre-clermont-GEHfL37N/"
+    },
+    {
+        "date": "2023-05-07",
+        "team_1": "Lorient",
+        "team_2": "Brest",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.48,
+            "X": 3.11,
+            "2": 2.87
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lorient-brest-zabRFsVp/"
+    },
+    {
+        "date": "2023-05-07",
+        "team_1": "Nantes",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.72,
+            "X": 3.13,
+            "2": 2.58
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nantes-strasbourg-l2n9vR7o/"
+    },
+    {
+        "date": "2023-05-07",
+        "team_1": "Angers",
+        "team_2": "Monaco",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 5.18,
+            "X": 4.25,
+            "2": 1.55
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/angers-monaco-YkCaKNMT/"
+    },
+    {
+        "date": "2023-05-06",
+        "team_1": "Lens",
+        "team_2": "Marseille",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.3,
+            "X": 3.41,
+            "2": 2.99
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lens-marseille-OKvMyPi4/"
+    },
+    {
+        "date": "2023-05-06",
+        "team_1": "Reims",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.54,
+            "X": 3.64,
+            "2": 1.94
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/reims-lille-IegPzq7A/"
+    },
+    {
+        "date": "2023-05-06",
+        "team_1": "Nice",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.46,
+            "X": 3.35,
+            "2": 2.72
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nice-rennes-25jDwoNi/"
+    },
+    {
+        "date": "2023-05-03",
+        "team_1": "Brest",
+        "team_2": "Nantes",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.44,
+            "X": 2.98,
+            "2": 3.02
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/brest-nantes-ABRZPRhh/"
+    },
+    {
+        "date": "2023-05-02",
+        "team_1": "Toulouse",
+        "team_2": "Lens",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.85,
+            "X": 4.23,
+            "2": 1.58
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/toulouse-lens-WQFrO5N4/"
+    },
+    {
+        "date": "2023-04-30",
+        "team_1": "Marseille",
+        "team_2": "Auxerre",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.28,
+            "X": 5.62,
+            "2": 9.67
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/marseille-auxerre-xOdL64hU/"
+    },
+    {
+        "date": "2023-04-30",
+        "team_1": "PSG",
+        "team_2": "Lorient",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.16,
+            "X": 7.67,
+            "2": 13.17
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/psg-lorient-2oORRmOu/"
+    },
+    {
+        "date": "2023-04-30",
+        "team_1": "Clermont",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.07,
+            "X": 3.39,
+            "2": 2.21
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/clermont-reims-UcgD8QNH/"
+    },
+    {
+        "date": "2023-04-30",
+        "team_1": "Rennes",
+        "team_2": "Angers",
+        "score": {
+            "1": 4,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.28,
+            "X": 5.48,
+            "2": 9.75
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/rennes-angers-l2QwPo8b/"
+    },
+    {
+        "date": "2023-04-30",
+        "team_1": "Troyes",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.78,
+            "X": 3.79,
+            "2": 1.67
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/troyes-nice-r1JnNPxB/"
+    },
+    {
+        "date": "2023-04-30",
+        "team_1": "Monaco",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 0,
+            "2": 4
+        },
+        "odds": {
+            "1": 1.5,
+            "X": 4.55,
+            "2": 5.47
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/monaco-montpellier-j7f9968B/"
+    },
+    {
+        "date": "2023-04-29",
+        "team_1": "Lille",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.22,
+            "X": 5.72,
+            "2": 11.92
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lille-ac-ajaccio-OKhH7pwO/"
+    },
+    {
+        "date": "2023-04-28",
+        "team_1": "Strasbourg",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.63,
+            "X": 3.23,
+            "2": 2.58
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/strasbourg-lyon-txNVQ7wn/"
+    },
+    {
+        "date": "2023-04-23",
+        "team_1": "Lyon",
+        "team_2": "Marseille",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.58,
+            "X": 3.37,
+            "2": 2.68
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lyon-marseille-xru4C8Oh/"
+    },
+    {
+        "date": "2023-04-23",
+        "team_1": "Montpellier",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.07,
+            "X": 3.27,
+            "2": 2.26
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/montpellier-rennes-tGoeEUgt/"
+    },
+    {
+        "date": "2023-04-23",
+        "team_1": "AC Ajaccio",
+        "team_2": "Brest",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.02,
+            "X": 3.02,
+            "2": 2.4
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/ac-ajaccio-brest-WjaZdTO5/"
+    },
+    {
+        "date": "2023-04-23",
+        "team_1": "Lorient",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.43,
+            "X": 3.45,
+            "2": 2.66
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lorient-toulouse-ji6ofR8O/"
+    },
+    {
+        "date": "2023-04-23",
+        "team_1": "Nantes",
+        "team_2": "Troyes",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.46,
+            "X": 4.43,
+            "2": 6.35
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nantes-troyes-v7aTIAoP/"
+    },
+    {
+        "date": "2023-04-23",
+        "team_1": "Nice",
+        "team_2": "Clermont",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.68,
+            "X": 3.63,
+            "2": 5.03
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nice-clermont-Ovy0Dl9n/"
+    },
+    {
+        "date": "2023-04-23",
+        "team_1": "Reims",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.13,
+            "X": 3.4,
+            "2": 3.29
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/reims-strasbourg-AewCAng5/"
+    },
+    {
+        "date": "2023-04-22",
+        "team_1": "Lens",
+        "team_2": "Monaco",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.11,
+            "X": 3.57,
+            "2": 3.27
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lens-monaco-W4v8BSwa/"
+    },
+    {
+        "date": "2023-04-22",
+        "team_1": "Auxerre",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 5.48,
+            "X": 3.97,
+            "2": 1.56
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/auxerre-lille-UyIxdmvC/"
+    },
+    {
+        "date": "2023-04-21",
+        "team_1": "Angers",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 15.67,
+            "X": 8.0,
+            "2": 1.15
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/angers-psg-C07se7gI/"
+    },
+    {
+        "date": "2023-04-16",
+        "team_1": "Marseille",
+        "team_2": "Troyes",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.18,
+            "X": 6.75,
+            "2": 12.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/marseille-troyes-dCuoJJu8/"
+    },
+    {
+        "date": "2023-04-16",
+        "team_1": "Monaco",
+        "team_2": "Lorient",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.3,
+            "X": 5.43,
+            "2": 8.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/monaco-lorient-6NGdCm7e/"
+    },
+    {
+        "date": "2023-04-16",
+        "team_1": "Auxerre",
+        "team_2": "Nantes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.64,
+            "X": 2.85,
+            "2": 2.79
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/auxerre-nantes-SWHhDTik/"
+    },
+    {
+        "date": "2023-04-16",
+        "team_1": "Brest",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.45,
+            "X": 3.1,
+            "2": 2.88
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/brest-nice-t26MaVvm/"
+    },
+    {
+        "date": "2023-04-16",
+        "team_1": "Clermont",
+        "team_2": "Angers",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.85,
+            "X": 3.4,
+            "2": 4.05
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/clermont-angers-EmG0B7M1/"
+    },
+    {
+        "date": "2023-04-16",
+        "team_1": "Strasbourg",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.65,
+            "X": 3.38,
+            "2": 5.63
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/strasbourg-ac-ajaccio-2B7I0BPt/"
+    },
+    {
+        "date": "2023-04-16",
+        "team_1": "Lille",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.5,
+            "X": 4.35,
+            "2": 5.63
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lille-montpellier-hvF4ARy8/"
+    },
+    {
+        "date": "2023-04-15",
+        "team_1": "PSG",
+        "team_2": "Lens",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.69,
+            "X": 3.9,
+            "2": 4.18
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/psg-lens-AFqkIweE/"
+    },
+    {
+        "date": "2023-04-15",
+        "team_1": "Rennes",
+        "team_2": "Reims",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.16,
+            "X": 3.33,
+            "2": 3.1
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/rennes-reims-bw1Rbkfg/"
+    },
+    {
+        "date": "2023-04-14",
+        "team_1": "Toulouse",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.25,
+            "X": 3.65,
+            "2": 1.99
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/toulouse-lyon-xUaVc99a/"
+    },
+    {
+        "date": "2023-04-09",
+        "team_1": "Lorient",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 5.52,
+            "X": 4.32,
+            "2": 1.54
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lorient-marseille-ETiJbUxd/"
+    },
+    {
+        "date": "2023-04-09",
+        "team_1": "Nantes",
+        "team_2": "Monaco",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.63,
+            "X": 3.73,
+            "2": 1.88
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nantes-monaco-Q3eNclh2/"
+    },
+    {
+        "date": "2023-04-09",
+        "team_1": "AC Ajaccio",
+        "team_2": "Auxerre",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.73,
+            "X": 2.69,
+            "2": 2.95
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/ac-ajaccio-auxerre-hE3A0j8q/"
+    },
+    {
+        "date": "2023-04-09",
+        "team_1": "Montpellier",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.91,
+            "X": 3.69,
+            "2": 3.54
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/montpellier-toulouse-v7q5MXU2/"
+    },
+    {
+        "date": "2023-04-09",
+        "team_1": "Reims",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.58,
+            "X": 3.92,
+            "2": 5.28
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/reims-brest-8nyMIkUR/"
+    },
+    {
+        "date": "2023-04-09",
+        "team_1": "Troyes",
+        "team_2": "Clermont",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.82,
+            "X": 3.16,
+            "2": 2.44
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/troyes-clermont-p8SmE9xq/"
+    },
+    {
+        "date": "2023-04-09",
+        "team_1": "Lyon",
+        "team_2": "Rennes",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.12,
+            "X": 3.43,
+            "2": 3.26
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lyon-rennes-zZxEKBaF/"
+    },
+    {
+        "date": "2023-04-08",
+        "team_1": "Nice",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.97,
+            "X": 3.69,
+            "2": 1.84
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nice-psg-Icr9Lip9/"
+    },
+    {
+        "date": "2023-04-08",
+        "team_1": "Angers",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 7.42,
+            "X": 4.92,
+            "2": 1.38
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/angers-lille-W42EaANk/"
+    },
+    {
+        "date": "2023-04-07",
+        "team_1": "Lens",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.49,
+            "X": 4.25,
+            "2": 6.17
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lens-strasbourg-EPyIJVEL/"
+    },
+    {
+        "date": "2023-04-02",
+        "team_1": "PSG",
+        "team_2": "Lyon",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.4,
+            "X": 5.08,
+            "2": 6.38
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/psg-lyon-v7NZ6hVF/"
+    },
+    {
+        "date": "2023-04-02",
+        "team_1": "Monaco",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 4,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.56,
+            "X": 4.15,
+            "2": 5.42
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/monaco-strasbourg-YZ1umXwp/"
+    },
+    {
+        "date": "2023-04-02",
+        "team_1": "Angers",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 5.38,
+            "X": 3.69,
+            "2": 1.62
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/angers-nice-Sd1qnigj/"
+    },
+    {
+        "date": "2023-04-02",
+        "team_1": "Brest",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.63,
+            "X": 3.32,
+            "2": 2.53
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/brest-toulouse-MVCv6CpM/"
+    },
+    {
+        "date": "2023-04-02",
+        "team_1": "Clermont",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 2.94,
+            "2": 4.3
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/clermont-ac-ajaccio-6m0moB8d/"
+    },
+    {
+        "date": "2023-04-02",
+        "team_1": "Nantes",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.22,
+            "X": 3.32,
+            "2": 2.16
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nantes-reims-hjLN9foc/"
+    },
+    {
+        "date": "2023-04-02",
+        "team_1": "Lille",
+        "team_2": "Lorient",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.36,
+            "X": 5.17,
+            "2": 7.12
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lille-lorient-WtKR8E03/"
+    },
+    {
+        "date": "2023-04-01",
+        "team_1": "Rennes",
+        "team_2": "Lens",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.85,
+            "X": 2.95,
+            "2": 2.57
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/rennes-lens-0MBr5WaS/"
+    },
+    {
+        "date": "2023-04-01",
+        "team_1": "Auxerre",
+        "team_2": "Troyes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.86,
+            "X": 3.34,
+            "2": 4.15
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/auxerre-troyes-dEADiDVS/"
+    },
+    {
+        "date": "2023-03-31",
+        "team_1": "Marseille",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.51,
+            "X": 4.35,
+            "2": 5.83
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/marseille-montpellier-Q3JV7YF9/"
+    },
+    {
+        "date": "2023-03-19",
+        "team_1": "Reims",
+        "team_2": "Marseille",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.85,
+            "X": 3.33,
+            "2": 2.36
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/reims-marseille-6PH0fFoA/"
+    },
+    {
+        "date": "2023-03-19",
+        "team_1": "PSG",
+        "team_2": "Rennes",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.48,
+            "X": 4.54,
+            "2": 5.7
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/psg-rennes-YZPmcH1i/"
+    },
+    {
+        "date": "2023-03-19",
+        "team_1": "Montpellier",
+        "team_2": "Clermont",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 3.43,
+            "2": 4.34
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/montpellier-clermont-0neZwf1T/"
+    },
+    {
+        "date": "2023-03-19",
+        "team_1": "Nice",
+        "team_2": "Lorient",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.59,
+            "X": 3.82,
+            "2": 5.33
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nice-lorient-ttw2ZD9p/"
+    },
+    {
+        "date": "2023-03-19",
+        "team_1": "Strasbourg",
+        "team_2": "Auxerre",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.01,
+            "X": 3.19,
+            "2": 3.77
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/strasbourg-auxerre-SYIdeeW3/"
+    },
+    {
+        "date": "2023-03-19",
+        "team_1": "Troyes",
+        "team_2": "Brest",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.88,
+            "X": 3.17,
+            "2": 2.39
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/troyes-brest-EkL8hgGM/"
+    },
+    {
+        "date": "2023-03-19",
+        "team_1": "AC Ajaccio",
+        "team_2": "Monaco",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 6.15,
+            "X": 3.82,
+            "2": 1.53
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/ac-ajaccio-monaco-MedVvznN/"
+    },
+    {
+        "date": "2023-03-18",
+        "team_1": "Lens",
+        "team_2": "Angers",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.2,
+            "X": 6.83,
+            "2": 11.93
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lens-angers-pATidyHc/"
+    },
+    {
+        "date": "2023-03-18",
+        "team_1": "Toulouse",
+        "team_2": "Lille",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.35,
+            "X": 3.7,
+            "2": 1.96
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/toulouse-lille-zaM4gZ0G/"
+    },
+    {
+        "date": "2023-03-17",
+        "team_1": "Lyon",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.55,
+            "X": 4.1,
+            "2": 5.5
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lyon-nantes-KWy6YXOj/"
+    },
+    {
+        "date": "2023-03-12",
+        "team_1": "Marseille",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.39,
+            "X": 4.57,
+            "2": 7.5
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/marseille-strasbourg-EVhNtdHA/"
+    },
+    {
+        "date": "2023-03-12",
+        "team_1": "Monaco",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.81,
+            "X": 3.67,
+            "2": 3.89
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/monaco-reims-hIafwNAI/"
+    },
+    {
+        "date": "2023-03-12",
+        "team_1": "AC Ajaccio",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.27,
+            "X": 2.92,
+            "2": 2.35
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/ac-ajaccio-montpellier-K41nuqt6/"
+    },
+    {
+        "date": "2023-03-12",
+        "team_1": "Angers",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.68,
+            "X": 3.52,
+            "2": 1.93
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/angers-toulouse-4fSNLfuo/"
+    },
+    {
+        "date": "2023-03-12",
+        "team_1": "Lorient",
+        "team_2": "Troyes",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.74,
+            "X": 3.74,
+            "2": 4.31
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lorient-troyes-pj5AqbXi/"
+    },
+    {
+        "date": "2023-03-12",
+        "team_1": "Nantes",
+        "team_2": "Nice",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.82,
+            "X": 3.08,
+            "2": 2.51
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nantes-nice-hG4ErInb/"
+    },
+    {
+        "date": "2023-03-12",
+        "team_1": "Clermont",
+        "team_2": "Lens",
+        "score": {
+            "1": 0,
+            "2": 4
+        },
+        "odds": {
+            "1": 4.97,
+            "X": 3.82,
+            "2": 1.64
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/clermont-lens-6a66pvIo/"
+    },
+    {
+        "date": "2023-03-11",
+        "team_1": "Brest",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 7.05,
+            "X": 4.95,
+            "2": 1.38
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/brest-psg-SYdRuGWG/"
+    },
+    {
+        "date": "2023-03-11",
+        "team_1": "Auxerre",
+        "team_2": "Rennes",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.75,
+            "X": 3.22,
+            "2": 1.97
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/auxerre-rennes-be0jv3eC/"
+    },
+    {
+        "date": "2023-03-10",
+        "team_1": "Lille",
+        "team_2": "Lyon",
+        "score": {
+            "1": 3,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.79,
+            "X": 3.8,
+            "2": 4.03
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lille-lyon-W63Isx24/"
+    },
+    {
+        "date": "2023-03-05",
+        "team_1": "Rennes",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.91,
+            "X": 3.3,
+            "2": 2.32
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/rennes-marseille-WUkWrRts/"
+    },
+    {
+        "date": "2023-03-05",
+        "team_1": "Lyon",
+        "team_2": "Lorient",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.53,
+            "X": 4.27,
+            "2": 5.38
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lyon-lorient-KjMDQqRC/"
+    },
+    {
+        "date": "2023-03-05",
+        "team_1": "Montpellier",
+        "team_2": "Angers",
+        "score": {
+            "1": 5,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.71,
+            "X": 3.51,
+            "2": 4.63
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/montpellier-angers-OOS4S5d0/"
+    },
+    {
+        "date": "2023-03-05",
+        "team_1": "Reims",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.5,
+            "X": 3.92,
+            "2": 6.15
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/reims-ac-ajaccio-UF8Zsodm/"
+    },
+    {
+        "date": "2023-03-05",
+        "team_1": "Strasbourg",
+        "team_2": "Brest",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.96,
+            "X": 3.17,
+            "2": 3.83
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/strasbourg-brest-QmD3m7YP/"
+    },
+    {
+        "date": "2023-03-05",
+        "team_1": "Toulouse",
+        "team_2": "Clermont",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.63,
+            "X": 3.82,
+            "2": 4.83
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/toulouse-clermont-Ox8ws5Bg/"
+    },
+    {
+        "date": "2023-03-05",
+        "team_1": "Troyes",
+        "team_2": "Monaco",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 6.12,
+            "X": 4.67,
+            "2": 1.42
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/troyes-monaco-2T6stPQa/"
+    },
+    {
+        "date": "2023-03-04",
+        "team_1": "PSG",
+        "team_2": "Nantes",
+        "score": {
+            "1": 4,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.25,
+            "X": 5.68,
+            "2": 10.02
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/psg-nantes-bsLHP3tJ/"
+    },
+    {
+        "date": "2023-03-04",
+        "team_1": "Lens",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.36,
+            "X": 3.23,
+            "2": 2.81
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lens-lille-ncEalmJJ/"
+    },
+    {
+        "date": "2023-03-03",
+        "team_1": "Nice",
+        "team_2": "Auxerre",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.59,
+            "X": 3.73,
+            "2": 5.42
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nice-auxerre-xSW8RPB6/"
+    },
+    {
+        "date": "2023-02-26",
+        "team_1": "Marseille",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.9,
+            "X": 3.47,
+            "2": 2.25
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/marseille-psg-jBUdURRm/"
+    },
+    {
+        "date": "2023-02-26",
+        "team_1": "Monaco",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 3.37,
+            "2": 3.45
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/monaco-nice-jetZEnS0/"
+    },
+    {
+        "date": "2023-02-26",
+        "team_1": "AC Ajaccio",
+        "team_2": "Troyes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.03,
+            "X": 3.07,
+            "2": 3.86
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/ac-ajaccio-troyes-C4sVFSCf/"
+    },
+    {
+        "date": "2023-02-26",
+        "team_1": "Clermont",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.83,
+            "X": 2.86,
+            "2": 2.67
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/clermont-strasbourg-bLqsDQdD/"
+    },
+    {
+        "date": "2023-02-26",
+        "team_1": "Nantes",
+        "team_2": "Rennes",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.4,
+            "X": 3.12,
+            "2": 2.13
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nantes-rennes-ETRTzUlK/"
+    },
+    {
+        "date": "2023-02-26",
+        "team_1": "Reims",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.05,
+            "X": 3.43,
+            "2": 3.34
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/reims-toulouse-U1T0Tosf/"
+    },
+    {
+        "date": "2023-02-26",
+        "team_1": "Lorient",
+        "team_2": "Auxerre",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.1,
+            "X": 3.24,
+            "2": 3.38
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lorient-auxerre-0QNPyAZD/"
+    },
+    {
+        "date": "2023-02-25",
+        "team_1": "Montpellier",
+        "team_2": "Lens",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.42,
+            "X": 3.46,
+            "2": 1.8
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/montpellier-lens-AaDaV7Cs/"
+    },
+    {
+        "date": "2023-02-25",
+        "team_1": "Angers",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 4.35,
+            "X": 3.64,
+            "2": 1.79
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/angers-lyon-KUpwE6s7/"
+    },
+    {
+        "date": "2023-02-24",
+        "team_1": "Lille",
+        "team_2": "Brest",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.3,
+            "X": 5.15,
+            "2": 8.77
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lille-brest-8jRXZm4Q/"
+    },
+    {
+        "date": "2023-02-19",
+        "team_1": "Toulouse",
+        "team_2": "Marseille",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.58,
+            "X": 3.62,
+            "2": 1.87
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/toulouse-marseille-I5lMHlrr/"
+    },
+    {
+        "date": "2023-02-19",
+        "team_1": "Lens",
+        "team_2": "Nantes",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.46,
+            "X": 4.12,
+            "2": 6.97
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lens-nantes-Q79sPWk8/"
+    },
+    {
+        "date": "2023-02-19",
+        "team_1": "Brest",
+        "team_2": "Monaco",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 4.33,
+            "X": 3.72,
+            "2": 1.77
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/brest-monaco-MZ2jNAKK/"
+    },
+    {
+        "date": "2023-02-19",
+        "team_1": "Lorient",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.97,
+            "X": 3.15,
+            "2": 3.87
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lorient-ac-ajaccio-GxSj29re/"
+    },
+    {
+        "date": "2023-02-19",
+        "team_1": "Rennes",
+        "team_2": "Clermont",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.53,
+            "X": 3.82,
+            "2": 5.98
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/rennes-clermont-0Q1fMUZQ/"
+    },
+    {
+        "date": "2023-02-19",
+        "team_1": "Troyes",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.05,
+            "X": 3.17,
+            "2": 2.25
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/troyes-montpellier-UuhQG8cl/"
+    },
+    {
+        "date": "2023-02-19",
+        "team_1": "PSG",
+        "team_2": "Lille",
+        "score": {
+            "1": 4,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.63,
+            "X": 4.13,
+            "2": 4.52
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/psg-lille-C4La0mD7/"
+    },
+    {
+        "date": "2023-02-18",
+        "team_1": "Strasbourg",
+        "team_2": "Angers",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.84,
+            "X": 3.33,
+            "2": 4.33
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/strasbourg-angers-4b8oOj5E/"
+    },
+    {
+        "date": "2023-02-18",
+        "team_1": "Nice",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.06,
+            "X": 3.34,
+            "2": 3.47
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nice-reims-b1He1Tc1/"
+    },
+    {
+        "date": "2023-02-17",
+        "team_1": "Auxerre",
+        "team_2": "Lyon",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.07,
+            "X": 3.52,
+            "2": 1.82
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/auxerre-lyon-xnTn3kTl/"
+    },
+    {
+        "date": "2023-02-12",
+        "team_1": "Lyon",
+        "team_2": "Lens",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.46,
+            "X": 3.15,
+            "2": 2.75
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lyon-lens-bwwD9ijL/"
+    },
+    {
+        "date": "2023-02-12",
+        "team_1": "Nantes",
+        "team_2": "Lorient",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.93,
+            "X": 3.38,
+            "2": 3.85
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nantes-lorient-z5iImAT1/"
+    },
+    {
+        "date": "2023-02-12",
+        "team_1": "Angers",
+        "team_2": "Auxerre",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.34,
+            "X": 3.15,
+            "2": 3.05
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/angers-auxerre-2igAkWbk/"
+    },
+    {
+        "date": "2023-02-12",
+        "team_1": "Lille",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.41,
+            "X": 4.63,
+            "2": 6.8
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lille-strasbourg-CMz1Cg62/"
+    },
+    {
+        "date": "2023-02-12",
+        "team_1": "Montpellier",
+        "team_2": "Brest",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.29,
+            "X": 3.2,
+            "2": 3.09
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/montpellier-brest-jDZ4BDL8/"
+    },
+    {
+        "date": "2023-02-12",
+        "team_1": "Reims",
+        "team_2": "Troyes",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.51,
+            "X": 4.3,
+            "2": 5.73
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/reims-troyes-t2SH8B5R/"
+    },
+    {
+        "date": "2023-02-12",
+        "team_1": "Toulouse",
+        "team_2": "Rennes",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.79,
+            "X": 3.32,
+            "2": 2.35
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/toulouse-rennes-rBEq4VDr/"
+    },
+    {
+        "date": "2023-02-11",
+        "team_1": "Clermont",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 5.23,
+            "X": 3.71,
+            "2": 1.65
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/clermont-marseille-dEhEljEe/"
+    },
+    {
+        "date": "2023-02-11",
+        "team_1": "Monaco",
+        "team_2": "PSG",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.28,
+            "X": 3.37,
+            "2": 2.92
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/monaco-psg-jHk6jCqq/"
+    },
+    {
+        "date": "2023-02-10",
+        "team_1": "Nice",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.59,
+            "X": 3.62,
+            "2": 6.33
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nice-ac-ajaccio-pzZ8AXzF/"
+    },
+    {
+        "date": "2023-02-05",
+        "team_1": "Marseille",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.66,
+            "X": 3.69,
+            "2": 4.98
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/marseille-nice-SztHC20o/"
+    },
+    {
+        "date": "2023-02-05",
+        "team_1": "Brest",
+        "team_2": "Lens",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.28,
+            "X": 3.49,
+            "2": 1.76
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/brest-lens-2gYT90p4/"
+    },
+    {
+        "date": "2023-02-05",
+        "team_1": "AC Ajaccio",
+        "team_2": "Nantes",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.48,
+            "X": 2.82,
+            "2": 3.02
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/ac-ajaccio-nantes-hMk6fLpH/"
+    },
+    {
+        "date": "2023-02-05",
+        "team_1": "Auxerre",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.82,
+            "X": 3.43,
+            "2": 1.88
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/auxerre-reims-WClAgu0N/"
+    },
+    {
+        "date": "2023-02-05",
+        "team_1": "Lorient",
+        "team_2": "Angers",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.94,
+            "X": 3.36,
+            "2": 3.68
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lorient-angers-EXiZmJNp/"
+    },
+    {
+        "date": "2023-02-05",
+        "team_1": "Strasbourg",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.02,
+            "X": 3.24,
+            "2": 3.52
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/strasbourg-montpellier-O2ZPAtVc/"
+    },
+    {
+        "date": "2023-02-05",
+        "team_1": "Clermont",
+        "team_2": "Monaco",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 4.32,
+            "X": 3.6,
+            "2": 1.79
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/clermont-monaco-CO57haFT/"
+    },
+    {
+        "date": "2023-02-04",
+        "team_1": "Rennes",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.33,
+            "X": 3.23,
+            "2": 3.02
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/rennes-lille-WSxY8KaA/"
+    },
+    {
+        "date": "2023-02-04",
+        "team_1": "Troyes",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 5.0,
+            "X": 4.03,
+            "2": 1.58
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/troyes-lyon-AJyx8vFG/"
+    },
+    {
+        "date": "2023-02-04",
+        "team_1": "PSG",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.35,
+            "X": 5.1,
+            "2": 6.93
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/psg-toulouse-tvpLBMFi/"
+    },
+    {
+        "date": "2023-02-01",
+        "team_1": "Lens",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.74,
+            "X": 3.42,
+            "2": 4.8
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lens-nice-Otbkb3oh/"
+    },
+    {
+        "date": "2023-02-01",
+        "team_1": "Lyon",
+        "team_2": "Brest",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.51,
+            "X": 4.35,
+            "2": 5.63
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lyon-brest-f7goaqWo/"
+    },
+    {
+        "date": "2023-02-01",
+        "team_1": "Monaco",
+        "team_2": "Auxerre",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.34,
+            "X": 5.22,
+            "2": 8.13
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/monaco-auxerre-IRPRcZZB/"
+    },
+    {
+        "date": "2023-02-01",
+        "team_1": "Montpellier",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 8.83,
+            "X": 5.78,
+            "2": 1.29
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/montpellier-psg-GGfs0PGu/"
+    },
+    {
+        "date": "2023-02-01",
+        "team_1": "Rennes",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.54,
+            "X": 3.9,
+            "2": 6.18
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/rennes-strasbourg-2XdgcN0b/"
+    },
+    {
+        "date": "2023-02-01",
+        "team_1": "Angers",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.27,
+            "X": 3.0,
+            "2": 3.36
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/angers-ac-ajaccio-dIOVdgkI/"
+    },
+    {
+        "date": "2023-02-01",
+        "team_1": "Lille",
+        "team_2": "Clermont",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.54,
+            "X": 3.93,
+            "2": 6.05
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lille-clermont-lQtweXJU/"
+    },
+    {
+        "date": "2023-02-01",
+        "team_1": "Nantes",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 4.97,
+            "X": 3.75,
+            "2": 1.68
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nantes-marseille-juOZeD4O/"
+    },
+    {
+        "date": "2023-02-01",
+        "team_1": "Reims",
+        "team_2": "Lorient",
+        "score": {
+            "1": 4,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.76,
+            "X": 3.65,
+            "2": 4.3
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/reims-lorient-pdnbdsG4/"
+    },
+    {
+        "date": "2023-02-01",
+        "team_1": "Toulouse",
+        "team_2": "Troyes",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.61,
+            "X": 4.12,
+            "2": 4.87
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/toulouse-troyes-baj2e1VA/"
+    },
+    {
+        "date": "2023-01-29",
+        "team_1": "PSG",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.21,
+            "X": 6.38,
+            "2": 11.93
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/psg-reims-EZSA1Hzm/"
+    },
+    {
+        "date": "2023-01-29",
+        "team_1": "AC Ajaccio",
+        "team_2": "Lyon",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 4.58,
+            "X": 3.48,
+            "2": 1.77
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/ac-ajaccio-lyon-SxBqodj6/"
+    },
+    {
+        "date": "2023-01-29",
+        "team_1": "Auxerre",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.25,
+            "X": 3.22,
+            "2": 3.05
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/auxerre-montpellier-ttFmpG5C/"
+    },
+    {
+        "date": "2023-01-29",
+        "team_1": "Brest",
+        "team_2": "Angers",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.09,
+            "X": 3.15,
+            "2": 3.44
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/brest-angers-MaWIae5a/"
+    },
+    {
+        "date": "2023-01-29",
+        "team_1": "Clermont",
+        "team_2": "Nantes",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.32,
+            "X": 2.99,
+            "2": 3.11
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/clermont-nantes-O44hqzLI/"
+    },
+    {
+        "date": "2023-01-29",
+        "team_1": "Strasbourg",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.33,
+            "X": 3.32,
+            "2": 2.8
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/strasbourg-toulouse-SxXE0yjg/"
+    },
+    {
+        "date": "2023-01-29",
+        "team_1": "Nice",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.02,
+            "X": 3.01,
+            "2": 2.37
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nice-lille-U1iv7wDP/"
+    },
+    {
+        "date": "2023-01-28",
+        "team_1": "Marseille",
+        "team_2": "Monaco",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.95,
+            "X": 3.57,
+            "2": 3.45
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/marseille-monaco-WAw62cLt/"
+    },
+    {
+        "date": "2023-01-28",
+        "team_1": "Troyes",
+        "team_2": "Lens",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 5.63,
+            "X": 4.08,
+            "2": 1.53
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/troyes-lens-0jVMbFK5/"
+    },
+    {
+        "date": "2023-01-27",
+        "team_1": "Lorient",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.78,
+            "X": 3.24,
+            "2": 1.92
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lorient-rennes-2e3drfzP/"
+    },
+    {
+        "date": "2023-01-15",
+        "team_1": "Rennes",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 5.13,
+            "X": 4.15,
+            "2": 1.59
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/rennes-psg-xlIWmb6m/"
+    },
+    {
+        "date": "2023-01-15",
+        "team_1": "Monaco",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 7,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.39,
+            "X": 4.66,
+            "2": 8.12
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/monaco-ac-ajaccio-tMn2YI60/"
+    },
+    {
+        "date": "2023-01-15",
+        "team_1": "Angers",
+        "team_2": "Clermont",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.3,
+            "X": 3.3,
+            "2": 2.88
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/angers-clermont-KCo6XxM6/"
+    },
+    {
+        "date": "2023-01-15",
+        "team_1": "Montpellier",
+        "team_2": "Nantes",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.36,
+            "X": 3.17,
+            "2": 2.88
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/montpellier-nantes-SxkEVGjJ/"
+    },
+    {
+        "date": "2023-01-15",
+        "team_1": "Reims",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.43,
+            "X": 3.11,
+            "2": 2.82
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/reims-nice-fPCymILg/"
+    },
+    {
+        "date": "2023-01-15",
+        "team_1": "Toulouse",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.84,
+            "X": 3.53,
+            "2": 3.87
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/toulouse-brest-YFBunxy0/"
+    },
+    {
+        "date": "2023-01-15",
+        "team_1": "Lille",
+        "team_2": "Troyes",
+        "score": {
+            "1": 5,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.44,
+            "X": 4.53,
+            "2": 6.67
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lille-troyes-lnjAWdyD/"
+    },
+    {
+        "date": "2023-01-14",
+        "team_1": "Lyon",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.58,
+            "X": 3.94,
+            "2": 5.15
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lyon-strasbourg-UsTdf0TJ/"
+    },
+    {
+        "date": "2023-01-14",
+        "team_1": "Marseille",
+        "team_2": "Lorient",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.42,
+            "X": 4.83,
+            "2": 6.83
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/marseille-lorient-tIW0gKrQ/"
+    },
+    {
+        "date": "2023-01-14",
+        "team_1": "Lens",
+        "team_2": "Auxerre",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.29,
+            "X": 5.13,
+            "2": 9.1
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lens-auxerre-bcJSlvis/"
+    },
+    {
+        "date": "2023-01-11",
+        "team_1": "Lorient",
+        "team_2": "Monaco",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 4.22,
+            "X": 3.87,
+            "2": 1.73
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lorient-monaco-fiDwWPp2/"
+    },
+    {
+        "date": "2023-01-11",
+        "team_1": "Nice",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 6,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.81,
+            "X": 3.55,
+            "2": 4.12
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nice-montpellier-no0PgTx9/"
+    },
+    {
+        "date": "2023-01-11",
+        "team_1": "PSG",
+        "team_2": "Angers",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.15,
+            "X": 7.63,
+            "2": 14.83
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/psg-angers-E7WLhmhF/"
+    },
+    {
+        "date": "2023-01-11",
+        "team_1": "Strasbourg",
+        "team_2": "Lens",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.73,
+            "X": 3.27,
+            "2": 2.0
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/strasbourg-lens-jXgkyLMs/"
+    },
+    {
+        "date": "2023-01-11",
+        "team_1": "Troyes",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 4.87,
+            "X": 3.85,
+            "2": 1.64
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/troyes-marseille-bcccZbif/"
+    },
+    {
+        "date": "2023-01-11",
+        "team_1": "AC Ajaccio",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.17,
+            "X": 2.99,
+            "2": 2.31
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/ac-ajaccio-reims-KYKQYR0q/"
+    },
+    {
+        "date": "2023-01-11",
+        "team_1": "Auxerre",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 0,
+            "2": 5
+        },
+        "odds": {
+            "1": 2.86,
+            "X": 3.25,
+            "2": 2.34
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/auxerre-toulouse-bPJUXoGk/"
+    },
+    {
+        "date": "2023-01-11",
+        "team_1": "Brest",
+        "team_2": "Lille",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 4.13,
+            "X": 3.58,
+            "2": 1.77
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/brest-lille-pfggzuxl/"
+    },
+    {
+        "date": "2023-01-11",
+        "team_1": "Clermont",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.91,
+            "X": 3.31,
+            "2": 1.89
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/clermont-rennes-tl9ZW5Ve/"
+    },
+    {
+        "date": "2023-01-11",
+        "team_1": "Nantes",
+        "team_2": "Lyon",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.5,
+            "X": 3.6,
+            "2": 1.96
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nantes-lyon-8f1Lf9N2/"
+    },
+    {
+        "date": "2023-01-02",
+        "team_1": "Rennes",
+        "team_2": "Nice",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.78,
+            "X": 3.55,
+            "2": 4.17
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/rennes-nice-ljUfvlwM/"
+    },
+    {
+        "date": "2023-01-02",
+        "team_1": "Montpellier",
+        "team_2": "Marseille",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 4.97,
+            "X": 4.02,
+            "2": 1.62
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/montpellier-marseille-MwwvrWwc/"
+    },
+    {
+        "date": "2023-01-02",
+        "team_1": "Lille",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.59,
+            "X": 3.82,
+            "2": 5.2
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lille-reims-pMgeJn1d/"
+    },
+    {
+        "date": "2023-01-02",
+        "team_1": "Strasbourg",
+        "team_2": "Troyes",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.84,
+            "X": 3.62,
+            "2": 3.93
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/strasbourg-troyes-6RvjuUNF/"
+    },
+    {
+        "date": "2023-01-01",
+        "team_1": "Lens",
+        "team_2": "PSG",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.5,
+            "X": 3.4,
+            "2": 1.96
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lens-psg-fiyntA89/"
+    },
+    {
+        "date": "2023-01-01",
+        "team_1": "Lyon",
+        "team_2": "Clermont",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.49,
+            "X": 4.2,
+            "2": 5.57
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lyon-clermont-0Uyrsjg3/"
+    },
+    {
+        "date": "2023-01-01",
+        "team_1": "Angers",
+        "team_2": "Lorient",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.38,
+            "X": 3.3,
+            "2": 2.67
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/angers-lorient-C8emL8Wq/"
+    },
+    {
+        "date": "2023-01-01",
+        "team_1": "Monaco",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.42,
+            "X": 4.49,
+            "2": 5.92
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/monaco-brest-zm4LPlOS/"
+    },
+    {
+        "date": "2023-01-01",
+        "team_1": "Nantes",
+        "team_2": "Auxerre",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.79,
+            "X": 3.33,
+            "2": 4.22
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nantes-auxerre-6VfiKSoj/"
+    },
+    {
+        "date": "2023-01-01",
+        "team_1": "Toulouse",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.03,
+            "X": 3.08,
+            "2": 3.63
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/toulouse-ac-ajaccio-StTbw8hS/"
+    },
+    {
+        "date": "2022-12-29",
+        "team_1": "Marseille",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 6,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.32,
+            "X": 4.85,
+            "2": 6.57
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/marseille-toulouse-phSaUC9c/"
+    },
+    {
+        "date": "2022-12-29",
+        "team_1": "Nice",
+        "team_2": "Lens",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.82,
+            "X": 3.02,
+            "2": 2.31
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nice-lens-WlOeVhfi/"
+    },
+    {
+        "date": "2022-12-29",
+        "team_1": "Reims",
+        "team_2": "Rennes",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.11,
+            "X": 3.32,
+            "2": 2.02
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/reims-rennes-EXFCRAgG/"
+    },
+    {
+        "date": "2022-12-29",
+        "team_1": "Lorient",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.79,
+            "X": 3.53,
+            "2": 3.59
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lorient-montpellier-IozE69Hj/"
+    },
+    {
+        "date": "2022-12-28",
+        "team_1": "Brest",
+        "team_2": "Lyon",
+        "score": {
+            "1": 2,
+            "2": 4
+        },
+        "odds": {
+            "1": 3.37,
+            "X": 3.43,
+            "2": 1.89
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/brest-lyon-67G8SjvA/"
+    },
+    {
+        "date": "2022-12-28",
+        "team_1": "PSG",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.15,
+            "X": 6.42,
+            "2": 11.17
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/psg-strasbourg-SGH4TWO3/"
+    },
+    {
+        "date": "2022-12-28",
+        "team_1": "Clermont",
+        "team_2": "Lille",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 4.23,
+            "X": 3.46,
+            "2": 1.69
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/clermont-lille-veyA7k2p/"
+    },
+    {
+        "date": "2022-12-28",
+        "team_1": "Auxerre",
+        "team_2": "Monaco",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 4.61,
+            "X": 3.8,
+            "2": 1.57
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/auxerre-monaco-b1gsCVgT/"
+    },
+    {
+        "date": "2022-12-28",
+        "team_1": "AC Ajaccio",
+        "team_2": "Angers",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.1,
+            "X": 3.12,
+            "2": 3.1
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/ac-ajaccio-angers-KAfwDBvN/"
+    },
+    {
+        "date": "2022-12-28",
+        "team_1": "Troyes",
+        "team_2": "Nantes",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.45,
+            "X": 3.22,
+            "2": 2.51
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/troyes-nantes-hOEGQU8M/"
+    },
+    {
+        "date": "2022-11-13",
+        "team_1": "Monaco",
+        "team_2": "Marseille",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.3,
+            "X": 3.43,
+            "2": 2.88
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/monaco-marseille-nqHd0YfH/"
+    },
+    {
+        "date": "2022-11-13",
+        "team_1": "Strasbourg",
+        "team_2": "Lorient",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.32,
+            "X": 3.36,
+            "2": 2.98
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/strasbourg-lorient-pvmRFDf4/"
+    },
+    {
+        "date": "2022-11-13",
+        "team_1": "Brest",
+        "team_2": "Troyes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.04,
+            "X": 3.52,
+            "2": 3.3
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/brest-troyes-S2xWEX9A/"
+    },
+    {
+        "date": "2022-11-13",
+        "team_1": "Lille",
+        "team_2": "Angers",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.24,
+            "X": 5.75,
+            "2": 9.2
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lille-angers-KdF4bCPT/"
+    },
+    {
+        "date": "2022-11-13",
+        "team_1": "Montpellier",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.73,
+            "X": 3.23,
+            "2": 2.49
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/montpellier-reims-dI6WgWXp/"
+    },
+    {
+        "date": "2022-11-13",
+        "team_1": "Nantes",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.03,
+            "X": 3.09,
+            "2": 3.71
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nantes-ac-ajaccio-QZF0ahAN/"
+    },
+    {
+        "date": "2022-11-13",
+        "team_1": "PSG",
+        "team_2": "Auxerre",
+        "score": {
+            "1": 5,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.09,
+            "X": 9.32,
+            "2": 17.67
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/psg-auxerre-xEqJHZPi/"
+    },
+    {
+        "date": "2022-11-12",
+        "team_1": "Rennes",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.56,
+            "X": 4.22,
+            "2": 5.18
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/rennes-toulouse-QmeZDiPG/"
+    },
+    {
+        "date": "2022-11-12",
+        "team_1": "Lens",
+        "team_2": "Clermont",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.41,
+            "X": 4.24,
+            "2": 6.88
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lens-clermont-6mlNGgub/"
+    },
+    {
+        "date": "2022-11-11",
+        "team_1": "Lyon",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.68,
+            "X": 3.73,
+            "2": 4.67
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lyon-nice-bNpFIFAo/"
+    },
+    {
+        "date": "2022-11-06",
+        "team_1": "Marseille",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.06,
+            "X": 3.55,
+            "2": 3.4
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/marseille-lyon-KGcm4Geh/"
+    },
+    {
+        "date": "2022-11-06",
+        "team_1": "Lille",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.07,
+            "X": 3.42,
+            "2": 3.42
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lille-rennes-b19v6xRu/"
+    },
+    {
+        "date": "2022-11-06",
+        "team_1": "Clermont",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.46,
+            "X": 3.37,
+            "2": 2.78
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/clermont-montpellier-YLhTbLJC/"
+    },
+    {
+        "date": "2022-11-06",
+        "team_1": "Nice",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.81,
+            "X": 3.69,
+            "2": 4.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nice-brest-xh8r5dtn/"
+    },
+    {
+        "date": "2022-11-06",
+        "team_1": "Reims",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.14,
+            "X": 3.4,
+            "2": 3.33
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/reims-nantes-YJ1i3zBb/"
+    },
+    {
+        "date": "2022-11-06",
+        "team_1": "Toulouse",
+        "team_2": "Monaco",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.12,
+            "X": 3.76,
+            "2": 2.1
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/toulouse-monaco-St1e2fQ4/"
+    },
+    {
+        "date": "2022-11-06",
+        "team_1": "Lorient",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 8.58,
+            "X": 5.67,
+            "2": 1.32
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lorient-psg-CCiXcuZI/"
+    },
+    {
+        "date": "2022-11-05",
+        "team_1": "Angers",
+        "team_2": "Lens",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 5.5,
+            "X": 3.92,
+            "2": 1.59
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/angers-lens-jc3Oa146/"
+    },
+    {
+        "date": "2022-11-05",
+        "team_1": "AC Ajaccio",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 4,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.06,
+            "X": 3.02,
+            "2": 2.49
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/ac-ajaccio-strasbourg-vNaK0sk0/"
+    },
+    {
+        "date": "2022-11-04",
+        "team_1": "Troyes",
+        "team_2": "Auxerre",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.01,
+            "X": 3.48,
+            "2": 3.62
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/troyes-auxerre-6Xaa1EuB/"
+    },
+    {
+        "date": "2022-10-30",
+        "team_1": "Lyon",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.97,
+            "X": 3.8,
+            "2": 3.45
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lyon-lille-vaHX9oSD/"
+    },
+    {
+        "date": "2022-10-30",
+        "team_1": "Lorient",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.58,
+            "X": 3.23,
+            "2": 2.73
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lorient-nice-b3vonrz7/"
+    },
+    {
+        "date": "2022-10-30",
+        "team_1": "Brest",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.73,
+            "X": 3.36,
+            "2": 2.5
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/brest-reims-691C23Km/"
+    },
+    {
+        "date": "2022-10-30",
+        "team_1": "Monaco",
+        "team_2": "Angers",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.43,
+            "X": 4.78,
+            "2": 6.48
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/monaco-angers-4SPsmOK0/"
+    },
+    {
+        "date": "2022-10-30",
+        "team_1": "Nantes",
+        "team_2": "Clermont",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.89,
+            "X": 3.58,
+            "2": 3.9
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nantes-clermont-xfwko2kD/"
+    },
+    {
+        "date": "2022-10-30",
+        "team_1": "Rennes",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.32,
+            "X": 5.37,
+            "2": 8.08
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/rennes-montpellier-p00G1NZg/"
+    },
+    {
+        "date": "2022-10-30",
+        "team_1": "Auxerre",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.72,
+            "X": 3.05,
+            "2": 2.7
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/auxerre-ac-ajaccio-QyRwl45f/"
+    },
+    {
+        "date": "2022-10-29",
+        "team_1": "Strasbourg",
+        "team_2": "Marseille",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.43,
+            "X": 3.41,
+            "2": 2.11
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/strasbourg-marseille-lY673q5s/"
+    },
+    {
+        "date": "2022-10-29",
+        "team_1": "PSG",
+        "team_2": "Troyes",
+        "score": {
+            "1": 4,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.08,
+            "X": 11.67,
+            "2": 23.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/psg-troyes-h2Ly95sK/"
+    },
+    {
+        "date": "2022-10-28",
+        "team_1": "Lens",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.65,
+            "X": 4.07,
+            "2": 4.65
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lens-toulouse-nPKu8PdQ/"
+    },
+    {
+        "date": "2022-10-23",
+        "team_1": "Lille",
+        "team_2": "Monaco",
+        "score": {
+            "1": 4,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.41,
+            "X": 3.57,
+            "2": 2.72
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lille-monaco-O848YO57/"
+    },
+    {
+        "date": "2022-10-23",
+        "team_1": "Nice",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.95,
+            "X": 3.37,
+            "2": 3.82
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nice-nantes-G2ifdScE/"
+    },
+    {
+        "date": "2022-10-23",
+        "team_1": "Clermont",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.06,
+            "X": 3.43,
+            "2": 3.37
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/clermont-brest-CY04Z4j1/"
+    },
+    {
+        "date": "2022-10-23",
+        "team_1": "Reims",
+        "team_2": "Auxerre",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.81,
+            "X": 3.57,
+            "2": 4.15
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/reims-auxerre-CUp3f6SQ/"
+    },
+    {
+        "date": "2022-10-23",
+        "team_1": "Toulouse",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.15,
+            "X": 3.51,
+            "2": 3.12
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/toulouse-strasbourg-U9XUkQzr/"
+    },
+    {
+        "date": "2022-10-23",
+        "team_1": "Troyes",
+        "team_2": "Lorient",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.43,
+            "X": 3.23,
+            "2": 2.87
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/troyes-lorient-rDyZlpjl/"
+    },
+    {
+        "date": "2022-10-23",
+        "team_1": "Angers",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 5.13,
+            "X": 4.18,
+            "2": 1.6
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/angers-rennes-U9Bazoye/"
+    },
+    {
+        "date": "2022-10-22",
+        "team_1": "Marseille",
+        "team_2": "Lens",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.17,
+            "X": 3.34,
+            "2": 3.27
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/marseille-lens-YwnaenDK/"
+    },
+    {
+        "date": "2022-10-22",
+        "team_1": "Montpellier",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.67,
+            "X": 3.63,
+            "2": 1.93
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/montpellier-lyon-xChjc8r8/"
+    },
+    {
+        "date": "2022-10-21",
+        "team_1": "AC Ajaccio",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 10.9,
+            "X": 5.68,
+            "2": 1.25
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/ac-ajaccio-psg-jJCeyRLl/"
+    },
+    {
+        "date": "2022-10-16",
+        "team_1": "PSG",
+        "team_2": "Marseille",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.4,
+            "X": 5.0,
+            "2": 6.72
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/psg-marseille-jeU8pVb2/"
+    },
+    {
+        "date": "2022-10-16",
+        "team_1": "Monaco",
+        "team_2": "Clermont",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.34,
+            "X": 5.4,
+            "2": 8.0
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/monaco-clermont-GMwSwaQk/"
+    },
+    {
+        "date": "2022-10-16",
+        "team_1": "Auxerre",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.52,
+            "X": 3.38,
+            "2": 2.03
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/auxerre-nice-2JZNvuBq/"
+    },
+    {
+        "date": "2022-10-16",
+        "team_1": "Nantes",
+        "team_2": "Brest",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.16,
+            "X": 3.36,
+            "2": 3.18
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nantes-brest-lzxzxwe2/"
+    },
+    {
+        "date": "2022-10-16",
+        "team_1": "Rennes",
+        "team_2": "Lyon",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.11,
+            "X": 3.6,
+            "2": 3.15
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/rennes-lyon-xCWKsTrL/"
+    },
+    {
+        "date": "2022-10-16",
+        "team_1": "Troyes",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 3.09,
+            "2": 3.38
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/troyes-ac-ajaccio-Mq8ix76r/"
+    },
+    {
+        "date": "2022-10-16",
+        "team_1": "Toulouse",
+        "team_2": "Angers",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 3.81,
+            "2": 3.92
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/toulouse-angers-KzMPtmbR/"
+    },
+    {
+        "date": "2022-10-15",
+        "team_1": "Lens",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.43,
+            "X": 4.57,
+            "2": 6.42
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lens-montpellier-UoTCqkE8/"
+    },
+    {
+        "date": "2022-10-15",
+        "team_1": "Lorient",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.31,
+            "X": 3.37,
+            "2": 3.08
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lorient-reims-AqwWxJud/"
+    },
+    {
+        "date": "2022-10-14",
+        "team_1": "Strasbourg",
+        "team_2": "Lille",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.13,
+            "X": 3.4,
+            "2": 2.23
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/strasbourg-lille-O8SGr9TE/"
+    },
+    {
+        "date": "2022-10-09",
+        "team_1": "Lille",
+        "team_2": "Lens",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.59,
+            "X": 3.32,
+            "2": 2.63
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lille-lens-xIakQudj/"
+    },
+    {
+        "date": "2022-10-09",
+        "team_1": "Rennes",
+        "team_2": "Nantes",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.49,
+            "X": 4.23,
+            "2": 6.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/rennes-nantes-Iobip1mM/"
+    },
+    {
+        "date": "2022-10-09",
+        "team_1": "Angers",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.68,
+            "X": 3.27,
+            "2": 2.54
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/angers-strasbourg-rHsHrlCH/"
+    },
+    {
+        "date": "2022-10-09",
+        "team_1": "Brest",
+        "team_2": "Lorient",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.26,
+            "X": 3.29,
+            "2": 3.06
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/brest-lorient-lCgmosYF/"
+    },
+    {
+        "date": "2022-10-09",
+        "team_1": "Clermont",
+        "team_2": "Auxerre",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.17,
+            "X": 3.26,
+            "2": 3.27
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/clermont-auxerre-Kt5pRLtp/"
+    },
+    {
+        "date": "2022-10-09",
+        "team_1": "Nice",
+        "team_2": "Troyes",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.82,
+            "X": 3.47,
+            "2": 4.46
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nice-troyes-UBnylqlc/"
+    },
+    {
+        "date": "2022-10-09",
+        "team_1": "Montpellier",
+        "team_2": "Monaco",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.89,
+            "X": 4.07,
+            "2": 1.81
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/montpellier-monaco-G8bgPaBd/"
+    },
+    {
+        "date": "2022-10-08",
+        "team_1": "Reims",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 8.53,
+            "X": 5.27,
+            "2": 1.32
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/reims-psg-dxceqL2S/"
+    },
+    {
+        "date": "2022-10-08",
+        "team_1": "Marseille",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.5,
+            "X": 4.03,
+            "2": 7.0
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/marseille-ac-ajaccio-ALfqnNI9/"
+    },
+    {
+        "date": "2022-10-07",
+        "team_1": "Lyon",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.4,
+            "X": 5.1,
+            "2": 6.47
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lyon-toulouse-Sd5vm333/"
+    },
+    {
+        "date": "2022-10-02",
+        "team_1": "Lens",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.23,
+            "X": 3.59,
+            "2": 2.92
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lens-lyon-Eyj0nWCh/"
+    },
+    {
+        "date": "2022-10-02",
+        "team_1": "Monaco",
+        "team_2": "Nantes",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.42,
+            "X": 4.95,
+            "2": 6.73
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/monaco-nantes-lfMsUlcO/"
+    },
+    {
+        "date": "2022-10-02",
+        "team_1": "AC Ajaccio",
+        "team_2": "Clermont",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.42,
+            "X": 2.97,
+            "2": 3.18
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/ac-ajaccio-clermont-GtOZVASB/"
+    },
+    {
+        "date": "2022-10-02",
+        "team_1": "Auxerre",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.15,
+            "X": 3.22,
+            "2": 2.29
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/auxerre-brest-fXMwVUsI/"
+    },
+    {
+        "date": "2022-10-02",
+        "team_1": "Toulouse",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 4,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.98,
+            "X": 3.69,
+            "2": 3.49
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/toulouse-montpellier-ziv9pAs5/"
+    },
+    {
+        "date": "2022-10-02",
+        "team_1": "Troyes",
+        "team_2": "Reims",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.62,
+            "X": 3.22,
+            "2": 2.7
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/troyes-reims-lfrDqUdB/"
+    },
+    {
+        "date": "2022-10-02",
+        "team_1": "Lorient",
+        "team_2": "Lille",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.03,
+            "X": 3.36,
+            "2": 2.27
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lorient-lille-SKihlhrt/"
+    },
+    {
+        "date": "2022-10-01",
+        "team_1": "PSG",
+        "team_2": "Nice",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.21,
+            "X": 6.75,
+            "2": 11.93
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/psg-nice-6BjdmCcn/"
+    },
+    {
+        "date": "2022-10-01",
+        "team_1": "Strasbourg",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.06,
+            "X": 3.47,
+            "2": 2.19
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/strasbourg-rennes-hSl4ojSb/"
+    },
+    {
+        "date": "2022-09-30",
+        "team_1": "Angers",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 4.28,
+            "X": 3.93,
+            "2": 1.76
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/angers-marseille-2cQoT8CU/"
+    },
+    {
+        "date": "2022-09-18",
+        "team_1": "Lyon",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 5.2,
+            "X": 4.93,
+            "2": 1.5
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lyon-psg-EHRIZhTn/"
+    },
+    {
+        "date": "2022-09-18",
+        "team_1": "Nantes",
+        "team_2": "Lens",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.55,
+            "X": 3.58,
+            "2": 2.01
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nantes-lens-2wb0HBDI/"
+    },
+    {
+        "date": "2022-09-18",
+        "team_1": "Brest",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.17,
+            "X": 3.03,
+            "2": 3.76
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/brest-ac-ajaccio-KEUQXWca/"
+    },
+    {
+        "date": "2022-09-18",
+        "team_1": "Clermont",
+        "team_2": "Troyes",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.33,
+            "X": 3.23,
+            "2": 3.17
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/clermont-troyes-KE8eIibC/"
+    },
+    {
+        "date": "2022-09-18",
+        "team_1": "Marseille",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.04,
+            "X": 3.52,
+            "2": 3.6
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/marseille-rennes-QiVMYCrg/"
+    },
+    {
+        "date": "2022-09-18",
+        "team_1": "Nice",
+        "team_2": "Angers",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.65,
+            "X": 3.98,
+            "2": 4.9
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nice-angers-WhxEzZDt/"
+    },
+    {
+        "date": "2022-09-18",
+        "team_1": "Reims",
+        "team_2": "Monaco",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.26,
+            "X": 3.54,
+            "2": 2.13
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/reims-monaco-b5TUWjD5/"
+    },
+    {
+        "date": "2022-09-17",
+        "team_1": "Lille",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.69,
+            "X": 3.98,
+            "2": 4.63
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lille-toulouse-tUd4GVSO/"
+    },
+    {
+        "date": "2022-09-17",
+        "team_1": "Montpellier",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.47,
+            "X": 3.37,
+            "2": 2.73
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/montpellier-strasbourg-UqjnuF5P/"
+    },
+    {
+        "date": "2022-09-16",
+        "team_1": "Auxerre",
+        "team_2": "Lorient",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.74,
+            "X": 3.27,
+            "2": 2.55
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/auxerre-lorient-6B4iJXr6/"
+    },
+    {
+        "date": "2022-09-11",
+        "team_1": "Monaco",
+        "team_2": "Lyon",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.51,
+            "X": 3.52,
+            "2": 2.64
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/monaco-lyon-nX2M5EE6/"
+    },
+    {
+        "date": "2022-09-11",
+        "team_1": "Rennes",
+        "team_2": "Auxerre",
+        "score": {
+            "1": 5,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.38,
+            "X": 4.73,
+            "2": 7.48
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/rennes-auxerre-Yc6qLgEg/"
+    },
+    {
+        "date": "2022-09-11",
+        "team_1": "AC Ajaccio",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.33,
+            "X": 3.01,
+            "2": 2.33
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/ac-ajaccio-nice-8t4I6fa0/"
+    },
+    {
+        "date": "2022-09-11",
+        "team_1": "Angers",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.41,
+            "X": 3.57,
+            "2": 2.84
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/angers-montpellier-G67Q4YTC/"
+    },
+    {
+        "date": "2022-09-11",
+        "team_1": "Lorient",
+        "team_2": "Nantes",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.42,
+            "X": 3.25,
+            "2": 3.09
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lorient-nantes-fc6U3hqJ/"
+    },
+    {
+        "date": "2022-09-11",
+        "team_1": "Toulouse",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.39,
+            "X": 3.5,
+            "2": 2.91
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/toulouse-reims-Cl5mKDTa/"
+    },
+    {
+        "date": "2022-09-11",
+        "team_1": "Strasbourg",
+        "team_2": "Clermont",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.69,
+            "X": 3.66,
+            "2": 5.13
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/strasbourg-clermont-6yzmMZbm/"
+    },
+    {
+        "date": "2022-09-10",
+        "team_1": "Marseille",
+        "team_2": "Lille",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.12,
+            "X": 3.43,
+            "2": 3.4
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/marseille-lille-d2pDSyMJ/"
+    },
+    {
+        "date": "2022-09-10",
+        "team_1": "PSG",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.08,
+            "X": 12.17,
+            "2": 26.67
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/psg-brest-A5lHReyQ/"
+    },
+    {
+        "date": "2022-09-09",
+        "team_1": "Lens",
+        "team_2": "Troyes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.47,
+            "X": 4.65,
+            "2": 6.05
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lens-troyes-SpyqNFqs/"
+    },
+    {
+        "date": "2022-09-07",
+        "team_1": "Lorient",
+        "team_2": "Lyon",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.25,
+            "X": 4.17,
+            "2": 1.68
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lorient-lyon-00CsJUmU/"
+    },
+    {
+        "date": "2022-09-04",
+        "team_1": "Nice",
+        "team_2": "Monaco",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.83,
+            "X": 3.51,
+            "2": 2.43
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nice-monaco-0zVYEIiK/"
+    },
+    {
+        "date": "2022-09-04",
+        "team_1": "Troyes",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.92,
+            "X": 3.73,
+            "2": 1.85
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/troyes-rennes-QHED7zpf/"
+    },
+    {
+        "date": "2022-09-04",
+        "team_1": "AC Ajaccio",
+        "team_2": "Lorient",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.39,
+            "X": 3.1,
+            "2": 3.05
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/ac-ajaccio-lorient-YNkzfHFf/"
+    },
+    {
+        "date": "2022-09-04",
+        "team_1": "Brest",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.47,
+            "X": 3.24,
+            "2": 2.82
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/brest-strasbourg-KKB59dFs/"
+    },
+    {
+        "date": "2022-09-04",
+        "team_1": "Clermont",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.07,
+            "X": 3.3,
+            "2": 2.28
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/clermont-toulouse-fwvqhep7/"
+    },
+    {
+        "date": "2022-09-04",
+        "team_1": "Reims",
+        "team_2": "Lens",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.08,
+            "X": 3.37,
+            "2": 2.2
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/reims-lens-EsB98GUm/"
+    },
+    {
+        "date": "2022-09-04",
+        "team_1": "Montpellier",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.5,
+            "X": 3.72,
+            "2": 2.01
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/montpellier-lille-MqWUFbxE/"
+    },
+    {
+        "date": "2022-09-03",
+        "team_1": "Nantes",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 9.68,
+            "X": 6.6,
+            "2": 1.25
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nantes-psg-8trmiFaD/"
+    },
+    {
+        "date": "2022-09-03",
+        "team_1": "Lyon",
+        "team_2": "Angers",
+        "score": {
+            "1": 5,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.29,
+            "X": 6.03,
+            "2": 9.18
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lyon-angers-IBPwEx7Q/"
+    },
+    {
+        "date": "2022-09-03",
+        "team_1": "Auxerre",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 4.15,
+            "X": 3.75,
+            "2": 1.84
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/auxerre-marseille-CElvgyV0/"
+    },
+    {
+        "date": "2022-08-31",
+        "team_1": "Lens",
+        "team_2": "Lorient",
+        "score": {
+            "1": 5,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.67,
+            "X": 3.76,
+            "2": 4.97
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lens-lorient-h6ZgEo19/"
+    },
+    {
+        "date": "2022-08-31",
+        "team_1": "Lille",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.99,
+            "X": 3.46,
+            "2": 3.67
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lille-nice-4pgah4vj/"
+    },
+    {
+        "date": "2022-08-31",
+        "team_1": "Marseille",
+        "team_2": "Clermont",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.32,
+            "X": 5.32,
+            "2": 8.63
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/marseille-clermont-bqzjFRo3/"
+    },
+    {
+        "date": "2022-08-31",
+        "team_1": "Rennes",
+        "team_2": "Brest",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.52,
+            "X": 4.32,
+            "2": 5.85
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/rennes-brest-n7iSewor/"
+    },
+    {
+        "date": "2022-08-31",
+        "team_1": "Toulouse",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 9.58,
+            "X": 6.92,
+            "2": 1.23
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/toulouse-psg-QcjWfc0l/"
+    },
+    {
+        "date": "2022-08-31",
+        "team_1": "Angers",
+        "team_2": "Reims",
+        "score": {
+            "1": 2,
+            "2": 4
+        },
+        "odds": {
+            "1": 3.06,
+            "X": 3.22,
+            "2": 2.31
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/angers-reims-ANgegpPq/"
+    },
+    {
+        "date": "2022-08-31",
+        "team_1": "Lyon",
+        "team_2": "Auxerre",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.24,
+            "X": 6.28,
+            "2": 9.37
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lyon-auxerre-KhynG7Wd/"
+    },
+    {
+        "date": "2022-08-31",
+        "team_1": "Monaco",
+        "team_2": "Troyes",
+        "score": {
+            "1": 2,
+            "2": 4
+        },
+        "odds": {
+            "1": 1.29,
+            "X": 5.55,
+            "2": 8.58
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/monaco-troyes-lKmUcQGS/"
+    },
+    {
+        "date": "2022-08-31",
+        "team_1": "Montpellier",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.13,
+            "X": 3.13,
+            "2": 3.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/montpellier-ac-ajaccio-ryh3iOgd/"
+    },
+    {
+        "date": "2022-08-31",
+        "team_1": "Strasbourg",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.02,
+            "X": 3.46,
+            "2": 3.49
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/strasbourg-nantes-69wbD5GF/"
+    },
+    {
+        "date": "2022-08-28",
+        "team_1": "PSG",
+        "team_2": "Monaco",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.2,
+            "X": 7.43,
+            "2": 10.92
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/psg-monaco-xG682l2c/"
+    },
+    {
+        "date": "2022-08-28",
+        "team_1": "Reims",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.18,
+            "X": 4.02,
+            "2": 1.74
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/reims-lyon-S4aLannG/"
+    },
+    {
+        "date": "2022-08-28",
+        "team_1": "Brest",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 0,
+            "2": 7
+        },
+        "odds": {
+            "1": 1.86,
+            "X": 3.52,
+            "2": 3.93
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/brest-montpellier-bVfH0SW9/"
+    },
+    {
+        "date": "2022-08-28",
+        "team_1": "Lorient",
+        "team_2": "Clermont",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.94,
+            "X": 3.4,
+            "2": 3.85
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lorient-clermont-WIFIuRfp/"
+    },
+    {
+        "date": "2022-08-28",
+        "team_1": "Nice",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.77,
+            "X": 3.38,
+            "2": 2.44
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nice-marseille-OC243Uni/"
+    },
+    {
+        "date": "2022-08-28",
+        "team_1": "Troyes",
+        "team_2": "Angers",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.27,
+            "X": 3.24,
+            "2": 3.1
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/troyes-angers-6ebPb61M/"
+    },
+    {
+        "date": "2022-08-28",
+        "team_1": "Nantes",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.33,
+            "X": 3.34,
+            "2": 3.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/nantes-toulouse-A9EMvoAj/"
+    },
+    {
+        "date": "2022-08-27",
+        "team_1": "Lens",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.19,
+            "X": 3.44,
+            "2": 3.02
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/lens-rennes-KvdD18H3/"
+    },
+    {
+        "date": "2022-08-27",
+        "team_1": "Auxerre",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.37,
+            "X": 3.46,
+            "2": 2.14
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2022-2023/auxerre-strasbourg-SlBcp7nT/"
+    }
+]

@@ -1,0 +1,6034 @@
+[
+    {
+        "date": "2013-05-26",
+        "team_1": "AC Ajaccio",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.24,
+            "X": 3.12,
+            "2": 2.12
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/ac-ajaccio-nice-Wrg2pVLg/"
+    },
+    {
+        "date": "2013-05-26",
+        "team_1": "Bastia",
+        "team_2": "Sochaux",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.73,
+            "X": 2.58,
+            "2": 2.82
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bastia-sochaux-Q1x54jDP/"
+    },
+    {
+        "date": "2013-05-26",
+        "team_1": "Bordeaux",
+        "team_2": "Thonon-Evian",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.79,
+            "X": 3.29,
+            "2": 4.13
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bordeaux-thonon-evian-xtdAr9j6/"
+    },
+    {
+        "date": "2013-05-26",
+        "team_1": "Lille",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.84,
+            "X": 3.3,
+            "2": 3.88
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lille-st-etienne-GWfEsT5C/"
+    },
+    {
+        "date": "2013-05-26",
+        "team_1": "Lyon",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.29,
+            "X": 4.85,
+            "2": 9.35
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lyon-rennes-CblNu7zP/"
+    },
+    {
+        "date": "2013-05-26",
+        "team_1": "Toulouse",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 3.15,
+            "2": 3.03
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/toulouse-montpellier-pnJyaUzm/"
+    },
+    {
+        "date": "2013-05-26",
+        "team_1": "Valenciennes",
+        "team_2": "Troyes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.57,
+            "X": 3.3,
+            "2": 2.4
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/valenciennes-troyes-OxIubljg/"
+    },
+    {
+        "date": "2013-05-19",
+        "team_1": "Nice",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.42,
+            "X": 3.12,
+            "2": 2.82
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nice-lyon-4UxM4a78/"
+    },
+    {
+        "date": "2013-05-18",
+        "team_1": "Montpellier",
+        "team_2": "Lille",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.98,
+            "X": 3.7,
+            "2": 1.74
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/montpellier-lille-2PbwtGU7/"
+    },
+    {
+        "date": "2013-05-18",
+        "team_1": "Nancy",
+        "team_2": "Bastia",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.41,
+            "X": 4.23,
+            "2": 6.35
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nancy-bastia-nwv3lvNR/"
+    },
+    {
+        "date": "2013-05-18",
+        "team_1": "PSG",
+        "team_2": "Brest",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": null,
+            "X": null,
+            "2": null
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/psg-brest-rLyQ3JME/"
+    },
+    {
+        "date": "2013-05-18",
+        "team_1": "Reims",
+        "team_2": "Lorient",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.01,
+            "X": 3.13,
+            "2": 3.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/reims-lorient-AT4gniis/"
+    },
+    {
+        "date": "2013-05-18",
+        "team_1": "Rennes",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.26,
+            "X": 3.18,
+            "2": 2.88
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/rennes-ac-ajaccio-lK3coB6m/"
+    },
+    {
+        "date": "2013-05-18",
+        "team_1": "Sochaux",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.38,
+            "X": 2.9,
+            "2": 2.99
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/sochaux-toulouse-lMfZtdF1/"
+    },
+    {
+        "date": "2013-05-18",
+        "team_1": "St Etienne",
+        "team_2": "Marseille",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": null,
+            "X": null,
+            "2": null
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/st-etienne-marseille-lnQUqbVr/"
+    },
+    {
+        "date": "2013-05-18",
+        "team_1": "Thonon-Evian",
+        "team_2": "Valenciennes",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.52,
+            "X": 3.79,
+            "2": 5.63
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/thonon-evian-valenciennes-faeVsx0e/"
+    },
+    {
+        "date": "2013-05-18",
+        "team_1": "Troyes",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.94,
+            "X": 3.42,
+            "2": 3.4
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/troyes-bordeaux-G8dRrIpk/"
+    },
+    {
+        "date": "2013-05-12",
+        "team_1": "Lyon",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.45,
+            "X": 3.15,
+            "2": 2.02
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lyon-psg-IcnnhMN2/"
+    },
+    {
+        "date": "2013-05-12",
+        "team_1": "Thonon-Evian",
+        "team_2": "Nice",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.54,
+            "X": 3.0,
+            "2": 2.7
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/thonon-evian-nice-vDEPzLhS/"
+    },
+    {
+        "date": "2013-05-12",
+        "team_1": "Lorient",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.65,
+            "X": 3.35,
+            "2": 1.88
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lorient-st-etienne-dh1iWv1q/"
+    },
+    {
+        "date": "2013-05-11",
+        "team_1": "AC Ajaccio",
+        "team_2": "Troyes",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.06,
+            "X": 3.05,
+            "2": 3.45
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/ac-ajaccio-troyes-0MFLy1wM/"
+    },
+    {
+        "date": "2013-05-11",
+        "team_1": "Bastia",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.18,
+            "X": 3.15,
+            "2": 3.03
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bastia-montpellier-dlojitw9/"
+    },
+    {
+        "date": "2013-05-11",
+        "team_1": "Bordeaux",
+        "team_2": "Nancy",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.98,
+            "X": 3.08,
+            "2": 3.62
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bordeaux-nancy-8S4eVbGk/"
+    },
+    {
+        "date": "2013-05-11",
+        "team_1": "Brest",
+        "team_2": "Sochaux",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.7,
+            "X": 2.98,
+            "2": 2.53
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/brest-sochaux-vDzej0hF/"
+    },
+    {
+        "date": "2013-05-11",
+        "team_1": "Valenciennes",
+        "team_2": "Rennes",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.87,
+            "X": 3.13,
+            "2": 3.78
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/valenciennes-rennes-hGvakK7L/"
+    },
+    {
+        "date": "2013-05-11",
+        "team_1": "Marseille",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.69,
+            "X": 3.28,
+            "2": 4.95
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/marseille-toulouse-Usg4Txo2/"
+    },
+    {
+        "date": "2013-05-10",
+        "team_1": "Lille",
+        "team_2": "Reims",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.35,
+            "X": 4.43,
+            "2": 8.43
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lille-reims-jif0UIVe/"
+    },
+    {
+        "date": "2013-05-05",
+        "team_1": "PSG",
+        "team_2": "Valenciennes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.18,
+            "X": 5.85,
+            "2": 12.5
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/psg-valenciennes-dUI4uqvc/"
+    },
+    {
+        "date": "2013-05-05",
+        "team_1": "Nancy",
+        "team_2": "Lyon",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.66,
+            "X": 3.04,
+            "2": 2.56
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nancy-lyon-AX0wPNgG/"
+    },
+    {
+        "date": "2013-05-05",
+        "team_1": "Rennes",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.7,
+            "X": 2.78,
+            "2": 2.68
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/rennes-nice-4fMCwN89/"
+    },
+    {
+        "date": "2013-05-04",
+        "team_1": "Montpellier",
+        "team_2": "Brest",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.4,
+            "X": 3.83,
+            "2": 6.93
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/montpellier-brest-GYuIHunj/"
+    },
+    {
+        "date": "2013-05-04",
+        "team_1": "Reims",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.25,
+            "X": 2.75,
+            "2": 3.3
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/reims-ac-ajaccio-AXM8v3g3/"
+    },
+    {
+        "date": "2013-05-04",
+        "team_1": "Sochaux",
+        "team_2": "Lorient",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.84,
+            "X": 3.23,
+            "2": 3.98
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/sochaux-lorient-88tEILWq/"
+    },
+    {
+        "date": "2013-05-04",
+        "team_1": "Toulouse",
+        "team_2": "Lille",
+        "score": {
+            "1": 4,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.88,
+            "X": 3.3,
+            "2": 1.91
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/toulouse-lille-roLGxsOF/"
+    },
+    {
+        "date": "2013-05-04",
+        "team_1": "Troyes",
+        "team_2": "Thonon-Evian",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.17,
+            "X": 3.17,
+            "2": 3.07
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/troyes-thonon-evian-6afnN1OS/"
+    },
+    {
+        "date": "2013-05-04",
+        "team_1": "Marseille",
+        "team_2": "Bastia",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.56,
+            "X": 3.73,
+            "2": 5.68
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/marseille-bastia-fPvMGa1d/"
+    },
+    {
+        "date": "2013-05-03",
+        "team_1": "St Etienne",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.48,
+            "X": 3.83,
+            "2": 6.13
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/st-etienne-bordeaux-Oz5sOs9M/"
+    },
+    {
+        "date": "2013-04-28",
+        "team_1": "Thonon-Evian",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 5.5,
+            "X": 3.55,
+            "2": 1.57
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/thonon-evian-psg-GdM0B4PG/"
+    },
+    {
+        "date": "2013-04-28",
+        "team_1": "Nice",
+        "team_2": "Troyes",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.78,
+            "X": 3.32,
+            "2": 4.2
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nice-troyes-SlLv4MHj/"
+    },
+    {
+        "date": "2013-04-28",
+        "team_1": "Lyon",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.45,
+            "X": 3.1,
+            "2": 2.68
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lyon-st-etienne-th9MS5fi/"
+    },
+    {
+        "date": "2013-04-27",
+        "team_1": "AC Ajaccio",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 3.1,
+            "2": 3.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/ac-ajaccio-montpellier-x6NdCpAA/"
+    },
+    {
+        "date": "2013-04-27",
+        "team_1": "Bastia",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.44,
+            "X": 3.04,
+            "2": 2.75
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bastia-toulouse-Kr8QRP9c/"
+    },
+    {
+        "date": "2013-04-27",
+        "team_1": "Bordeaux",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.65,
+            "X": 3.5,
+            "2": 4.88
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bordeaux-reims-OMP89rfT/"
+    },
+    {
+        "date": "2013-04-27",
+        "team_1": "Brest",
+        "team_2": "Rennes",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.66,
+            "X": 2.97,
+            "2": 2.6
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/brest-rennes-xK2VQqP3/"
+    },
+    {
+        "date": "2013-04-27",
+        "team_1": "Valenciennes",
+        "team_2": "Nancy",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.25,
+            "X": 3.09,
+            "2": 3.0
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/valenciennes-nancy-GA1ZP3vA/"
+    },
+    {
+        "date": "2013-04-27",
+        "team_1": "Lorient",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.56,
+            "X": 3.14,
+            "2": 2.6
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lorient-marseille-pWQ4AOvN/"
+    },
+    {
+        "date": "2013-04-26",
+        "team_1": "Lille",
+        "team_2": "Sochaux",
+        "score": {
+            "1": 3,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.34,
+            "X": 4.33,
+            "2": 8.27
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lille-sochaux-U32y522p/"
+    },
+    {
+        "date": "2013-04-24",
+        "team_1": "Rennes",
+        "team_2": "Troyes",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.85,
+            "X": 3.29,
+            "2": 4.04
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/rennes-troyes-tvUmE6ub/"
+    },
+    {
+        "date": "2013-04-24",
+        "team_1": "St Etienne",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 4,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.42,
+            "X": 3.9,
+            "2": 7.13
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/st-etienne-ac-ajaccio-tK9OBDJa/"
+    },
+    {
+        "date": "2013-04-21",
+        "team_1": "PSG",
+        "team_2": "Nice",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.37,
+            "X": 4.12,
+            "2": 7.88
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/psg-nice-8YP4iqYp/"
+    },
+    {
+        "date": "2013-04-21",
+        "team_1": "Nancy",
+        "team_2": "Thonon-Evian",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 3.0,
+            "2": 3.17
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nancy-thonon-evian-2TAKCg4g/"
+    },
+    {
+        "date": "2013-04-21",
+        "team_1": "Reims",
+        "team_2": "Valenciennes",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.1,
+            "X": 2.95,
+            "2": 3.52
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/reims-valenciennes-nHUqFnQi/"
+    },
+    {
+        "date": "2013-04-21",
+        "team_1": "Sochaux",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.59,
+            "X": 2.97,
+            "2": 2.69
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/sochaux-bordeaux-OraTAXY5/"
+    },
+    {
+        "date": "2013-04-21",
+        "team_1": "Toulouse",
+        "team_2": "Lorient",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.82,
+            "X": 3.2,
+            "2": 4.1
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/toulouse-lorient-fsYiDQf4/"
+    },
+    {
+        "date": "2013-04-21",
+        "team_1": "Bastia",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.88,
+            "X": 3.3,
+            "2": 1.89
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bastia-lille-8QVuGSAo/"
+    },
+    {
+        "date": "2013-04-20",
+        "team_1": "Marseille",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.34,
+            "X": 4.21,
+            "2": 10.18
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/marseille-brest-W82y9B3I/"
+    },
+    {
+        "date": "2013-04-19",
+        "team_1": "Montpellier",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 3.19,
+            "2": 3.02
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/montpellier-lyon-xn3X9ilC/"
+    },
+    {
+        "date": "2013-04-14",
+        "team_1": "Lille",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.87,
+            "X": 3.2,
+            "2": 4.02
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lille-marseille-OrwbehZI/"
+    },
+    {
+        "date": "2013-04-14",
+        "team_1": "Lyon",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.92,
+            "X": 3.1,
+            "2": 4.02
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lyon-toulouse-lMUqJeRP/"
+    },
+    {
+        "date": "2013-04-14",
+        "team_1": "Nice",
+        "team_2": "Sochaux",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.82,
+            "X": 3.17,
+            "2": 4.44
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nice-sochaux-xnRuKyCJ/"
+    },
+    {
+        "date": "2013-04-13",
+        "team_1": "AC Ajaccio",
+        "team_2": "Nancy",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.22,
+            "X": 2.9,
+            "2": 3.25
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/ac-ajaccio-nancy-t0sw0GKm/"
+    },
+    {
+        "date": "2013-04-13",
+        "team_1": "Bordeaux",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 4,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.22,
+            "X": 2.95,
+            "2": 3.35
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bordeaux-montpellier-phvfdYJC/"
+    },
+    {
+        "date": "2013-04-13",
+        "team_1": "Brest",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.45,
+            "X": 2.93,
+            "2": 2.83
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/brest-reims-f37CEFZt/"
+    },
+    {
+        "date": "2013-04-13",
+        "team_1": "Lorient",
+        "team_2": "Bastia",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.77,
+            "X": 3.4,
+            "2": 4.1
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lorient-bastia-SGqkcE46/"
+    },
+    {
+        "date": "2013-04-13",
+        "team_1": "Thonon-Evian",
+        "team_2": "Rennes",
+        "score": {
+            "1": 4,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 3.07,
+            "2": 3.1
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/thonon-evian-rennes-lQpobfk0/"
+    },
+    {
+        "date": "2013-04-13",
+        "team_1": "Troyes",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 5.1,
+            "X": 3.52,
+            "2": 1.63
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/troyes-psg-f3osazzf/"
+    },
+    {
+        "date": "2013-04-12",
+        "team_1": "Valenciennes",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.5,
+            "X": 3.2,
+            "2": 1.98
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/valenciennes-st-etienne-Yg6GDZlm/"
+    },
+    {
+        "date": "2013-04-07",
+        "team_1": "Lille",
+        "team_2": "Lorient",
+        "score": {
+            "1": 5,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.61,
+            "X": 3.54,
+            "2": 5.34
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lille-lorient-EVA8pyL0/"
+    },
+    {
+        "date": "2013-04-07",
+        "team_1": "Reims",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.43,
+            "X": 3.2,
+            "2": 2.06
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/reims-lyon-2ii36IsK/"
+    },
+    {
+        "date": "2013-04-07",
+        "team_1": "St Etienne",
+        "team_2": "Thonon-Evian",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.45,
+            "X": 3.8,
+            "2": 6.63
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/st-etienne-thonon-evian-I3Hancjl/"
+    },
+    {
+        "date": "2013-04-06",
+        "team_1": "Bastia",
+        "team_2": "Brest",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.69,
+            "X": 3.44,
+            "2": 4.77
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bastia-brest-O0ha7bSD/"
+    },
+    {
+        "date": "2013-04-06",
+        "team_1": "Montpellier",
+        "team_2": "Valenciennes",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.5,
+            "X": 3.57,
+            "2": 6.2
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/montpellier-valenciennes-8hACqez7/"
+    },
+    {
+        "date": "2013-04-06",
+        "team_1": "Nancy",
+        "team_2": "Troyes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 2.95,
+            "2": 3.84
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nancy-troyes-vDIemwyr/"
+    },
+    {
+        "date": "2013-04-06",
+        "team_1": "Sochaux",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.01,
+            "X": 3.1,
+            "2": 3.58
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/sochaux-ac-ajaccio-zuC4oH5f/"
+    },
+    {
+        "date": "2013-04-06",
+        "team_1": "Toulouse",
+        "team_2": "Nice",
+        "score": {
+            "1": 3,
+            "2": 4
+        },
+        "odds": {
+            "1": 1.95,
+            "X": 3.1,
+            "2": 3.78
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/toulouse-nice-byhY0d5s/"
+    },
+    {
+        "date": "2013-04-06",
+        "team_1": "Rennes",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.2,
+            "X": 3.0,
+            "2": 2.18
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/rennes-psg-dS565xcQ/"
+    },
+    {
+        "date": "2013-04-05",
+        "team_1": "Marseille",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.92,
+            "X": 3.03,
+            "2": 4.07
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/marseille-bordeaux-MeEGrFkD/"
+    },
+    {
+        "date": "2013-03-31",
+        "team_1": "Lyon",
+        "team_2": "Sochaux",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.48,
+            "X": 3.85,
+            "2": 6.18
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lyon-sochaux-0SpZVy67/"
+    },
+    {
+        "date": "2013-03-31",
+        "team_1": "Brest",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 5.1,
+            "X": 3.29,
+            "2": 1.64
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/brest-lille-SYxLgubE/"
+    },
+    {
+        "date": "2013-03-31",
+        "team_1": "Nice",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.87,
+            "X": 2.93,
+            "2": 2.5
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nice-marseille-MynVWHj1/"
+    },
+    {
+        "date": "2013-03-30",
+        "team_1": "AC Ajaccio",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.72,
+            "X": 2.9,
+            "2": 2.63
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/ac-ajaccio-toulouse-Uw7jv0bR/"
+    },
+    {
+        "date": "2013-03-30",
+        "team_1": "Bordeaux",
+        "team_2": "Lorient",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.82,
+            "X": 3.22,
+            "2": 4.3
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bordeaux-lorient-vDdQXcye/"
+    },
+    {
+        "date": "2013-03-30",
+        "team_1": "Rennes",
+        "team_2": "Nancy",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.68,
+            "X": 3.34,
+            "2": 4.86
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/rennes-nancy-AcSPhaDK/"
+    },
+    {
+        "date": "2013-03-30",
+        "team_1": "Thonon-Evian",
+        "team_2": "Reims",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.95,
+            "X": 3.07,
+            "2": 3.85
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/thonon-evian-reims-Q9hMYwMl/"
+    },
+    {
+        "date": "2013-03-30",
+        "team_1": "Valenciennes",
+        "team_2": "Bastia",
+        "score": {
+            "1": 3,
+            "2": 4
+        },
+        "odds": {
+            "1": 1.92,
+            "X": 3.05,
+            "2": 3.98
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/valenciennes-bastia-MXVTiJSQ/"
+    },
+    {
+        "date": "2013-03-30",
+        "team_1": "Troyes",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.97,
+            "X": 3.2,
+            "2": 1.87
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/troyes-st-etienne-WngIZJ6r/"
+    },
+    {
+        "date": "2013-03-29",
+        "team_1": "PSG",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.58,
+            "X": 3.5,
+            "2": 5.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/psg-montpellier-lrvHfLr8/"
+    },
+    {
+        "date": "2013-03-17",
+        "team_1": "St Etienne",
+        "team_2": "PSG",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.78,
+            "X": 3.0,
+            "2": 2.45
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/st-etienne-psg-WO6KgKtH/"
+    },
+    {
+        "date": "2013-03-17",
+        "team_1": "Toulouse",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.15,
+            "X": 2.88,
+            "2": 3.46
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/toulouse-bordeaux-lSkgutqL/"
+    },
+    {
+        "date": "2013-03-17",
+        "team_1": "Nancy",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.7,
+            "X": 2.9,
+            "2": 2.6
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nancy-nice-YwlHf0RA/"
+    },
+    {
+        "date": "2013-03-16",
+        "team_1": "Lille",
+        "team_2": "Thonon-Evian",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.42,
+            "X": 4.04,
+            "2": 7.43
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lille-thonon-evian-KnOdzWud/"
+    },
+    {
+        "date": "2013-03-16",
+        "team_1": "Lorient",
+        "team_2": "Brest",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.58,
+            "X": 3.54,
+            "2": 5.35
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lorient-brest-CMKlxhBq/"
+    },
+    {
+        "date": "2013-03-16",
+        "team_1": "Montpellier",
+        "team_2": "Troyes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.49,
+            "X": 3.62,
+            "2": 6.33
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/montpellier-troyes-bwN0Zke2/"
+    },
+    {
+        "date": "2013-03-16",
+        "team_1": "Reims",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.78,
+            "X": 2.97,
+            "2": 2.47
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/reims-rennes-AyiktMTE/"
+    },
+    {
+        "date": "2013-03-16",
+        "team_1": "Sochaux",
+        "team_2": "Valenciennes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.16,
+            "X": 3.0,
+            "2": 3.28
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/sochaux-valenciennes-jDJhyCQk/"
+    },
+    {
+        "date": "2013-03-16",
+        "team_1": "Bastia",
+        "team_2": "Lyon",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.88,
+            "X": 3.22,
+            "2": 1.88
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bastia-lyon-GEios2E8/"
+    },
+    {
+        "date": "2013-03-15",
+        "team_1": "Marseille",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.43,
+            "X": 3.9,
+            "2": 7.1
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/marseille-ac-ajaccio-2Bmsrra2/"
+    },
+    {
+        "date": "2013-03-10",
+        "team_1": "Lyon",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.08,
+            "X": 3.19,
+            "2": 3.37
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lyon-marseille-je8IZbko/"
+    },
+    {
+        "date": "2013-03-10",
+        "team_1": "Bordeaux",
+        "team_2": "Bastia",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.53,
+            "X": 3.48,
+            "2": 6.3
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bordeaux-bastia-WARouLRN/"
+    },
+    {
+        "date": "2013-03-10",
+        "team_1": "Nice",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.49,
+            "X": 2.88,
+            "2": 2.84
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nice-montpellier-EZGjvusU/"
+    },
+    {
+        "date": "2013-03-09",
+        "team_1": "AC Ajaccio",
+        "team_2": "Lorient",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.38,
+            "X": 3.0,
+            "2": 2.85
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/ac-ajaccio-lorient-63UZsNs5/"
+    },
+    {
+        "date": "2013-03-09",
+        "team_1": "Brest",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.0,
+            "X": 3.04,
+            "2": 2.29
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/brest-toulouse-rke4c2sh/"
+    },
+    {
+        "date": "2013-03-09",
+        "team_1": "Thonon-Evian",
+        "team_2": "Sochaux",
+        "score": {
+            "1": 5,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.11,
+            "X": 3.08,
+            "2": 3.23
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/thonon-evian-sochaux-hKSst1CH/"
+    },
+    {
+        "date": "2013-03-09",
+        "team_1": "Troyes",
+        "team_2": "Reims",
+        "score": {
+            "1": 4,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.03,
+            "X": 3.21,
+            "2": 3.44
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/troyes-reims-pfTwsscB/"
+    },
+    {
+        "date": "2013-03-09",
+        "team_1": "Valenciennes",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.37,
+            "X": 3.22,
+            "2": 2.05
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/valenciennes-lille-vHlDetC4/"
+    },
+    {
+        "date": "2013-03-09",
+        "team_1": "PSG",
+        "team_2": "Nancy",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.15,
+            "X": 6.23,
+            "2": 13.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/psg-nancy-4bd0brSo/"
+    },
+    {
+        "date": "2013-03-08",
+        "team_1": "Rennes",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.72,
+            "X": 3.05,
+            "2": 2.48
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/rennes-st-etienne-0Qk9dMdb/"
+    },
+    {
+        "date": "2013-03-03",
+        "team_1": "Lille",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.79,
+            "X": 3.19,
+            "2": 4.45
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lille-bordeaux-4z84SsrI/"
+    },
+    {
+        "date": "2013-03-03",
+        "team_1": "Marseille",
+        "team_2": "Troyes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.44,
+            "X": 4.07,
+            "2": 6.68
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/marseille-troyes-xl6CQLCU/"
+    },
+    {
+        "date": "2013-03-03",
+        "team_1": "Brest",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.45,
+            "X": 3.34,
+            "2": 1.76
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/brest-lyon-GEyNpPcn/"
+    },
+    {
+        "date": "2013-03-02",
+        "team_1": "Bastia",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.13,
+            "X": 3.07,
+            "2": 3.27
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bastia-ac-ajaccio-xOxJo5rt/"
+    },
+    {
+        "date": "2013-03-02",
+        "team_1": "Lorient",
+        "team_2": "Valenciennes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.75,
+            "X": 3.38,
+            "2": 4.43
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lorient-valenciennes-AyFeU3D5/"
+    },
+    {
+        "date": "2013-03-02",
+        "team_1": "Sochaux",
+        "team_2": "Nancy",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.87,
+            "X": 3.24,
+            "2": 3.95
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/sochaux-nancy-h040TNSB/"
+    },
+    {
+        "date": "2013-03-02",
+        "team_1": "St Etienne",
+        "team_2": "Nice",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.7,
+            "X": 3.2,
+            "2": 4.88
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/st-etienne-nice-WpGiVqba/"
+    },
+    {
+        "date": "2013-03-02",
+        "team_1": "Toulouse",
+        "team_2": "Thonon-Evian",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.72,
+            "X": 3.29,
+            "2": 4.85
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/toulouse-thonon-evian-OvuVr3Sb/"
+    },
+    {
+        "date": "2013-03-02",
+        "team_1": "Reims",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 6.52,
+            "X": 3.93,
+            "2": 1.46
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/reims-psg-AyyRqqDh/"
+    },
+    {
+        "date": "2013-03-01",
+        "team_1": "Montpellier",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.9,
+            "X": 3.24,
+            "2": 3.84
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/montpellier-rennes-bc78R1cO/"
+    },
+    {
+        "date": "2013-02-24",
+        "team_1": "PSG",
+        "team_2": "Marseille",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.49,
+            "X": 3.68,
+            "2": 6.13
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/psg-marseille-tdNvYoEt/"
+    },
+    {
+        "date": "2013-02-24",
+        "team_1": "Bordeaux",
+        "team_2": "Brest",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.44,
+            "X": 3.77,
+            "2": 8.02
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bordeaux-brest-CtqREODI/"
+    },
+    {
+        "date": "2013-02-24",
+        "team_1": "Lyon",
+        "team_2": "Lorient",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.68,
+            "X": 3.44,
+            "2": 5.02
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lyon-lorient-4zWCxS5P/"
+    },
+    {
+        "date": "2013-02-23",
+        "team_1": "AC Ajaccio",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.84,
+            "X": 3.21,
+            "2": 1.92
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/ac-ajaccio-lille-b3AII6Eg/"
+    },
+    {
+        "date": "2013-02-23",
+        "team_1": "Nancy",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.6,
+            "X": 3.2,
+            "2": 1.92
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nancy-st-etienne-C6EMHQTa/"
+    },
+    {
+        "date": "2013-02-23",
+        "team_1": "Thonon-Evian",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.94,
+            "X": 2.95,
+            "2": 2.49
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/thonon-evian-montpellier-pKCUF4bC/"
+    },
+    {
+        "date": "2013-02-23",
+        "team_1": "Troyes",
+        "team_2": "Bastia",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.9,
+            "X": 3.28,
+            "2": 3.77
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/troyes-bastia-6TDQGpq6/"
+    },
+    {
+        "date": "2013-02-23",
+        "team_1": "Valenciennes",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.4,
+            "X": 2.97,
+            "2": 2.9
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/valenciennes-toulouse-2BBmWPrg/"
+    },
+    {
+        "date": "2013-02-23",
+        "team_1": "Rennes",
+        "team_2": "Sochaux",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.61,
+            "X": 3.49,
+            "2": 5.47
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/rennes-sochaux-OKCqX5Tn/"
+    },
+    {
+        "date": "2013-02-22",
+        "team_1": "Nice",
+        "team_2": "Reims",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.62,
+            "X": 3.34,
+            "2": 5.67
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nice-reims-jXsVDrTO/"
+    },
+    {
+        "date": "2013-02-17",
+        "team_1": "Sochaux",
+        "team_2": "PSG",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 7.52,
+            "X": 4.12,
+            "2": 1.38
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/sochaux-psg-2yev5mpf/"
+    },
+    {
+        "date": "2013-02-17",
+        "team_1": "Reims",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.0,
+            "X": 3.1,
+            "2": 1.89
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/reims-st-etienne-xlM9KSqs/"
+    },
+    {
+        "date": "2013-02-17",
+        "team_1": "Bordeaux",
+        "team_2": "Lyon",
+        "score": {
+            "1": 0,
+            "2": 4
+        },
+        "odds": {
+            "1": 2.32,
+            "X": 2.94,
+            "2": 3.19
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bordeaux-lyon-KCkq47a0/"
+    },
+    {
+        "date": "2013-02-16",
+        "team_1": "Bastia",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.54,
+            "X": 2.95,
+            "2": 2.82
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bastia-nice-65VwQlMJ/"
+    },
+    {
+        "date": "2013-02-16",
+        "team_1": "Brest",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.45,
+            "X": 2.9,
+            "2": 2.99
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/brest-ac-ajaccio-pdUsP8yQ/"
+    },
+    {
+        "date": "2013-02-16",
+        "team_1": "Lorient",
+        "team_2": "Thonon-Evian",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 3.24,
+            "2": 4.32
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lorient-thonon-evian-Opdz6TUm/"
+    },
+    {
+        "date": "2013-02-16",
+        "team_1": "Montpellier",
+        "team_2": "Nancy",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.47,
+            "X": 3.66,
+            "2": 6.68
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/montpellier-nancy-hQmi2oUC/"
+    },
+    {
+        "date": "2013-02-16",
+        "team_1": "Toulouse",
+        "team_2": "Troyes",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.63,
+            "X": 3.37,
+            "2": 5.26
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/toulouse-troyes-GvLDJnam/"
+    },
+    {
+        "date": "2013-02-16",
+        "team_1": "Marseille",
+        "team_2": "Valenciennes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.55,
+            "X": 3.6,
+            "2": 6.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/marseille-valenciennes-40ie15qJ/"
+    },
+    {
+        "date": "2013-02-15",
+        "team_1": "Lille",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.81,
+            "X": 3.24,
+            "2": 4.2
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lille-rennes-b3lm3RE6/"
+    },
+    {
+        "date": "2013-02-10",
+        "team_1": "Lyon",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 3.05,
+            "2": 3.73
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lyon-lille-dWufQcG2/"
+    },
+    {
+        "date": "2013-02-10",
+        "team_1": "Rennes",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.03,
+            "X": 3.06,
+            "2": 3.74
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/rennes-toulouse-IoU2OyoF/"
+    },
+    {
+        "date": "2013-02-10",
+        "team_1": "Thonon-Evian",
+        "team_2": "Marseille",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.54,
+            "X": 3.1,
+            "2": 2.0
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/thonon-evian-marseille-jZh82fOe/"
+    },
+    {
+        "date": "2013-02-09",
+        "team_1": "AC Ajaccio",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.07,
+            "X": 2.99,
+            "2": 2.34
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/ac-ajaccio-bordeaux-byET9xWL/"
+    },
+    {
+        "date": "2013-02-09",
+        "team_1": "Nancy",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.85,
+            "X": 3.24,
+            "2": 4.07
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nancy-reims-xSCX8doS/"
+    },
+    {
+        "date": "2013-02-09",
+        "team_1": "Nice",
+        "team_2": "Lorient",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.15,
+            "X": 3.04,
+            "2": 3.39
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nice-lorient-UPiC1Ew2/"
+    },
+    {
+        "date": "2013-02-09",
+        "team_1": "Troyes",
+        "team_2": "Sochaux",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.91,
+            "X": 3.2,
+            "2": 3.95
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/troyes-sochaux-8A333z9k/"
+    },
+    {
+        "date": "2013-02-09",
+        "team_1": "Valenciennes",
+        "team_2": "Brest",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.55,
+            "X": 3.64,
+            "2": 5.68
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/valenciennes-brest-UNdW69Fs/"
+    },
+    {
+        "date": "2013-02-09",
+        "team_1": "St Etienne",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.89,
+            "X": 3.15,
+            "2": 3.84
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/st-etienne-montpellier-f7aa4Ggq/"
+    },
+    {
+        "date": "2013-02-08",
+        "team_1": "PSG",
+        "team_2": "Bastia",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.15,
+            "X": 5.88,
+            "2": 14.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/psg-bastia-zNvbPHV8/"
+    },
+    {
+        "date": "2013-02-03",
+        "team_1": "Marseille",
+        "team_2": "Nancy",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.36,
+            "X": 4.07,
+            "2": 7.85
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/marseille-nancy-A12DDKWd/"
+    },
+    {
+        "date": "2013-02-03",
+        "team_1": "Montpellier",
+        "team_2": "Reims",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.44,
+            "X": 3.86,
+            "2": 7.53
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/montpellier-reims-8dOUlyfd/"
+    },
+    {
+        "date": "2013-02-03",
+        "team_1": "AC Ajaccio",
+        "team_2": "Lyon",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.42,
+            "X": 3.22,
+            "2": 2.05
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/ac-ajaccio-lyon-2euncanG/"
+    },
+    {
+        "date": "2013-02-02",
+        "team_1": "Bastia",
+        "team_2": "Thonon-Evian",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.43,
+            "X": 3.02,
+            "2": 2.74
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bastia-thonon-evian-8nLGCvn3/"
+    },
+    {
+        "date": "2013-02-02",
+        "team_1": "Bordeaux",
+        "team_2": "Valenciennes",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.55,
+            "X": 3.59,
+            "2": 5.6
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bordeaux-valenciennes-0WKMjcPq/"
+    },
+    {
+        "date": "2013-02-02",
+        "team_1": "Brest",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.02,
+            "X": 2.95,
+            "2": 2.37
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/brest-nice-29KKBb19/"
+    },
+    {
+        "date": "2013-02-02",
+        "team_1": "Lille",
+        "team_2": "Troyes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.42,
+            "X": 3.9,
+            "2": 7.27
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lille-troyes-U5PQkHvj/"
+    },
+    {
+        "date": "2013-02-02",
+        "team_1": "Sochaux",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 4.0,
+            "X": 3.2,
+            "2": 1.84
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/sochaux-st-etienne-bNYfewHS/"
+    },
+    {
+        "date": "2013-02-02",
+        "team_1": "Lorient",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.42,
+            "X": 3.1,
+            "2": 2.79
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lorient-rennes-GbqjdJ1M/"
+    },
+    {
+        "date": "2013-02-01",
+        "team_1": "Toulouse",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 4
+        },
+        "odds": {
+            "1": 4.3,
+            "X": 3.2,
+            "2": 1.79
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/toulouse-psg-t0JOAIGF/"
+    },
+    {
+        "date": "2013-01-27",
+        "team_1": "PSG",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.44,
+            "X": 3.78,
+            "2": 7.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/psg-lille-AuRx1smi/"
+    },
+    {
+        "date": "2013-01-27",
+        "team_1": "Nice",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.32,
+            "X": 2.94,
+            "2": 3.14
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nice-bordeaux-dxwexbAj/"
+    },
+    {
+        "date": "2013-01-27",
+        "team_1": "St Etienne",
+        "team_2": "Bastia",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.43,
+            "X": 3.9,
+            "2": 6.63
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/st-etienne-bastia-URhGqtIG/"
+    },
+    {
+        "date": "2013-01-26",
+        "team_1": "Montpellier",
+        "team_2": "Sochaux",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.49,
+            "X": 3.53,
+            "2": 6.52
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/montpellier-sochaux-rZYjwvep/"
+    },
+    {
+        "date": "2013-01-26",
+        "team_1": "Nancy",
+        "team_2": "Lorient",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.75,
+            "X": 3.07,
+            "2": 2.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nancy-lorient-jyfCpM2A/"
+    },
+    {
+        "date": "2013-01-26",
+        "team_1": "Reims",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.95,
+            "X": 3.0,
+            "2": 2.39
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/reims-toulouse-lWPt012c/"
+    },
+    {
+        "date": "2013-01-26",
+        "team_1": "Thonon-Evian",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.87,
+            "X": 3.22,
+            "2": 3.79
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/thonon-evian-ac-ajaccio-xhdOsKnT/"
+    },
+    {
+        "date": "2013-01-26",
+        "team_1": "Troyes",
+        "team_2": "Brest",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 3.27,
+            "2": 4.4
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/troyes-brest-b1cKr0XM/"
+    },
+    {
+        "date": "2013-01-26",
+        "team_1": "Rennes",
+        "team_2": "Marseille",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.7,
+            "X": 2.94,
+            "2": 2.53
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/rennes-marseille-UssvaLH3/"
+    },
+    {
+        "date": "2013-01-25",
+        "team_1": "Valenciennes",
+        "team_2": "Lyon",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.9,
+            "X": 3.04,
+            "2": 2.35
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/valenciennes-lyon-8YurbuX9/"
+    },
+    {
+        "date": "2013-01-20",
+        "team_1": "Bordeaux",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.23,
+            "X": 2.98,
+            "2": 2.18
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bordeaux-psg-jyYtVt3N/"
+    },
+    {
+        "date": "2013-01-20",
+        "team_1": "Lille",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.69,
+            "X": 3.44,
+            "2": 4.83
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lille-nice-pbXpU0IT/"
+    },
+    {
+        "date": "2013-01-20",
+        "team_1": "Bastia",
+        "team_2": "Rennes",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.27,
+            "X": 3.1,
+            "2": 2.14
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bastia-rennes-2F1amOIi/"
+    },
+    {
+        "date": "2013-01-19",
+        "team_1": "AC Ajaccio",
+        "team_2": "Valenciennes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.3,
+            "X": 3.07,
+            "2": 2.92
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/ac-ajaccio-valenciennes-GIuUXrJ4/"
+    },
+    {
+        "date": "2013-01-19",
+        "team_1": "Brest",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.78,
+            "X": 3.15,
+            "2": 1.92
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/brest-st-etienne-dx13nrYc/"
+    },
+    {
+        "date": "2013-01-19",
+        "team_1": "Lorient",
+        "team_2": "Troyes",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.6,
+            "X": 3.48,
+            "2": 5.17
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lorient-troyes-f9vYW2YA/"
+    },
+    {
+        "date": "2013-01-19",
+        "team_1": "Toulouse",
+        "team_2": "Nancy",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.57,
+            "X": 3.57,
+            "2": 5.35
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/toulouse-nancy-8C47o2m4/"
+    },
+    {
+        "date": "2013-01-19",
+        "team_1": "Marseille",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.83,
+            "X": 3.22,
+            "2": 4.3
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/marseille-montpellier-n7JCPKQp/"
+    },
+    {
+        "date": "2013-01-19",
+        "team_1": "Sochaux",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 3.14,
+            "2": 3.55
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/sochaux-reims-xYTxWMmH/"
+    },
+    {
+        "date": "2013-01-18",
+        "team_1": "Lyon",
+        "team_2": "Thonon-Evian",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.32,
+            "X": 4.46,
+            "2": 8.28
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lyon-thonon-evian-OO2el43o/"
+    },
+    {
+        "date": "2013-01-13",
+        "team_1": "Sochaux",
+        "team_2": "Marseille",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.39,
+            "X": 3.37,
+            "2": 1.74
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/sochaux-marseille-ddN2U9CC/"
+    },
+    {
+        "date": "2013-01-13",
+        "team_1": "Nice",
+        "team_2": "Valenciennes",
+        "score": {
+            "1": 5,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.9,
+            "X": 3.27,
+            "2": 3.72
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nice-valenciennes-nPYDyRJu/"
+    },
+    {
+        "date": "2013-01-13",
+        "team_1": "Reims",
+        "team_2": "Bastia",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.14,
+            "X": 3.12,
+            "2": 3.25
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/reims-bastia-riSMZ4lh/"
+    },
+    {
+        "date": "2013-01-12",
+        "team_1": "Montpellier",
+        "team_2": "Lorient",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.67,
+            "X": 3.5,
+            "2": 4.84
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/montpellier-lorient-zmM6TTRI/"
+    },
+    {
+        "date": "2013-01-12",
+        "team_1": "Nancy",
+        "team_2": "Lille",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.95,
+            "X": 3.27,
+            "2": 1.84
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nancy-lille-fXQoYiDm/"
+    },
+    {
+        "date": "2013-01-12",
+        "team_1": "Rennes",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.3,
+            "X": 2.98,
+            "2": 3.12
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/rennes-bordeaux-MsRQYO3b/"
+    },
+    {
+        "date": "2013-01-12",
+        "team_1": "Thonon-Evian",
+        "team_2": "Brest",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.69,
+            "X": 3.37,
+            "2": 4.67
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/thonon-evian-brest-vLScVkc6/"
+    },
+    {
+        "date": "2013-01-12",
+        "team_1": "Troyes",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 4.03,
+            "X": 3.34,
+            "2": 1.81
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/troyes-lyon-0UTgWVs0/"
+    },
+    {
+        "date": "2013-01-11",
+        "team_1": "PSG",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.09,
+            "X": 7.63,
+            "2": 18.25
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/psg-ac-ajaccio-0SxIzoZo/"
+    },
+    {
+        "date": "2013-01-11",
+        "team_1": "St Etienne",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.88,
+            "X": 3.1,
+            "2": 3.95
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/st-etienne-toulouse-67UkXBSg/"
+    },
+    {
+        "date": "2012-12-23",
+        "team_1": "Marseille",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.78,
+            "X": 3.28,
+            "2": 4.2
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/marseille-st-etienne-je6Auh57/"
+    },
+    {
+        "date": "2012-12-23",
+        "team_1": "Toulouse",
+        "team_2": "Sochaux",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.57,
+            "X": 3.47,
+            "2": 6.04
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/toulouse-sochaux-AakFwEkQ/"
+    },
+    {
+        "date": "2012-12-23",
+        "team_1": "Valenciennes",
+        "team_2": "Thonon-Evian",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.87,
+            "X": 3.34,
+            "2": 4.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/valenciennes-thonon-evian-C8ysZXcs/"
+    },
+    {
+        "date": "2012-12-22",
+        "team_1": "AC Ajaccio",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 4
+        },
+        "odds": {
+            "1": 2.67,
+            "X": 3.02,
+            "2": 2.62
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/ac-ajaccio-rennes-buh1qz6r/"
+    },
+    {
+        "date": "2012-12-22",
+        "team_1": "Bastia",
+        "team_2": "Nancy",
+        "score": {
+            "1": 4,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.41,
+            "X": 3.04,
+            "2": 2.87
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bastia-nancy-2Zo7uzLD/"
+    },
+    {
+        "date": "2012-12-22",
+        "team_1": "Bordeaux",
+        "team_2": "Troyes",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.4,
+            "X": 4.08,
+            "2": 7.33
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bordeaux-troyes-Is82sEze/"
+    },
+    {
+        "date": "2012-12-22",
+        "team_1": "Lorient",
+        "team_2": "Reims",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.46,
+            "X": 3.75,
+            "2": 6.68
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lorient-reims-xWj5rfLl/"
+    },
+    {
+        "date": "2012-12-22",
+        "team_1": "Lyon",
+        "team_2": "Nice",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.58,
+            "X": 3.62,
+            "2": 5.2
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lyon-nice-4bAEvCKD/"
+    },
+    {
+        "date": "2012-12-22",
+        "team_1": "Lille",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.94,
+            "X": 3.1,
+            "2": 3.87
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lille-montpellier-dY66tYk1/"
+    },
+    {
+        "date": "2012-12-21",
+        "team_1": "Brest",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 7.1,
+            "X": 3.97,
+            "2": 1.41
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/brest-psg-tQpBvfzK/"
+    },
+    {
+        "date": "2012-12-16",
+        "team_1": "PSG",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.56,
+            "X": 3.86,
+            "2": 5.53
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/psg-lyon-t05ZmGcR/"
+    },
+    {
+        "date": "2012-12-16",
+        "team_1": "St Etienne",
+        "team_2": "Lorient",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.67,
+            "X": 3.3,
+            "2": 5.0
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/st-etienne-lorient-44DOVGyq/"
+    },
+    {
+        "date": "2012-12-16",
+        "team_1": "Nancy",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.88,
+            "X": 3.05,
+            "2": 2.48
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nancy-bordeaux-2eRdzcTR/"
+    },
+    {
+        "date": "2012-12-15",
+        "team_1": "Montpellier",
+        "team_2": "Bastia",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.43,
+            "X": 3.97,
+            "2": 6.93
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/montpellier-bastia-vyLzTEL1/"
+    },
+    {
+        "date": "2012-12-15",
+        "team_1": "Nice",
+        "team_2": "Thonon-Evian",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.78,
+            "X": 3.3,
+            "2": 4.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nice-thonon-evian-IRJvSYz8/"
+    },
+    {
+        "date": "2012-12-15",
+        "team_1": "Reims",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.31,
+            "X": 3.28,
+            "2": 1.83
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/reims-lille-6sDMjID8/"
+    },
+    {
+        "date": "2012-12-15",
+        "team_1": "Sochaux",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.1,
+            "X": 3.0,
+            "2": 3.41
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/sochaux-brest-dCVVTf6e/"
+    },
+    {
+        "date": "2012-12-15",
+        "team_1": "Troyes",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.34,
+            "X": 2.95,
+            "2": 3.01
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/troyes-ac-ajaccio-bRCSUzik/"
+    },
+    {
+        "date": "2012-12-15",
+        "team_1": "Toulouse",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.66,
+            "X": 3.04,
+            "2": 2.68
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/toulouse-marseille-Sd1VldrL/"
+    },
+    {
+        "date": "2012-12-14",
+        "team_1": "Rennes",
+        "team_2": "Valenciennes",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.95,
+            "X": 3.23,
+            "2": 3.82
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/rennes-valenciennes-pYBQkxTE/"
+    },
+    {
+        "date": "2012-12-13",
+        "team_1": "Bordeaux",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.05,
+            "X": 3.1,
+            "2": 3.4
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bordeaux-st-etienne-AshkHHMk/"
+    },
+    {
+        "date": "2012-12-12",
+        "team_1": "Bastia",
+        "team_2": "Marseille",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.17,
+            "X": 3.15,
+            "2": 2.16
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bastia-marseille-C6Yqwaq9/"
+    },
+    {
+        "date": "2012-12-12",
+        "team_1": "AC Ajaccio",
+        "team_2": "Reims",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.78,
+            "X": 3.19,
+            "2": 4.6
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/ac-ajaccio-reims-C6CENJqM/"
+    },
+    {
+        "date": "2012-12-12",
+        "team_1": "Brest",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.2,
+            "X": 3.09,
+            "2": 2.22
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/brest-montpellier-6TXmxJbF/"
+    },
+    {
+        "date": "2012-12-12",
+        "team_1": "Lorient",
+        "team_2": "Sochaux",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.58,
+            "X": 3.5,
+            "2": 5.67
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lorient-sochaux-WjgoIc7q/"
+    },
+    {
+        "date": "2012-12-12",
+        "team_1": "Lyon",
+        "team_2": "Nancy",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.3,
+            "X": 4.42,
+            "2": 8.67
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lyon-nancy-b3UuvuU2/"
+    },
+    {
+        "date": "2012-12-12",
+        "team_1": "Thonon-Evian",
+        "team_2": "Troyes",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 3.17,
+            "2": 4.52
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/thonon-evian-troyes-Q9GIMwaS/"
+    },
+    {
+        "date": "2012-12-11",
+        "team_1": "Lille",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.71,
+            "X": 3.37,
+            "2": 4.94
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lille-toulouse-I7igGyxd/"
+    },
+    {
+        "date": "2012-12-11",
+        "team_1": "Nice",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.25,
+            "X": 3.04,
+            "2": 3.14
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nice-rennes-dbjcFei2/"
+    },
+    {
+        "date": "2012-12-11",
+        "team_1": "Valenciennes",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 4
+        },
+        "odds": {
+            "1": 3.98,
+            "X": 3.25,
+            "2": 1.84
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/valenciennes-psg-pKWiywEL/"
+    },
+    {
+        "date": "2012-12-09",
+        "team_1": "St Etienne",
+        "team_2": "Lyon",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.29,
+            "X": 3.05,
+            "2": 2.93
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/st-etienne-lyon-UPBZMngB/"
+    },
+    {
+        "date": "2012-12-09",
+        "team_1": "Marseille",
+        "team_2": "Lorient",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.57,
+            "X": 3.47,
+            "2": 5.68
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/marseille-lorient-UNWF2I7d/"
+    },
+    {
+        "date": "2012-12-09",
+        "team_1": "Reims",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.44,
+            "X": 3.14,
+            "2": 2.07
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/reims-bordeaux-MHJ1QLa3/"
+    },
+    {
+        "date": "2012-12-08",
+        "team_1": "Montpellier",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.61,
+            "X": 3.37,
+            "2": 5.34
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/montpellier-ac-ajaccio-ImTB3bhj/"
+    },
+    {
+        "date": "2012-12-08",
+        "team_1": "Nancy",
+        "team_2": "Valenciennes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.6,
+            "X": 3.03,
+            "2": 2.67
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nancy-valenciennes-jZCVNSw5/"
+    },
+    {
+        "date": "2012-12-08",
+        "team_1": "Rennes",
+        "team_2": "Brest",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.62,
+            "X": 3.27,
+            "2": 6.05
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/rennes-brest-vgE6PuF9/"
+    },
+    {
+        "date": "2012-12-08",
+        "team_1": "Sochaux",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.92,
+            "X": 3.24,
+            "2": 1.89
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/sochaux-lille-zPw74vwp/"
+    },
+    {
+        "date": "2012-12-08",
+        "team_1": "Troyes",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.77,
+            "X": 2.97,
+            "2": 2.55
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/troyes-nice-baGwM68H/"
+    },
+    {
+        "date": "2012-12-08",
+        "team_1": "PSG",
+        "team_2": "Thonon-Evian",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.19,
+            "X": 5.5,
+            "2": 11.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/psg-thonon-evian-rRKcR1pc/"
+    },
+    {
+        "date": "2012-12-07",
+        "team_1": "Toulouse",
+        "team_2": "Bastia",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.63,
+            "X": 3.54,
+            "2": 5.35
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/toulouse-bastia-IqDAOaUF/"
+    },
+    {
+        "date": "2012-12-02",
+        "team_1": "Lorient",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.67,
+            "X": 2.94,
+            "2": 2.6
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lorient-toulouse-vLE88mvI/"
+    },
+    {
+        "date": "2012-12-02",
+        "team_1": "Troyes",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.02,
+            "X": 3.04,
+            "2": 2.3
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/troyes-rennes-rgLaA995/"
+    },
+    {
+        "date": "2012-12-02",
+        "team_1": "Brest",
+        "team_2": "Marseille",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.17,
+            "X": 3.07,
+            "2": 2.22
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/brest-marseille-f7JMPl9h/"
+    },
+    {
+        "date": "2012-12-01",
+        "team_1": "Bordeaux",
+        "team_2": "Sochaux",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.4,
+            "X": 3.95,
+            "2": 7.77
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bordeaux-sochaux-YsEC77gO/"
+    },
+    {
+        "date": "2012-12-01",
+        "team_1": "Lille",
+        "team_2": "Bastia",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.33,
+            "X": 4.58,
+            "2": 7.93
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lille-bastia-CYCG6R8U/"
+    },
+    {
+        "date": "2012-12-01",
+        "team_1": "Nice",
+        "team_2": "PSG",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.42,
+            "X": 3.35,
+            "2": 1.75
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nice-psg-MgLERAvt/"
+    },
+    {
+        "date": "2012-12-01",
+        "team_1": "Thonon-Evian",
+        "team_2": "Nancy",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.87,
+            "X": 3.24,
+            "2": 3.95
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/thonon-evian-nancy-QHA49TOB/"
+    },
+    {
+        "date": "2012-12-01",
+        "team_1": "Valenciennes",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.5,
+            "X": 3.74,
+            "2": 6.1
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/valenciennes-reims-8ANQO8Ob/"
+    },
+    {
+        "date": "2012-12-01",
+        "team_1": "Lyon",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.73,
+            "X": 3.44,
+            "2": 4.36
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lyon-montpellier-0pKIQUgn/"
+    },
+    {
+        "date": "2012-11-30",
+        "team_1": "AC Ajaccio",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.88,
+            "X": 3.0,
+            "2": 2.34
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/ac-ajaccio-st-etienne-42MeBkfa/"
+    },
+    {
+        "date": "2012-11-28",
+        "team_1": "Marseille",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 4
+        },
+        "odds": {
+            "1": 2.08,
+            "X": 3.15,
+            "2": 3.44
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/marseille-lyon-UT1ovoT9/"
+    },
+    {
+        "date": "2012-11-25",
+        "team_1": "Marseille",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.22,
+            "X": 3.02,
+            "2": 3.22
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/marseille-lille-zTHiCVvg/"
+    },
+    {
+        "date": "2012-11-25",
+        "team_1": "Toulouse",
+        "team_2": "Lyon",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.45,
+            "X": 2.99,
+            "2": 2.89
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/toulouse-lyon-dxJmDBPn/"
+    },
+    {
+        "date": "2012-11-25",
+        "team_1": "Montpellier",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.24,
+            "X": 3.07,
+            "2": 3.24
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/montpellier-bordeaux-UkeQeAfC/"
+    },
+    {
+        "date": "2012-11-24",
+        "team_1": "Bastia",
+        "team_2": "Lorient",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.32,
+            "X": 3.17,
+            "2": 2.9
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bastia-lorient-QHlZglPO/"
+    },
+    {
+        "date": "2012-11-24",
+        "team_1": "Nancy",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 2.93,
+            "2": 3.19
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nancy-ac-ajaccio-rZhEbCAg/"
+    },
+    {
+        "date": "2012-11-24",
+        "team_1": "Reims",
+        "team_2": "Brest",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.08,
+            "X": 3.04,
+            "2": 3.37
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/reims-brest-vLxHIX1P/"
+    },
+    {
+        "date": "2012-11-24",
+        "team_1": "Rennes",
+        "team_2": "Thonon-Evian",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.54,
+            "X": 3.68,
+            "2": 5.58
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/rennes-thonon-evian-EDTrEiAt/"
+    },
+    {
+        "date": "2012-11-24",
+        "team_1": "Sochaux",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.39,
+            "X": 2.97,
+            "2": 2.85
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/sochaux-nice-jadMdju6/"
+    },
+    {
+        "date": "2012-11-24",
+        "team_1": "PSG",
+        "team_2": "Troyes",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.16,
+            "X": 6.0,
+            "2": 12.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/psg-troyes-nRkVfU9I/"
+    },
+    {
+        "date": "2012-11-23",
+        "team_1": "St Etienne",
+        "team_2": "Valenciennes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.7,
+            "X": 3.45,
+            "2": 4.42
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/st-etienne-valenciennes-dxcIcWPa/"
+    },
+    {
+        "date": "2012-11-18",
+        "team_1": "Bordeaux",
+        "team_2": "Marseille",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.12,
+            "X": 3.04,
+            "2": 3.44
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bordeaux-marseille-0A39ahem/"
+    },
+    {
+        "date": "2012-11-18",
+        "team_1": "Nice",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.57,
+            "X": 2.89,
+            "2": 2.77
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nice-toulouse-dxymriQC/"
+    },
+    {
+        "date": "2012-11-18",
+        "team_1": "Lyon",
+        "team_2": "Reims",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.34,
+            "X": 4.18,
+            "2": 7.87
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lyon-reims-AuuisBuJ/"
+    },
+    {
+        "date": "2012-11-17",
+        "team_1": "AC Ajaccio",
+        "team_2": "Sochaux",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.72,
+            "X": 3.28,
+            "2": 4.5
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/ac-ajaccio-sochaux-SdqWoZQm/"
+    },
+    {
+        "date": "2012-11-17",
+        "team_1": "Brest",
+        "team_2": "Bastia",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.26,
+            "X": 3.1,
+            "2": 2.89
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/brest-bastia-jyIw5EXP/"
+    },
+    {
+        "date": "2012-11-17",
+        "team_1": "Thonon-Evian",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.4,
+            "X": 3.1,
+            "2": 2.05
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/thonon-evian-st-etienne-OOxupDe0/"
+    },
+    {
+        "date": "2012-11-17",
+        "team_1": "Troyes",
+        "team_2": "Nancy",
+        "score": {
+            "1": 3,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.23,
+            "X": 2.98,
+            "2": 3.05
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/troyes-nancy-6mrzogtf/"
+    },
+    {
+        "date": "2012-11-17",
+        "team_1": "Valenciennes",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.07,
+            "X": 3.1,
+            "2": 3.44
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/valenciennes-montpellier-MJ450Yus/"
+    },
+    {
+        "date": "2012-11-17",
+        "team_1": "PSG",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.53,
+            "X": 3.65,
+            "2": 5.63
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/psg-rennes-CpJZ5fIJ/"
+    },
+    {
+        "date": "2012-11-16",
+        "team_1": "Lorient",
+        "team_2": "Lille",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.1,
+            "X": 3.01,
+            "2": 2.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lorient-lille-2FyqqXA6/"
+    },
+    {
+        "date": "2012-11-11",
+        "team_1": "Montpellier",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.19,
+            "X": 3.18,
+            "2": 2.1
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/montpellier-psg-YZqSnFBs/"
+    },
+    {
+        "date": "2012-11-11",
+        "team_1": "Lorient",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 0,
+            "2": 4
+        },
+        "odds": {
+            "1": 2.55,
+            "X": 3.0,
+            "2": 2.7
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lorient-bordeaux-Sr4cXZBf/"
+    },
+    {
+        "date": "2012-11-11",
+        "team_1": "Sochaux",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.14,
+            "X": 3.24,
+            "2": 1.79
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/sochaux-lyon-tn81WgR0/"
+    },
+    {
+        "date": "2012-11-11",
+        "team_1": "Marseille",
+        "team_2": "Nice",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.43,
+            "X": 3.85,
+            "2": 6.83
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/marseille-nice-21dAUXeD/"
+    },
+    {
+        "date": "2012-11-10",
+        "team_1": "Bastia",
+        "team_2": "Valenciennes",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.35,
+            "X": 3.29,
+            "2": 2.77
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bastia-valenciennes-jHkhgHYD/"
+    },
+    {
+        "date": "2012-11-10",
+        "team_1": "Reims",
+        "team_2": "Thonon-Evian",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.01,
+            "X": 3.05,
+            "2": 3.52
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/reims-thonon-evian-U7ldhylK/"
+    },
+    {
+        "date": "2012-11-10",
+        "team_1": "St Etienne",
+        "team_2": "Troyes",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.31,
+            "X": 4.45,
+            "2": 8.63
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/st-etienne-troyes-YL4gYFdl/"
+    },
+    {
+        "date": "2012-11-10",
+        "team_1": "Toulouse",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 2,
+            "2": 4
+        },
+        "odds": {
+            "1": 1.49,
+            "X": 3.55,
+            "2": 6.38
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/toulouse-ac-ajaccio-CWw1ie3Q/"
+    },
+    {
+        "date": "2012-11-10",
+        "team_1": "Lille",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.33,
+            "X": 4.37,
+            "2": 8.85
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lille-brest-OAc6VDt7/"
+    },
+    {
+        "date": "2012-11-09",
+        "team_1": "Nancy",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.98,
+            "X": 3.01,
+            "2": 2.32
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nancy-rennes-fV5kZesr/"
+    },
+    {
+        "date": "2012-11-07",
+        "team_1": "Sochaux",
+        "team_2": "Thonon-Evian",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.25,
+            "X": 3.02,
+            "2": 3.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/sochaux-thonon-evian-MNvKNPrT/"
+    },
+    {
+        "date": "2012-11-04",
+        "team_1": "Bordeaux",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.17,
+            "X": 3.0,
+            "2": 3.32
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bordeaux-toulouse-KbtQW2Lq/"
+    },
+    {
+        "date": "2012-11-04",
+        "team_1": "Lyon",
+        "team_2": "Bastia",
+        "score": {
+            "1": 5,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.47,
+            "X": 3.9,
+            "2": 5.76
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lyon-bastia-SOqYUtjd/"
+    },
+    {
+        "date": "2012-11-04",
+        "team_1": "AC Ajaccio",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.37,
+            "X": 3.07,
+            "2": 2.06
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/ac-ajaccio-marseille-Oj1kw5rG/"
+    },
+    {
+        "date": "2012-11-03",
+        "team_1": "Nice",
+        "team_2": "Nancy",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.83,
+            "X": 3.19,
+            "2": 4.03
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nice-nancy-lYpUVMzj/"
+    },
+    {
+        "date": "2012-11-03",
+        "team_1": "Rennes",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.53,
+            "X": 3.6,
+            "2": 5.67
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/rennes-reims-xfROi4c9/"
+    },
+    {
+        "date": "2012-11-03",
+        "team_1": "Thonon-Evian",
+        "team_2": "Lille",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.25,
+            "X": 3.1,
+            "2": 2.14
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/thonon-evian-lille-IkfbyqDS/"
+    },
+    {
+        "date": "2012-11-03",
+        "team_1": "Troyes",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.51,
+            "X": 3.07,
+            "2": 2.01
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/troyes-montpellier-zR4gxPcM/"
+    },
+    {
+        "date": "2012-11-03",
+        "team_1": "Valenciennes",
+        "team_2": "Sochaux",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.55,
+            "X": 3.61,
+            "2": 5.17
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/valenciennes-sochaux-GpQSjOCF/"
+    },
+    {
+        "date": "2012-11-03",
+        "team_1": "PSG",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.45,
+            "X": 4.05,
+            "2": 5.88
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/psg-st-etienne-UTNGgQSd/"
+    },
+    {
+        "date": "2012-11-02",
+        "team_1": "Brest",
+        "team_2": "Lorient",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.99,
+            "X": 2.97,
+            "2": 2.37
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/brest-lorient-rXRKhpr3/"
+    },
+    {
+        "date": "2012-10-28",
+        "team_1": "Bastia",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.7,
+            "X": 3.04,
+            "2": 2.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bastia-bordeaux-fB9Ytmqi/"
+    },
+    {
+        "date": "2012-10-28",
+        "team_1": "Lorient",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 4,
+            "2": 4
+        },
+        "odds": {
+            "1": 1.65,
+            "X": 3.35,
+            "2": 4.83
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lorient-ac-ajaccio-rXuGO5TM/"
+    },
+    {
+        "date": "2012-10-27",
+        "team_1": "Montpellier",
+        "team_2": "Nice",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.71,
+            "X": 3.37,
+            "2": 4.38
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/montpellier-nice-t8LjI36j/"
+    },
+    {
+        "date": "2012-10-27",
+        "team_1": "Nancy",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 7.18,
+            "X": 3.8,
+            "2": 1.43
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nancy-psg-A5S8QRbA/"
+    },
+    {
+        "date": "2012-10-27",
+        "team_1": "Reims",
+        "team_2": "Troyes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.75,
+            "X": 3.29,
+            "2": 4.26
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/reims-troyes-Y18xt7bc/"
+    },
+    {
+        "date": "2012-10-27",
+        "team_1": "Toulouse",
+        "team_2": "Brest",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.41,
+            "X": 3.68,
+            "2": 7.6
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/toulouse-brest-jw3suRD3/"
+    },
+    {
+        "date": "2012-10-27",
+        "team_1": "Lille",
+        "team_2": "Valenciennes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.63,
+            "X": 3.47,
+            "2": 5.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lille-valenciennes-S4HnJqip/"
+    },
+    {
+        "date": "2012-10-26",
+        "team_1": "St Etienne",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.83,
+            "X": 3.2,
+            "2": 4.05
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/st-etienne-rennes-ldRCPoEG/"
+    },
+    {
+        "date": "2012-10-21",
+        "team_1": "Troyes",
+        "team_2": "Marseille",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 5.43,
+            "X": 3.57,
+            "2": 1.58
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/troyes-marseille-fZFySJIH/"
+    },
+    {
+        "date": "2012-10-21",
+        "team_1": "Lyon",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.29,
+            "X": 4.5,
+            "2": 9.52
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lyon-brest-tQzhU9ao/"
+    },
+    {
+        "date": "2012-10-21",
+        "team_1": "AC Ajaccio",
+        "team_2": "Bastia",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.3,
+            "X": 3.02,
+            "2": 2.98
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/ac-ajaccio-bastia-YJRSTul5/"
+    },
+    {
+        "date": "2012-10-20",
+        "team_1": "Nancy",
+        "team_2": "Sochaux",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.92,
+            "X": 2.99,
+            "2": 3.95
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nancy-sochaux-CAQWSa3B/"
+    },
+    {
+        "date": "2012-10-20",
+        "team_1": "Nice",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.68,
+            "X": 3.0,
+            "2": 2.5
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nice-st-etienne-2u5BLHeo/"
+    },
+    {
+        "date": "2012-10-20",
+        "team_1": "Rennes",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.19,
+            "X": 3.02,
+            "2": 3.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/rennes-montpellier-EwZaSmUc/"
+    },
+    {
+        "date": "2012-10-20",
+        "team_1": "Thonon-Evian",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 0,
+            "2": 4
+        },
+        "odds": {
+            "1": 2.67,
+            "X": 2.92,
+            "2": 2.55
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/thonon-evian-toulouse-69JuRwYN/"
+    },
+    {
+        "date": "2012-10-20",
+        "team_1": "Valenciennes",
+        "team_2": "Lorient",
+        "score": {
+            "1": 6,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.08,
+            "X": 3.08,
+            "2": 3.28
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/valenciennes-lorient-Stw4R7q4/"
+    },
+    {
+        "date": "2012-10-20",
+        "team_1": "PSG",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.2,
+            "X": 5.53,
+            "2": 12.08
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/psg-reims-KGZeTTEi/"
+    },
+    {
+        "date": "2012-10-19",
+        "team_1": "Bordeaux",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.25,
+            "X": 2.95,
+            "2": 3.29
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bordeaux-lille-0WIqQcmU/"
+    },
+    {
+        "date": "2012-10-07",
+        "team_1": "Marseille",
+        "team_2": "PSG",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.0,
+            "X": 3.0,
+            "2": 2.27
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/marseille-psg-4pNOULYb/"
+    },
+    {
+        "date": "2012-10-07",
+        "team_1": "Lorient",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.51,
+            "X": 2.99,
+            "2": 2.7
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lorient-lyon-0jucGMJ5/"
+    },
+    {
+        "date": "2012-10-07",
+        "team_1": "Brest",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.84,
+            "X": 2.98,
+            "2": 1.95
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/brest-bordeaux-URUBXNlt/"
+    },
+    {
+        "date": "2012-10-06",
+        "team_1": "Bastia",
+        "team_2": "Troyes",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.6,
+            "X": 3.54,
+            "2": 4.94
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bastia-troyes-h6g6CvJU/"
+    },
+    {
+        "date": "2012-10-06",
+        "team_1": "Lille",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.38,
+            "X": 4.02,
+            "2": 7.62
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lille-ac-ajaccio-Y3w5E0lI/"
+    },
+    {
+        "date": "2012-10-06",
+        "team_1": "Reims",
+        "team_2": "Nice",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.23,
+            "X": 2.99,
+            "2": 3.05
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/reims-nice-rVYFWs4n/"
+    },
+    {
+        "date": "2012-10-06",
+        "team_1": "Sochaux",
+        "team_2": "Rennes",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.08,
+            "X": 3.05,
+            "2": 2.2
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/sochaux-rennes-fDv1FtZB/"
+    },
+    {
+        "date": "2012-10-06",
+        "team_1": "Toulouse",
+        "team_2": "Valenciennes",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.77,
+            "X": 3.16,
+            "2": 4.35
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/toulouse-valenciennes-QgOKV1Jh/"
+    },
+    {
+        "date": "2012-10-06",
+        "team_1": "Montpellier",
+        "team_2": "Thonon-Evian",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.61,
+            "X": 3.42,
+            "2": 5.13
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/montpellier-thonon-evian-EFf2DK3O/"
+    },
+    {
+        "date": "2012-10-05",
+        "team_1": "St Etienne",
+        "team_2": "Nancy",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.53,
+            "X": 3.6,
+            "2": 6.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/st-etienne-nancy-nmygH24a/"
+    },
+    {
+        "date": "2012-09-30",
+        "team_1": "Lyon",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.95,
+            "X": 3.11,
+            "2": 3.78
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lyon-bordeaux-KYKCyXkE/"
+    },
+    {
+        "date": "2012-09-30",
+        "team_1": "St Etienne",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.48,
+            "X": 3.85,
+            "2": 6.0
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/st-etienne-reims-nVPIFkTf/"
+    },
+    {
+        "date": "2012-09-30",
+        "team_1": "Valenciennes",
+        "team_2": "Marseille",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.18,
+            "X": 3.01,
+            "2": 2.22
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/valenciennes-marseille-4OolIrkg/"
+    },
+    {
+        "date": "2012-09-29",
+        "team_1": "AC Ajaccio",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.72,
+            "X": 3.23,
+            "2": 4.63
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/ac-ajaccio-brest-j3W9HBbr/"
+    },
+    {
+        "date": "2012-09-29",
+        "team_1": "Nancy",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.96,
+            "X": 2.91,
+            "2": 2.33
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nancy-montpellier-UgVDGVDl/"
+    },
+    {
+        "date": "2012-09-29",
+        "team_1": "Nice",
+        "team_2": "Bastia",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.13,
+            "X": 3.08,
+            "2": 3.15
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nice-bastia-ITtUCmDD/"
+    },
+    {
+        "date": "2012-09-29",
+        "team_1": "Thonon-Evian",
+        "team_2": "Lorient",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.32,
+            "X": 2.95,
+            "2": 2.95
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/thonon-evian-lorient-KrOQDTc7/"
+    },
+    {
+        "date": "2012-09-29",
+        "team_1": "Troyes",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.95,
+            "X": 2.92,
+            "2": 2.32
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/troyes-toulouse-QLOME9r1/"
+    },
+    {
+        "date": "2012-09-29",
+        "team_1": "PSG",
+        "team_2": "Sochaux",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.15,
+            "X": 6.13,
+            "2": 13.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/psg-sochaux-dbrtK4Kt/"
+    },
+    {
+        "date": "2012-09-28",
+        "team_1": "Rennes",
+        "team_2": "Lille",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.51,
+            "X": 2.93,
+            "2": 2.67
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/rennes-lille-QXnpJOZn/"
+    },
+    {
+        "date": "2012-09-23",
+        "team_1": "Lille",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.12,
+            "X": 3.42,
+            "2": 3.11
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lille-lyon-YNqrMijR/"
+    },
+    {
+        "date": "2012-09-23",
+        "team_1": "Marseille",
+        "team_2": "Thonon-Evian",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.39,
+            "X": 3.93,
+            "2": 7.82
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/marseille-thonon-evian-h84q1jE1/"
+    },
+    {
+        "date": "2012-09-23",
+        "team_1": "Bordeaux",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.47,
+            "X": 3.6,
+            "2": 6.6
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bordeaux-ac-ajaccio-dtBz3Cqk/"
+    },
+    {
+        "date": "2012-09-22",
+        "team_1": "Brest",
+        "team_2": "Valenciennes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.75,
+            "X": 2.88,
+            "2": 2.52
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/brest-valenciennes-b5iVOg68/"
+    },
+    {
+        "date": "2012-09-22",
+        "team_1": "Lorient",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.71,
+            "X": 3.27,
+            "2": 4.63
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lorient-nice-0AP48YLR/"
+    },
+    {
+        "date": "2012-09-22",
+        "team_1": "Reims",
+        "team_2": "Nancy",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 2.92,
+            "2": 3.18
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/reims-nancy-xdjZNDLE/"
+    },
+    {
+        "date": "2012-09-22",
+        "team_1": "Sochaux",
+        "team_2": "Troyes",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.12,
+            "X": 2.98,
+            "2": 3.28
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/sochaux-troyes-2JBW3hUr/"
+    },
+    {
+        "date": "2012-09-22",
+        "team_1": "Toulouse",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.09,
+            "X": 2.97,
+            "2": 3.54
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/toulouse-rennes-KKuvNXzL/"
+    },
+    {
+        "date": "2012-09-22",
+        "team_1": "Bastia",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 4
+        },
+        "odds": {
+            "1": 5.13,
+            "X": 3.55,
+            "2": 1.59
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bastia-psg-Wb3m0AT7/"
+    },
+    {
+        "date": "2012-09-21",
+        "team_1": "Montpellier",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.03,
+            "X": 3.05,
+            "2": 3.55
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/montpellier-st-etienne-AqFv2Wbe/"
+    },
+    {
+        "date": "2012-09-16",
+        "team_1": "Nancy",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.55,
+            "X": 2.97,
+            "2": 2.02
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nancy-marseille-ju6MeexM/"
+    },
+    {
+        "date": "2012-09-16",
+        "team_1": "Lyon",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.36,
+            "X": 4.07,
+            "2": 7.68
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lyon-ac-ajaccio-dtk5mXq2/"
+    },
+    {
+        "date": "2012-09-16",
+        "team_1": "Rennes",
+        "team_2": "Lorient",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.77,
+            "X": 3.08,
+            "2": 4.43
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/rennes-lorient-4rWeAfiF/"
+    },
+    {
+        "date": "2012-09-15",
+        "team_1": "Nice",
+        "team_2": "Brest",
+        "score": {
+            "1": 4,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.75,
+            "X": 3.12,
+            "2": 4.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nice-brest-Ikj1lDUe/"
+    },
+    {
+        "date": "2012-09-15",
+        "team_1": "St Etienne",
+        "team_2": "Sochaux",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.45,
+            "X": 3.85,
+            "2": 6.38
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/st-etienne-sochaux-4rAQfFiS/"
+    },
+    {
+        "date": "2012-09-15",
+        "team_1": "Thonon-Evian",
+        "team_2": "Bastia",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.23,
+            "X": 3.03,
+            "2": 2.96
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/thonon-evian-bastia-lGockgFk/"
+    },
+    {
+        "date": "2012-09-15",
+        "team_1": "Valenciennes",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.65,
+            "X": 2.9,
+            "2": 2.55
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/valenciennes-bordeaux-rZUa9E6L/"
+    },
+    {
+        "date": "2012-09-15",
+        "team_1": "Troyes",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.22,
+            "X": 3.25,
+            "2": 1.75
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/troyes-lille-APngjZaq/"
+    },
+    {
+        "date": "2012-09-14",
+        "team_1": "PSG",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.42,
+            "X": 3.88,
+            "2": 6.88
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/psg-toulouse-boTmCGM2/"
+    },
+    {
+        "date": "2012-09-14",
+        "team_1": "Reims",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.2,
+            "X": 3.02,
+            "2": 2.12
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/reims-montpellier-ALWiBzx9/"
+    },
+    {
+        "date": "2012-09-02",
+        "team_1": "Lille",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.57,
+            "X": 3.08,
+            "2": 2.51
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lille-psg-dI6IdyNF/"
+    },
+    {
+        "date": "2012-09-02",
+        "team_1": "Marseille",
+        "team_2": "Rennes",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.89,
+            "X": 3.03,
+            "2": 3.88
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/marseille-rennes-p8pSyzoj/"
+    },
+    {
+        "date": "2012-09-02",
+        "team_1": "Bordeaux",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.53,
+            "X": 3.4,
+            "2": 6.03
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bordeaux-nice-2qeNxGVq/"
+    },
+    {
+        "date": "2012-09-01",
+        "team_1": "AC Ajaccio",
+        "team_2": "Thonon-Evian",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.15,
+            "X": 2.98,
+            "2": 3.17
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/ac-ajaccio-thonon-evian-hA5mqIhG/"
+    },
+    {
+        "date": "2012-09-01",
+        "team_1": "Bastia",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.29,
+            "X": 3.0,
+            "2": 2.95
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bastia-st-etienne-CExEawwc/"
+    },
+    {
+        "date": "2012-09-01",
+        "team_1": "Brest",
+        "team_2": "Troyes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.15,
+            "X": 2.95,
+            "2": 3.22
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/brest-troyes-j5yIbch3/"
+    },
+    {
+        "date": "2012-09-01",
+        "team_1": "Lorient",
+        "team_2": "Nancy",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.84,
+            "X": 3.05,
+            "2": 4.08
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lorient-nancy-W04irx8M/"
+    },
+    {
+        "date": "2012-09-01",
+        "team_1": "Sochaux",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.93,
+            "X": 3.0,
+            "2": 1.91
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/sochaux-montpellier-0z9esdNS/"
+    },
+    {
+        "date": "2012-09-01",
+        "team_1": "Toulouse",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.53,
+            "X": 3.42,
+            "2": 5.87
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/toulouse-reims-IR7EcH79/"
+    },
+    {
+        "date": "2012-09-01",
+        "team_1": "Lyon",
+        "team_2": "Valenciennes",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.59,
+            "X": 3.55,
+            "2": 4.92
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lyon-valenciennes-bBlWzf0d/"
+    },
+    {
+        "date": "2012-08-26",
+        "team_1": "PSG",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.53,
+            "X": 3.55,
+            "2": 5.77
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/psg-bordeaux-QcEWn0gi/"
+    },
+    {
+        "date": "2012-08-26",
+        "team_1": "Montpellier",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 2.92,
+            "2": 3.17
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/montpellier-marseille-AkWqPd1p/"
+    },
+    {
+        "date": "2012-08-26",
+        "team_1": "St Etienne",
+        "team_2": "Brest",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.53,
+            "X": 3.45,
+            "2": 6.38
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/st-etienne-brest-MRE7ro25/"
+    },
+    {
+        "date": "2012-08-25",
+        "team_1": "Nancy",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.26,
+            "X": 2.87,
+            "2": 3.08
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nancy-toulouse-ryG3qRna/"
+    },
+    {
+        "date": "2012-08-25",
+        "team_1": "Reims",
+        "team_2": "Sochaux",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.03,
+            "X": 2.95,
+            "2": 3.52
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/reims-sochaux-4lDznK8c/"
+    },
+    {
+        "date": "2012-08-25",
+        "team_1": "Rennes",
+        "team_2": "Bastia",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.65,
+            "X": 3.28,
+            "2": 4.92
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/rennes-bastia-bBCvovO3/"
+    },
+    {
+        "date": "2012-08-25",
+        "team_1": "Troyes",
+        "team_2": "Lorient",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.57,
+            "X": 2.95,
+            "2": 2.58
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/troyes-lorient-4j4Cs5HB/"
+    },
+    {
+        "date": "2012-08-25",
+        "team_1": "Valenciennes",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.75,
+            "X": 3.13,
+            "2": 4.41
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/valenciennes-ac-ajaccio-AoGrpbwA/"
+    },
+    {
+        "date": "2012-08-25",
+        "team_1": "Nice",
+        "team_2": "Lille",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.73,
+            "X": 3.0,
+            "2": 1.96
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nice-lille-ltVmOGGj/"
+    },
+    {
+        "date": "2012-08-24",
+        "team_1": "Thonon-Evian",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.72,
+            "X": 3.27,
+            "2": 1.85
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/thonon-evian-lyon-Ig8GtPWH/"
+    },
+    {
+        "date": "2012-08-19",
+        "team_1": "AC Ajaccio",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 5.33,
+            "X": 3.65,
+            "2": 1.52
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/ac-ajaccio-psg-d6xNWm3g/"
+    },
+    {
+        "date": "2012-08-19",
+        "team_1": "Bordeaux",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.98,
+            "X": 3.05,
+            "2": 3.55
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bordeaux-rennes-lEfUURX5/"
+    },
+    {
+        "date": "2012-08-19",
+        "team_1": "Marseille",
+        "team_2": "Sochaux",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.39,
+            "X": 3.91,
+            "2": 7.18
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/marseille-sochaux-ptlwT52I/"
+    },
+    {
+        "date": "2012-08-18",
+        "team_1": "Bastia",
+        "team_2": "Reims",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.62,
+            "X": 3.32,
+            "2": 5.18
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/bastia-reims-xzyPj9fP/"
+    },
+    {
+        "date": "2012-08-18",
+        "team_1": "Brest",
+        "team_2": "Thonon-Evian",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.34,
+            "X": 2.88,
+            "2": 2.97
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/brest-thonon-evian-EeSjnT2t/"
+    },
+    {
+        "date": "2012-08-18",
+        "team_1": "Lorient",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.67,
+            "X": 2.92,
+            "2": 2.51
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lorient-montpellier-fieQV7Ia/"
+    },
+    {
+        "date": "2012-08-18",
+        "team_1": "Toulouse",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.07,
+            "X": 2.9,
+            "2": 3.63
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/toulouse-st-etienne-dKHeomIn/"
+    },
+    {
+        "date": "2012-08-18",
+        "team_1": "Valenciennes",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.68,
+            "X": 3.18,
+            "2": 4.85
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/valenciennes-nice-zBGap7Xh/"
+    },
+    {
+        "date": "2012-08-18",
+        "team_1": "Lyon",
+        "team_2": "Troyes",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.34,
+            "X": 4.1,
+            "2": 7.9
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lyon-troyes-OWnsSPHO/"
+    },
+    {
+        "date": "2012-08-17",
+        "team_1": "Lille",
+        "team_2": "Nancy",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.35,
+            "X": 4.15,
+            "2": 7.4
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/lille-nancy-S4gYTomC/"
+    },
+    {
+        "date": "2012-08-12",
+        "team_1": "Reims",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.25,
+            "X": 3.1,
+            "2": 2.08
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/reims-marseille-zilEY9Yt/"
+    },
+    {
+        "date": "2012-08-11",
+        "team_1": "Nancy",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.81,
+            "X": 3.1,
+            "2": 4.23
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nancy-brest-zy0jJUYg/"
+    },
+    {
+        "date": "2012-08-11",
+        "team_1": "Nice",
+        "team_2": "AC Ajaccio",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.88,
+            "X": 3.08,
+            "2": 3.9
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/nice-ac-ajaccio-48crvWAJ/"
+    },
+    {
+        "date": "2012-08-11",
+        "team_1": "PSG",
+        "team_2": "Lorient",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.27,
+            "X": 4.55,
+            "2": 9.42
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/psg-lorient-radnwjQP/"
+    },
+    {
+        "date": "2012-08-11",
+        "team_1": "Rennes",
+        "team_2": "Lyon",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.03,
+            "X": 3.13,
+            "2": 3.33
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/rennes-lyon-EsmIXTmm/"
+    },
+    {
+        "date": "2012-08-11",
+        "team_1": "Sochaux",
+        "team_2": "Bastia",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.61,
+            "X": 2.88,
+            "2": 2.61
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/sochaux-bastia-23JaFnYI/"
+    },
+    {
+        "date": "2012-08-11",
+        "team_1": "St Etienne",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.95,
+            "X": 2.95,
+            "2": 2.32
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/st-etienne-lille-GnHmIll0/"
+    },
+    {
+        "date": "2012-08-11",
+        "team_1": "Thonon-Evian",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.73,
+            "X": 2.98,
+            "2": 2.43
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/thonon-evian-bordeaux-l0FeGSIC/"
+    },
+    {
+        "date": "2012-08-11",
+        "team_1": "Troyes",
+        "team_2": "Valenciennes",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.38,
+            "X": 2.9,
+            "2": 2.88
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/troyes-valenciennes-fwGiH836/"
+    },
+    {
+        "date": "2012-08-10",
+        "team_1": "Montpellier",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.88,
+            "X": 3.03,
+            "2": 4.03
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2012-2013/montpellier-toulouse-dp1nKAJm/"
+    }
+]

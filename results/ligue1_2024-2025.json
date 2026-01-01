@@ -1,0 +1,594 @@
+[
+    {
+        "date": "2025-05-17",
+        "team_1": "Lens",
+        "team_2": "Monaco",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.66,
+            "X": 3.73,
+            "2": 2.42
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/lens-monaco-2TI0VAEN/"
+    },
+    {
+        "date": "2025-05-17",
+        "team_1": "Lille",
+        "team_2": "Reims",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.37,
+            "X": 4.97,
+            "2": 8.19
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/lille-reims-QNNyyFpn/"
+    },
+    {
+        "date": "2025-05-17",
+        "team_1": "Lyon",
+        "team_2": "Angers",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.17,
+            "X": 7.97,
+            "2": 13.9
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/lyon-angers-fsvIKg05/"
+    },
+    {
+        "date": "2025-04-13",
+        "team_1": "Auxerre",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 4.08,
+            "X": 3.87,
+            "2": 1.81
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/auxerre-lyon-Mi2tXhL0/"
+    },
+    {
+        "date": "2025-04-13",
+        "team_1": "Angers",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.94,
+            "X": 3.43,
+            "2": 3.88
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/angers-montpellier-M5sFohzf/"
+    },
+    {
+        "date": "2025-04-13",
+        "team_1": "Le Havre",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 5
+        },
+        "odds": {
+            "1": 3.67,
+            "X": 3.38,
+            "2": 2.04
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/le-havre-rennes-0xEXYEjl/"
+    },
+    {
+        "date": "2025-04-13",
+        "team_1": "St Etienne",
+        "team_2": "Brest",
+        "score": {
+            "1": 3,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.5,
+            "X": 3.68,
+            "2": 1.96
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/st-etienne-brest-Qwl6mE5s/"
+    },
+    {
+        "date": "2025-04-12",
+        "team_1": "Strasbourg",
+        "team_2": "Nice",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.76,
+            "X": 3.41,
+            "2": 2.48
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/strasbourg-nice-U72zgzrK/"
+    },
+    {
+        "date": "2025-03-01",
+        "team_1": "St Etienne",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 4.96,
+            "X": 4.14,
+            "2": 1.63
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/st-etienne-nice-4bUSOFAj/"
+    },
+    {
+        "date": "2025-02-28",
+        "team_1": "Monaco",
+        "team_2": "Reims",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.36,
+            "X": 5.39,
+            "2": 7.92
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/monaco-reims-bHDVry2M/"
+    },
+    {
+        "date": "2025-02-23",
+        "team_1": "Lyon",
+        "team_2": "PSG",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 5.83,
+            "X": 4.68,
+            "2": 1.51
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/lyon-psg-jmdLSOBO/"
+    },
+    {
+        "date": "2025-02-23",
+        "team_1": "Le Havre",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 1,
+            "2": 4
+        },
+        "odds": {
+            "1": 3.77,
+            "X": 3.25,
+            "2": 2.06
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/le-havre-toulouse-ETLNJTSg/"
+    },
+    {
+        "date": "2025-02-23",
+        "team_1": "Nice",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.32,
+            "X": 5.48,
+            "2": 8.2
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/nice-montpellier-rNhDUpsC/"
+    },
+    {
+        "date": "2025-01-19",
+        "team_1": "St Etienne",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.98,
+            "X": 3.24,
+            "2": 2.44
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/st-etienne-nantes-pdU4XXv3/"
+    },
+    {
+        "date": "2025-01-18",
+        "team_1": "Lyon",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.81,
+            "X": 3.79,
+            "2": 4.19
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/lyon-toulouse-UmnI9Und/"
+    },
+    {
+        "date": "2025-01-18",
+        "team_1": "Rennes",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.97,
+            "X": 3.22,
+            "2": 4.16
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/rennes-brest-vJ50M7W1/"
+    },
+    {
+        "date": "2025-01-18",
+        "team_1": "Lens",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 4.07,
+            "X": 3.83,
+            "2": 1.86
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/lens-psg-xj7wHCfM/"
+    },
+    {
+        "date": "2025-01-17",
+        "team_1": "Lille",
+        "team_2": "Nice",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.91,
+            "X": 3.38,
+            "2": 3.99
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/lille-nice-dzlABjIq/"
+    },
+    {
+        "date": "2024-11-29",
+        "team_1": "Reims",
+        "team_2": "Lens",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.06,
+            "X": 3.23,
+            "2": 2.26
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/reims-lens-d0HcKolm/"
+    },
+    {
+        "date": "2024-11-24",
+        "team_1": "Nice",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.76,
+            "X": 3.73,
+            "2": 4.35
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/nice-strasbourg-Olld2DS1/"
+    },
+    {
+        "date": "2024-11-24",
+        "team_1": "Auxerre",
+        "team_2": "Angers",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.74,
+            "X": 3.64,
+            "2": 4.42
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/auxerre-angers-pMmu24YI/"
+    },
+    {
+        "date": "2024-11-24",
+        "team_1": "Nantes",
+        "team_2": "Le Havre",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.85,
+            "X": 3.23,
+            "2": 4.37
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/nantes-le-havre-GtdO5nZg/"
+    },
+    {
+        "date": "2024-11-24",
+        "team_1": "Lille",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.86,
+            "X": 3.42,
+            "2": 4.23
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/lille-rennes-AqgG784s/"
+    },
+    {
+        "date": "2024-10-06",
+        "team_1": "Lyon",
+        "team_2": "Nantes",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.65,
+            "X": 3.86,
+            "2": 4.78
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/lyon-nantes-IHSe3ve5/"
+    },
+    {
+        "date": "2024-10-05",
+        "team_1": "Rennes",
+        "team_2": "Monaco",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.78,
+            "X": 3.32,
+            "2": 2.39
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/rennes-monaco-8Kp3c9Oq/"
+    },
+    {
+        "date": "2024-10-05",
+        "team_1": "Lille",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.72,
+            "X": 3.66,
+            "2": 4.37
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/lille-toulouse-Wf14adfU/"
+    },
+    {
+        "date": "2024-10-05",
+        "team_1": "St Etienne",
+        "team_2": "Auxerre",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.95,
+            "X": 3.34,
+            "2": 2.26
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/st-etienne-auxerre-z9REJaun/"
+    },
+    {
+        "date": "2024-10-04",
+        "team_1": "Marseille",
+        "team_2": "Angers",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.24,
+            "X": 5.97,
+            "2": 10.43
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/marseille-angers-xYNVFHvB/"
+    },
+    {
+        "date": "2024-08-18",
+        "team_1": "Rennes",
+        "team_2": "Lyon",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.25,
+            "X": 3.44,
+            "2": 3.07
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/rennes-lyon-zkPwWhT1/"
+    },
+    {
+        "date": "2024-08-18",
+        "team_1": "Angers",
+        "team_2": "Lens",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 6.13,
+            "X": 3.85,
+            "2": 1.54
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/angers-lens-2NocJFqd/"
+    },
+    {
+        "date": "2024-08-18",
+        "team_1": "Montpellier",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.04,
+            "X": 3.42,
+            "2": 3.41
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/montpellier-strasbourg-M5VGwpVA/"
+    },
+    {
+        "date": "2024-08-18",
+        "team_1": "Toulouse",
+        "team_2": "Nantes",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.05,
+            "X": 3.23,
+            "2": 3.61
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/toulouse-nantes-6ehlLyFq/"
+    },
+    {
+        "date": "2024-08-18",
+        "team_1": "Auxerre",
+        "team_2": "Nice",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.92,
+            "X": 3.22,
+            "2": 2.36
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/auxerre-nice-ripawyyS/"
+    },
+    {
+        "date": "2024-08-17",
+        "team_1": "Monaco",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.33,
+            "X": 5.18,
+            "2": 7.55
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/monaco-st-etienne-fHYrsJy3/"
+    },
+    {
+        "date": "2024-08-17",
+        "team_1": "Reims",
+        "team_2": "Lille",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.85,
+            "X": 3.16,
+            "2": 2.42
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/reims-lille-jqSiuc6F/"
+    },
+    {
+        "date": "2024-08-17",
+        "team_1": "Brest",
+        "team_2": "Marseille",
+        "score": {
+            "1": 1,
+            "2": 5
+        },
+        "odds": {
+            "1": 2.98,
+            "X": 3.18,
+            "2": 2.36
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/brest-marseille-0js8u60b/"
+    },
+    {
+        "date": "2024-08-16",
+        "team_1": "Le Havre",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 4
+        },
+        "odds": {
+            "1": 7.17,
+            "X": 4.75,
+            "2": 1.43
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2024-2025/le-havre-psg-SOLVXEbk/"
+    }
+]

@@ -1,0 +1,6082 @@
+[
+    {
+        "date": "2022-05-21",
+        "team_1": "Angers",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 3.55,
+            "2": 3.33
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/angers-montpellier-K2ED4alK/"
+    },
+    {
+        "date": "2022-05-21",
+        "team_1": "Brest",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 2,
+            "2": 4
+        },
+        "odds": {
+            "1": 1.6,
+            "X": 4.3,
+            "2": 4.45
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/brest-bordeaux-EPDH3J3Q/"
+    },
+    {
+        "date": "2022-05-21",
+        "team_1": "Clermont",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.4,
+            "X": 3.95,
+            "2": 1.85
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/clermont-lyon-GYaqawCs/"
+    },
+    {
+        "date": "2022-05-21",
+        "team_1": "Lens",
+        "team_2": "Monaco",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.13,
+            "X": 3.73,
+            "2": 2.01
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lens-monaco-Y9flbcRm/"
+    },
+    {
+        "date": "2022-05-21",
+        "team_1": "Lille",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.6,
+            "X": 3.7,
+            "2": 1.86
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lille-rennes-C0ghcHtf/"
+    },
+    {
+        "date": "2022-05-21",
+        "team_1": "Lorient",
+        "team_2": "Troyes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.13,
+            "X": 3.4,
+            "2": 3.1
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lorient-troyes-6Nhddyd0/"
+    },
+    {
+        "date": "2022-05-21",
+        "team_1": "Marseille",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.09,
+            "X": 3.18,
+            "2": 3.45
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/marseille-strasbourg-Icd0eeB6/"
+    },
+    {
+        "date": "2022-05-21",
+        "team_1": "Nantes",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.35,
+            "X": 3.35,
+            "2": 2.7
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nantes-st-etienne-0Mo5fFQC/"
+    },
+    {
+        "date": "2022-05-21",
+        "team_1": "PSG",
+        "team_2": "Metz",
+        "score": {
+            "1": 5,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.11,
+            "X": 9.38,
+            "2": 15.75
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/psg-metz-vDp9gZuJ/"
+    },
+    {
+        "date": "2022-05-21",
+        "team_1": "Reims",
+        "team_2": "Nice",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.8,
+            "X": 3.65,
+            "2": 1.83
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/reims-nice-SSwiIIIJ/"
+    },
+    {
+        "date": "2022-05-14",
+        "team_1": "Bordeaux",
+        "team_2": "Lorient",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.33,
+            "X": 3.28,
+            "2": 2.93
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/bordeaux-lorient-r3pWiM4E/"
+    },
+    {
+        "date": "2022-05-14",
+        "team_1": "Lyon",
+        "team_2": "Nantes",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.42,
+            "X": 4.88,
+            "2": 5.75
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lyon-nantes-0vuyitKK/"
+    },
+    {
+        "date": "2022-05-14",
+        "team_1": "Metz",
+        "team_2": "Angers",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.13,
+            "X": 3.43,
+            "2": 3.04
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/metz-angers-vVwuj0ZQ/"
+    },
+    {
+        "date": "2022-05-14",
+        "team_1": "Monaco",
+        "team_2": "Brest",
+        "score": {
+            "1": 4,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.21,
+            "X": 6.38,
+            "2": 11.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/monaco-brest-dAQ6oKsr/"
+    },
+    {
+        "date": "2022-05-14",
+        "team_1": "Montpellier",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 4
+        },
+        "odds": {
+            "1": 7.88,
+            "X": 6.25,
+            "2": 1.26
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/montpellier-psg-ADUApvcl/"
+    },
+    {
+        "date": "2022-05-14",
+        "team_1": "Nice",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.65,
+            "X": 3.93,
+            "2": 4.58
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nice-lille-hxKFqbCf/"
+    },
+    {
+        "date": "2022-05-14",
+        "team_1": "Rennes",
+        "team_2": "Marseille",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.84,
+            "X": 3.55,
+            "2": 3.78
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/rennes-marseille-WSIJrIR0/"
+    },
+    {
+        "date": "2022-05-14",
+        "team_1": "St Etienne",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.92,
+            "X": 3.4,
+            "2": 3.8
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/st-etienne-reims-Q3XMsxs7/"
+    },
+    {
+        "date": "2022-05-14",
+        "team_1": "Strasbourg",
+        "team_2": "Clermont",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.41,
+            "X": 4.42,
+            "2": 6.88
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/strasbourg-clermont-4fWQtddD/"
+    },
+    {
+        "date": "2022-05-14",
+        "team_1": "Troyes",
+        "team_2": "Lens",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.63,
+            "X": 3.53,
+            "2": 1.94
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/troyes-lens-6aA95uZD/"
+    },
+    {
+        "date": "2022-05-11",
+        "team_1": "Nantes",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 5.33,
+            "X": 4.43,
+            "2": 1.49
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nantes-rennes-dA4yWvre/"
+    },
+    {
+        "date": "2022-05-11",
+        "team_1": "Nice",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 4,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.47,
+            "X": 4.25,
+            "2": 6.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nice-st-etienne-vZgtVbc1/"
+    },
+    {
+        "date": "2022-05-08",
+        "team_1": "PSG",
+        "team_2": "Troyes",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.15,
+            "X": 8.13,
+            "2": 14.0
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/psg-troyes-j9cpUIC7/"
+    },
+    {
+        "date": "2022-05-08",
+        "team_1": "Lorient",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.63,
+            "X": 3.43,
+            "2": 1.92
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lorient-marseille-lp1TX0Dr/"
+    },
+    {
+        "date": "2022-05-08",
+        "team_1": "Angers",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.34,
+            "X": 3.2,
+            "2": 2.9
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/angers-bordeaux-MVpmhVbc/"
+    },
+    {
+        "date": "2022-05-08",
+        "team_1": "Clermont",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.62,
+            "X": 3.83,
+            "2": 4.88
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/clermont-montpellier-Uelej9T9/"
+    },
+    {
+        "date": "2022-05-08",
+        "team_1": "Reims",
+        "team_2": "Lens",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.2,
+            "X": 3.23,
+            "2": 2.16
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/reims-lens-4CoSh2k8/"
+    },
+    {
+        "date": "2022-05-08",
+        "team_1": "Metz",
+        "team_2": "Lyon",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 8.5,
+            "X": 6.0,
+            "2": 1.28
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/metz-lyon-IJ5XWKSl/"
+    },
+    {
+        "date": "2022-05-07",
+        "team_1": "Brest",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.75,
+            "X": 3.5,
+            "2": 1.84
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/brest-strasbourg-GhpiikE3/"
+    },
+    {
+        "date": "2022-05-06",
+        "team_1": "Lille",
+        "team_2": "Monaco",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.5,
+            "X": 3.5,
+            "2": 1.99
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lille-monaco-CKw0kTrG/"
+    },
+    {
+        "date": "2022-05-01",
+        "team_1": "Marseille",
+        "team_2": "Lyon",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.32,
+            "X": 3.38,
+            "2": 2.78
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/marseille-lyon-jk1TyAEG/"
+    },
+    {
+        "date": "2022-05-01",
+        "team_1": "Bordeaux",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.1,
+            "X": 3.43,
+            "2": 2.08
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/bordeaux-nice-M99CuhFi/"
+    },
+    {
+        "date": "2022-05-01",
+        "team_1": "Brest",
+        "team_2": "Clermont",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.71,
+            "X": 3.13,
+            "2": 2.53
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/brest-clermont-4YbHvCUc/"
+    },
+    {
+        "date": "2022-05-01",
+        "team_1": "Lorient",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.12,
+            "X": 3.08,
+            "2": 3.45
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lorient-reims-Cb2PxjaA/"
+    },
+    {
+        "date": "2022-05-01",
+        "team_1": "Monaco",
+        "team_2": "Angers",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.29,
+            "X": 5.33,
+            "2": 8.75
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/monaco-angers-YDjYzUTM/"
+    },
+    {
+        "date": "2022-05-01",
+        "team_1": "Montpellier",
+        "team_2": "Metz",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.77,
+            "X": 3.68,
+            "2": 4.15
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/montpellier-metz-nHfxzlqT/"
+    },
+    {
+        "date": "2022-05-01",
+        "team_1": "Troyes",
+        "team_2": "Lille",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.35,
+            "X": 3.15,
+            "2": 2.17
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/troyes-lille-runqgBqi/"
+    },
+    {
+        "date": "2022-04-30",
+        "team_1": "Rennes",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.28,
+            "X": 5.63,
+            "2": 9.13
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/rennes-st-etienne-4ds4V7ip/"
+    },
+    {
+        "date": "2022-04-30",
+        "team_1": "Lens",
+        "team_2": "Nantes",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.59,
+            "X": 3.95,
+            "2": 5.28
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lens-nantes-rPcLwWq4/"
+    },
+    {
+        "date": "2022-04-29",
+        "team_1": "Strasbourg",
+        "team_2": "PSG",
+        "score": {
+            "1": 3,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.55,
+            "X": 3.68,
+            "2": 1.92
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/strasbourg-psg-rmt8UR6j/"
+    },
+    {
+        "date": "2022-04-24",
+        "team_1": "Reims",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.95,
+            "X": 3.33,
+            "2": 1.9
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/reims-marseille-8CGaMUET/"
+    },
+    {
+        "date": "2022-04-24",
+        "team_1": "Lille",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.65,
+            "X": 3.03,
+            "2": 2.68
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lille-strasbourg-r5VZRYph/"
+    },
+    {
+        "date": "2022-04-24",
+        "team_1": "Clermont",
+        "team_2": "Angers",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.1,
+            "X": 3.05,
+            "2": 3.6
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/clermont-angers-zuWVSEVo/"
+    },
+    {
+        "date": "2022-04-24",
+        "team_1": "Metz",
+        "team_2": "Brest",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.59,
+            "X": 3.05,
+            "2": 2.72
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/metz-brest-4KJrQCF4/"
+    },
+    {
+        "date": "2022-04-24",
+        "team_1": "Nantes",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 5,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.01,
+            "X": 3.53,
+            "2": 3.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nantes-bordeaux-INNnPWUA/"
+    },
+    {
+        "date": "2022-04-24",
+        "team_1": "Nice",
+        "team_2": "Troyes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.46,
+            "X": 4.18,
+            "2": 6.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nice-troyes-CpNjOjpH/"
+    },
+    {
+        "date": "2022-04-24",
+        "team_1": "Rennes",
+        "team_2": "Lorient",
+        "score": {
+            "1": 5,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.33,
+            "X": 5.03,
+            "2": 8.13
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/rennes-lorient-AL2RHlNp/"
+    },
+    {
+        "date": "2022-04-23",
+        "team_1": "PSG",
+        "team_2": "Lens",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.23,
+            "X": 6.5,
+            "2": 9.38
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/psg-lens-jyMfNAaN/"
+    },
+    {
+        "date": "2022-04-23",
+        "team_1": "St Etienne",
+        "team_2": "Monaco",
+        "score": {
+            "1": 1,
+            "2": 4
+        },
+        "odds": {
+            "1": 4.4,
+            "X": 3.93,
+            "2": 1.69
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/st-etienne-monaco-OOj9tYao/"
+    },
+    {
+        "date": "2022-04-23",
+        "team_1": "Lyon",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 5,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.34,
+            "X": 5.3,
+            "2": 7.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lyon-montpellier-MeUwRh0b/"
+    },
+    {
+        "date": "2022-04-20",
+        "team_1": "Angers",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 6.13,
+            "X": 4.52,
+            "2": 1.44
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/angers-psg-4jKwvcOt/"
+    },
+    {
+        "date": "2022-04-20",
+        "team_1": "Brest",
+        "team_2": "Lyon",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.05,
+            "X": 4.0,
+            "2": 1.69
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/brest-lyon-bkDnxygg/"
+    },
+    {
+        "date": "2022-04-20",
+        "team_1": "Lens",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.45,
+            "X": 4.2,
+            "2": 6.48
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lens-montpellier-hCCjye8a/"
+    },
+    {
+        "date": "2022-04-20",
+        "team_1": "Marseille",
+        "team_2": "Nantes",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.55,
+            "X": 4.0,
+            "2": 5.43
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/marseille-nantes-lv6aZYxC/"
+    },
+    {
+        "date": "2022-04-20",
+        "team_1": "Strasbourg",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.52,
+            "X": 3.13,
+            "2": 2.76
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/strasbourg-rennes-ze8BWWMU/"
+    },
+    {
+        "date": "2022-04-20",
+        "team_1": "Bordeaux",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.33,
+            "X": 3.28,
+            "2": 2.88
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/bordeaux-st-etienne-nF9rwHwm/"
+    },
+    {
+        "date": "2022-04-20",
+        "team_1": "Lorient",
+        "team_2": "Metz",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.53,
+            "X": 3.9,
+            "2": 5.78
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lorient-metz-W2BfzFN5/"
+    },
+    {
+        "date": "2022-04-20",
+        "team_1": "Monaco",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.76,
+            "X": 3.55,
+            "2": 4.28
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/monaco-nice-SU43YhhI/"
+    },
+    {
+        "date": "2022-04-20",
+        "team_1": "Reims",
+        "team_2": "Lille",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.84,
+            "X": 2.9,
+            "2": 2.59
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/reims-lille-Mi47XC7O/"
+    },
+    {
+        "date": "2022-04-20",
+        "team_1": "Troyes",
+        "team_2": "Clermont",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.23,
+            "X": 3.13,
+            "2": 3.15
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/troyes-clermont-dlXRTfGu/"
+    },
+    {
+        "date": "2022-04-17",
+        "team_1": "PSG",
+        "team_2": "Marseille",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.38,
+            "X": 5.03,
+            "2": 6.75
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/psg-marseille-hCjLLF8C/"
+    },
+    {
+        "date": "2022-04-17",
+        "team_1": "Lyon",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 6,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.35,
+            "X": 5.13,
+            "2": 7.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lyon-bordeaux-0rJ8Qwfs/"
+    },
+    {
+        "date": "2022-04-17",
+        "team_1": "Metz",
+        "team_2": "Clermont",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.79,
+            "X": 2.93,
+            "2": 2.62
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/metz-clermont-vZHCPc9m/"
+    },
+    {
+        "date": "2022-04-17",
+        "team_1": "Montpellier",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.33,
+            "X": 3.15,
+            "2": 2.95
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/montpellier-reims-6el9OHOg/"
+    },
+    {
+        "date": "2022-04-17",
+        "team_1": "Nantes",
+        "team_2": "Angers",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.98,
+            "X": 3.23,
+            "2": 3.72
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nantes-angers-pnmDNyv0/"
+    },
+    {
+        "date": "2022-04-17",
+        "team_1": "Troyes",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.75,
+            "X": 3.08,
+            "2": 2.03
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/troyes-strasbourg-2sYBrwGP/"
+    },
+    {
+        "date": "2022-04-17",
+        "team_1": "Nice",
+        "team_2": "Lorient",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.63,
+            "X": 3.8,
+            "2": 4.9
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nice-lorient-v9nHMeg6/"
+    },
+    {
+        "date": "2022-04-16",
+        "team_1": "Lille",
+        "team_2": "Lens",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.89,
+            "X": 3.35,
+            "2": 3.95
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lille-lens-8neur6PE/"
+    },
+    {
+        "date": "2022-04-16",
+        "team_1": "St Etienne",
+        "team_2": "Brest",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.14,
+            "X": 3.25,
+            "2": 3.33
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/st-etienne-brest-ERvUJgwP/"
+    },
+    {
+        "date": "2022-04-15",
+        "team_1": "Rennes",
+        "team_2": "Monaco",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 3.55,
+            "2": 3.28
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/rennes-monaco-zytQKZNI/"
+    },
+    {
+        "date": "2022-04-10",
+        "team_1": "Marseille",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.45,
+            "X": 4.4,
+            "2": 6.38
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/marseille-montpellier-pE9pMO2e/"
+    },
+    {
+        "date": "2022-04-10",
+        "team_1": "Strasbourg",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.43,
+            "X": 3.25,
+            "2": 2.75
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/strasbourg-lyon-fqiyqnA8/"
+    },
+    {
+        "date": "2022-04-10",
+        "team_1": "Lens",
+        "team_2": "Nice",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.41,
+            "X": 3.05,
+            "2": 2.94
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lens-nice-ObLyOpYr/"
+    },
+    {
+        "date": "2022-04-10",
+        "team_1": "Angers",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.73,
+            "X": 3.03,
+            "2": 2.07
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/angers-lille-bHycVSu9/"
+    },
+    {
+        "date": "2022-04-10",
+        "team_1": "Brest",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.65,
+            "X": 3.03,
+            "2": 2.68
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/brest-nantes-fqV5T6AL/"
+    },
+    {
+        "date": "2022-04-10",
+        "team_1": "Monaco",
+        "team_2": "Troyes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.33,
+            "X": 4.93,
+            "2": 8.38
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/monaco-troyes-EmElLrI1/"
+    },
+    {
+        "date": "2022-04-10",
+        "team_1": "Bordeaux",
+        "team_2": "Metz",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.88,
+            "X": 3.25,
+            "2": 4.08
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/bordeaux-metz-GhW1UneF/"
+    },
+    {
+        "date": "2022-04-09",
+        "team_1": "Clermont",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 6
+        },
+        "odds": {
+            "1": 10.5,
+            "X": 6.03,
+            "2": 1.23
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/clermont-psg-l6U9SQPR/"
+    },
+    {
+        "date": "2022-04-09",
+        "team_1": "Reims",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 4.73,
+            "X": 3.4,
+            "2": 1.73
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/reims-rennes-hvDhK2X7/"
+    },
+    {
+        "date": "2022-04-08",
+        "team_1": "Lorient",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 6,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.08,
+            "X": 3.13,
+            "2": 3.55
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lorient-st-etienne-6NAtN4mk/"
+    },
+    {
+        "date": "2022-04-03",
+        "team_1": "PSG",
+        "team_2": "Lorient",
+        "score": {
+            "1": 5,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.15,
+            "X": 7.6,
+            "2": 13.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/psg-lorient-Aee29oJk/"
+    },
+    {
+        "date": "2022-04-03",
+        "team_1": "Lyon",
+        "team_2": "Angers",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.37,
+            "X": 4.83,
+            "2": 7.48
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lyon-angers-v7LNGTQF/"
+    },
+    {
+        "date": "2022-04-03",
+        "team_1": "Clermont",
+        "team_2": "Nantes",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.58,
+            "X": 2.95,
+            "2": 2.79
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/clermont-nantes-WtIFIkd3/"
+    },
+    {
+        "date": "2022-04-03",
+        "team_1": "Metz",
+        "team_2": "Monaco",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 6.88,
+            "X": 4.05,
+            "2": 1.45
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/metz-monaco-MVASFmtM/"
+    },
+    {
+        "date": "2022-04-03",
+        "team_1": "Montpellier",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.01,
+            "X": 3.33,
+            "2": 3.55
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/montpellier-brest-0M9WE7eS/"
+    },
+    {
+        "date": "2022-04-03",
+        "team_1": "St Etienne",
+        "team_2": "Marseille",
+        "score": {
+            "1": 2,
+            "2": 4
+        },
+        "odds": {
+            "1": 3.28,
+            "X": 3.05,
+            "2": 2.2
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/st-etienne-marseille-hKp785Ye/"
+    },
+    {
+        "date": "2022-04-03",
+        "team_1": "Troyes",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.57,
+            "X": 2.8,
+            "2": 3.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/troyes-reims-KQxgW8Q2/"
+    },
+    {
+        "date": "2022-04-03",
+        "team_1": "Strasbourg",
+        "team_2": "Lens",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.08,
+            "X": 3.15,
+            "2": 3.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/strasbourg-lens-6NlB7Pm2/"
+    },
+    {
+        "date": "2022-04-02",
+        "team_1": "Lille",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.46,
+            "X": 4.2,
+            "2": 6.63
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lille-bordeaux-Q3HJH9B9/"
+    },
+    {
+        "date": "2022-04-02",
+        "team_1": "Nice",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.76,
+            "X": 3.15,
+            "2": 2.53
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nice-rennes-W4dbAR3q/"
+    },
+    {
+        "date": "2022-03-20",
+        "team_1": "Marseille",
+        "team_2": "Nice",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.87,
+            "X": 3.4,
+            "2": 3.95
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/marseille-nice-vgtk2UBM/"
+    },
+    {
+        "date": "2022-03-20",
+        "team_1": "Reims",
+        "team_2": "Lyon",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 4.13,
+            "X": 3.47,
+            "2": 1.83
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/reims-lyon-xryPeSlj/"
+    },
+    {
+        "date": "2022-03-20",
+        "team_1": "Angers",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.32,
+            "X": 2.98,
+            "2": 3.13
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/angers-brest-ADlY5CCc/"
+    },
+    {
+        "date": "2022-03-20",
+        "team_1": "Bordeaux",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.45,
+            "X": 3.23,
+            "2": 2.72
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/bordeaux-montpellier-hxvw5WR3/"
+    },
+    {
+        "date": "2022-03-20",
+        "team_1": "Lorient",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.4,
+            "X": 3.03,
+            "2": 2.19
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lorient-strasbourg-02so3AdG/"
+    },
+    {
+        "date": "2022-03-20",
+        "team_1": "Rennes",
+        "team_2": "Metz",
+        "score": {
+            "1": 6,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.25,
+            "X": 5.6,
+            "2": 11.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/rennes-metz-GYZSfn4d/"
+    },
+    {
+        "date": "2022-03-20",
+        "team_1": "Monaco",
+        "team_2": "PSG",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.6,
+            "X": 3.6,
+            "2": 1.91
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/monaco-psg-MHVg1lRS/"
+    },
+    {
+        "date": "2022-03-19",
+        "team_1": "Nantes",
+        "team_2": "Lille",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.58,
+            "X": 2.95,
+            "2": 2.8
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nantes-lille-rLyLd8Zq/"
+    },
+    {
+        "date": "2022-03-19",
+        "team_1": "Lens",
+        "team_2": "Clermont",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.69,
+            "X": 3.68,
+            "2": 4.9
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lens-clermont-WSxs4jsA/"
+    },
+    {
+        "date": "2022-03-18",
+        "team_1": "St Etienne",
+        "team_2": "Troyes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.86,
+            "X": 3.3,
+            "2": 4.3
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/st-etienne-troyes-hjJBJVtc/"
+    },
+    {
+        "date": "2022-03-13",
+        "team_1": "Brest",
+        "team_2": "Marseille",
+        "score": {
+            "1": 1,
+            "2": 4
+        },
+        "odds": {
+            "1": 3.7,
+            "X": 3.35,
+            "2": 1.94
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/brest-marseille-hG22hgrb/"
+    },
+    {
+        "date": "2022-03-13",
+        "team_1": "Lyon",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 4
+        },
+        "odds": {
+            "1": 1.98,
+            "X": 3.58,
+            "2": 3.47
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lyon-rennes-SYfFkiSG/"
+    },
+    {
+        "date": "2022-03-13",
+        "team_1": "Angers",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.29,
+            "X": 2.84,
+            "2": 3.43
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/angers-reims-OtbbgZSi/"
+    },
+    {
+        "date": "2022-03-13",
+        "team_1": "Clermont",
+        "team_2": "Lorient",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.19,
+            "X": 3.0,
+            "2": 3.35
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/clermont-lorient-W616iDc4/"
+    },
+    {
+        "date": "2022-03-13",
+        "team_1": "Metz",
+        "team_2": "Lens",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 4.58,
+            "X": 3.55,
+            "2": 1.71
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/metz-lens-MefJlBsN/"
+    },
+    {
+        "date": "2022-03-13",
+        "team_1": "Strasbourg",
+        "team_2": "Monaco",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.63,
+            "X": 3.03,
+            "2": 2.68
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/strasbourg-monaco-r7dnr9Kj/"
+    },
+    {
+        "date": "2022-03-13",
+        "team_1": "PSG",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.11,
+            "X": 8.68,
+            "2": 17.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/psg-bordeaux-4Gcrqk5p/"
+    },
+    {
+        "date": "2022-03-12",
+        "team_1": "Troyes",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.88,
+            "X": 3.1,
+            "2": 2.4
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/troyes-nantes-dApU6hci/"
+    },
+    {
+        "date": "2022-03-12",
+        "team_1": "Montpellier",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.15,
+            "X": 3.35,
+            "2": 2.15
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/montpellier-nice-0ngNmVdT/"
+    },
+    {
+        "date": "2022-03-11",
+        "team_1": "Lille",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.63,
+            "X": 3.63,
+            "2": 5.28
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lille-st-etienne-EVjBjXCA/"
+    },
+    {
+        "date": "2022-03-06",
+        "team_1": "Marseille",
+        "team_2": "Monaco",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.43,
+            "X": 3.15,
+            "2": 2.78
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/marseille-monaco-rm0Vk0Ma/"
+    },
+    {
+        "date": "2022-03-06",
+        "team_1": "Lille",
+        "team_2": "Clermont",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.63,
+            "X": 3.55,
+            "2": 5.6
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lille-clermont-AZ1NiMim/"
+    },
+    {
+        "date": "2022-03-06",
+        "team_1": "Bordeaux",
+        "team_2": "Troyes",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 3.23,
+            "2": 3.75
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/bordeaux-troyes-jkLjcrUP/"
+    },
+    {
+        "date": "2022-03-06",
+        "team_1": "Nantes",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.93,
+            "X": 3.28,
+            "2": 3.8
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nantes-montpellier-0OfzkKy6/"
+    },
+    {
+        "date": "2022-03-06",
+        "team_1": "Reims",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.6,
+            "X": 2.9,
+            "2": 2.18
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/reims-strasbourg-Yygrmb6I/"
+    },
+    {
+        "date": "2022-03-06",
+        "team_1": "Rennes",
+        "team_2": "Angers",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.38,
+            "X": 4.47,
+            "2": 8.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/rennes-angers-roLBVVzo/"
+    },
+    {
+        "date": "2022-03-06",
+        "team_1": "St Etienne",
+        "team_2": "Metz",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 3.15,
+            "2": 5.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/st-etienne-metz-pjaffFDo/"
+    },
+    {
+        "date": "2022-03-05",
+        "team_1": "Nice",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 4.52,
+            "X": 3.95,
+            "2": 1.67
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nice-psg-vFgvlviC/"
+    },
+    {
+        "date": "2022-03-05",
+        "team_1": "Lens",
+        "team_2": "Brest",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.52,
+            "X": 4.2,
+            "2": 5.55
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lens-brest-dWcJh2xs/"
+    },
+    {
+        "date": "2022-03-04",
+        "team_1": "Lorient",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 4
+        },
+        "odds": {
+            "1": 4.45,
+            "X": 3.73,
+            "2": 1.71
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lorient-lyon-4d1Rjt7g/"
+    },
+    {
+        "date": "2022-02-27",
+        "team_1": "Lyon",
+        "team_2": "Lille",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.74,
+            "X": 3.7,
+            "2": 4.33
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lyon-lille-jBSpv3Nm/"
+    },
+    {
+        "date": "2022-02-27",
+        "team_1": "Troyes",
+        "team_2": "Marseille",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.56,
+            "X": 3.53,
+            "2": 1.71
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/troyes-marseille-CbMnbOEJ/"
+    },
+    {
+        "date": "2022-02-27",
+        "team_1": "Angers",
+        "team_2": "Lens",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.05,
+            "X": 3.13,
+            "2": 2.3
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/angers-lens-x4nAp5pK/"
+    },
+    {
+        "date": "2022-02-27",
+        "team_1": "Brest",
+        "team_2": "Lorient",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.14,
+            "X": 3.15,
+            "2": 3.33
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/brest-lorient-WQoEqPaQ/"
+    },
+    {
+        "date": "2022-02-27",
+        "team_1": "Clermont",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.89,
+            "X": 3.35,
+            "2": 3.9
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/clermont-bordeaux-YZXuuq8s/"
+    },
+    {
+        "date": "2022-02-27",
+        "team_1": "Metz",
+        "team_2": "Nantes",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.88,
+            "X": 2.88,
+            "2": 2.6
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/metz-nantes-U1RlwNxf/"
+    },
+    {
+        "date": "2022-02-27",
+        "team_1": "Monaco",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.4,
+            "X": 4.2,
+            "2": 8.0
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/monaco-reims-OOQhxsh0/"
+    },
+    {
+        "date": "2022-02-26",
+        "team_1": "PSG",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.13,
+            "X": 8.28,
+            "2": 14.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/psg-st-etienne-KjK1zLMC/"
+    },
+    {
+        "date": "2022-02-26",
+        "team_1": "Strasbourg",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.96,
+            "X": 3.25,
+            "2": 3.7
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/strasbourg-nice-bsJ5ZvxJ/"
+    },
+    {
+        "date": "2022-02-25",
+        "team_1": "Montpellier",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 4
+        },
+        "odds": {
+            "1": 4.29,
+            "X": 3.58,
+            "2": 1.76
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/montpellier-rennes-xSUdy176/"
+    },
+    {
+        "date": "2022-02-20",
+        "team_1": "Marseille",
+        "team_2": "Clermont",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.48,
+            "X": 4.2,
+            "2": 6.13
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/marseille-clermont-fqD6Qqgl/"
+    },
+    {
+        "date": "2022-02-20",
+        "team_1": "Bordeaux",
+        "team_2": "Monaco",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 5.1,
+            "X": 3.9,
+            "2": 1.59
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/bordeaux-monaco-4b6ZXR0E/"
+    },
+    {
+        "date": "2022-02-20",
+        "team_1": "Lorient",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.34,
+            "X": 3.1,
+            "2": 3.0
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lorient-montpellier-tt92RPwr/"
+    },
+    {
+        "date": "2022-02-20",
+        "team_1": "Reims",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.28,
+            "X": 3.0,
+            "2": 3.23
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/reims-brest-pY5JNsw7/"
+    },
+    {
+        "date": "2022-02-20",
+        "team_1": "Rennes",
+        "team_2": "Troyes",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.3,
+            "X": 5.05,
+            "2": 9.38
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/rennes-troyes-OO4NM1hD/"
+    },
+    {
+        "date": "2022-02-20",
+        "team_1": "St Etienne",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.0,
+            "X": 3.1,
+            "2": 2.35
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/st-etienne-strasbourg-QTr6ooVD/"
+    },
+    {
+        "date": "2022-02-20",
+        "team_1": "Nice",
+        "team_2": "Angers",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.67,
+            "X": 3.5,
+            "2": 5.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nice-angers-Gb1FONN0/"
+    },
+    {
+        "date": "2022-02-19",
+        "team_1": "Nantes",
+        "team_2": "PSG",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 7.25,
+            "X": 4.9,
+            "2": 1.37
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nantes-psg-x82BP38f/"
+    },
+    {
+        "date": "2022-02-19",
+        "team_1": "Lens",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.9,
+            "X": 3.45,
+            "2": 2.24
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lens-lyon-pANWWoGK/"
+    },
+    {
+        "date": "2022-02-18",
+        "team_1": "Lille",
+        "team_2": "Metz",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.5,
+            "X": 3.8,
+            "2": 6.63
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lille-metz-O0MzW5VQ/"
+    },
+    {
+        "date": "2022-02-13",
+        "team_1": "Metz",
+        "team_2": "Marseille",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 5.18,
+            "X": 3.8,
+            "2": 1.61
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/metz-marseille-xnRzDQOl/"
+    },
+    {
+        "date": "2022-02-13",
+        "team_1": "Lens",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.55,
+            "X": 4.3,
+            "2": 5.03
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lens-bordeaux-63z5In1R/"
+    },
+    {
+        "date": "2022-02-13",
+        "team_1": "Angers",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.13,
+            "X": 3.08,
+            "2": 2.28
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/angers-strasbourg-WWShLlH8/"
+    },
+    {
+        "date": "2022-02-13",
+        "team_1": "Brest",
+        "team_2": "Troyes",
+        "score": {
+            "1": 5,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.96,
+            "X": 3.35,
+            "2": 3.63
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/brest-troyes-QgSdK8WE/"
+    },
+    {
+        "date": "2022-02-13",
+        "team_1": "Clermont",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.34,
+            "X": 3.03,
+            "2": 3.1
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/clermont-st-etienne-Ovo0JSoL/"
+    },
+    {
+        "date": "2022-02-13",
+        "team_1": "Nantes",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.19,
+            "X": 2.88,
+            "2": 3.53
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nantes-reims-C4JmAO87/"
+    },
+    {
+        "date": "2022-02-13",
+        "team_1": "Monaco",
+        "team_2": "Lorient",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.36,
+            "X": 4.85,
+            "2": 7.63
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/monaco-lorient-GxQvCpve/"
+    },
+    {
+        "date": "2022-02-12",
+        "team_1": "Lyon",
+        "team_2": "Nice",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.73,
+            "X": 3.74,
+            "2": 4.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lyon-nice-8CMWD69r/"
+    },
+    {
+        "date": "2022-02-12",
+        "team_1": "Montpellier",
+        "team_2": "Lille",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.94,
+            "X": 3.13,
+            "2": 2.35
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/montpellier-lille-b1FqB4g1/"
+    },
+    {
+        "date": "2022-02-11",
+        "team_1": "PSG",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.47,
+            "X": 4.42,
+            "2": 5.65
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/psg-rennes-Q77VY7o8/"
+    },
+    {
+        "date": "2022-02-06",
+        "team_1": "Lille",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 5
+        },
+        "odds": {
+            "1": 4.7,
+            "X": 3.88,
+            "2": 1.62
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lille-psg-vBeBykph/"
+    },
+    {
+        "date": "2022-02-06",
+        "team_1": "Rennes",
+        "team_2": "Brest",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.42,
+            "X": 4.35,
+            "2": 6.33
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/rennes-brest-tr00FbTk/"
+    },
+    {
+        "date": "2022-02-06",
+        "team_1": "Nice",
+        "team_2": "Clermont",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.58,
+            "X": 3.7,
+            "2": 5.05
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nice-clermont-nsrSX6qH/"
+    },
+    {
+        "date": "2022-02-06",
+        "team_1": "Reims",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 5,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.96,
+            "X": 3.33,
+            "2": 3.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/reims-bordeaux-SvddGvEq/"
+    },
+    {
+        "date": "2022-02-06",
+        "team_1": "Strasbourg",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.78,
+            "X": 3.4,
+            "2": 4.15
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/strasbourg-nantes-Eeb8Dxb2/"
+    },
+    {
+        "date": "2022-02-06",
+        "team_1": "Troyes",
+        "team_2": "Metz",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.14,
+            "X": 3.0,
+            "2": 3.35
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/troyes-metz-htUlMU12/"
+    },
+    {
+        "date": "2022-02-06",
+        "team_1": "Lorient",
+        "team_2": "Lens",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.08,
+            "X": 3.08,
+            "2": 2.21
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lorient-lens-MZpGz9ab/"
+    },
+    {
+        "date": "2022-02-05",
+        "team_1": "Monaco",
+        "team_2": "Lyon",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 3.43,
+            "2": 3.28
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/monaco-lyon-8jqOYnUA/"
+    },
+    {
+        "date": "2022-02-05",
+        "team_1": "St Etienne",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.32,
+            "X": 3.15,
+            "2": 2.93
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/st-etienne-montpellier-z5a4EIrd/"
+    },
+    {
+        "date": "2022-02-04",
+        "team_1": "Marseille",
+        "team_2": "Angers",
+        "score": {
+            "1": 5,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.5,
+            "X": 3.75,
+            "2": 6.38
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/marseille-angers-0QqKZSE4/"
+    },
+    {
+        "date": "2022-02-01",
+        "team_1": "Lyon",
+        "team_2": "Marseille",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.78,
+            "X": 3.1,
+            "2": 2.45
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lyon-marseille-lY4eDK0s/"
+    },
+    {
+        "date": "2022-01-26",
+        "team_1": "Angers",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 3.15,
+            "2": 3.3
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/angers-st-etienne-8YLp4yPJ/"
+    },
+    {
+        "date": "2022-01-23",
+        "team_1": "PSG",
+        "team_2": "Reims",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.17,
+            "X": 6.5,
+            "2": 15.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/psg-reims-Q7i7xVUo/"
+    },
+    {
+        "date": "2022-01-23",
+        "team_1": "Montpellier",
+        "team_2": "Monaco",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.75,
+            "X": 3.55,
+            "2": 1.92
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/montpellier-monaco-AeHcIRqU/"
+    },
+    {
+        "date": "2022-01-23",
+        "team_1": "Angers",
+        "team_2": "Troyes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.07,
+            "X": 3.1,
+            "2": 3.8
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/angers-troyes-IsSTOB0n/"
+    },
+    {
+        "date": "2022-01-23",
+        "team_1": "Bordeaux",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 4,
+            "2": 3
+        },
+        "odds": {
+            "1": 4.25,
+            "X": 3.6,
+            "2": 1.8
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/bordeaux-strasbourg-nHWXNVFh/"
+    },
+    {
+        "date": "2022-01-23",
+        "team_1": "Clermont",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.4,
+            "X": 3.7,
+            "2": 1.8
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/clermont-rennes-8WKtM9p5/"
+    },
+    {
+        "date": "2022-01-23",
+        "team_1": "Nantes",
+        "team_2": "Lorient",
+        "score": {
+            "1": 4,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.28,
+            "X": 2.9,
+            "2": 3.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nantes-lorient-C43PDoho/"
+    },
+    {
+        "date": "2022-01-23",
+        "team_1": "Metz",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 5.2,
+            "X": 3.7,
+            "2": 1.7
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/metz-nice-hKMhJ7UN/"
+    },
+    {
+        "date": "2022-01-22",
+        "team_1": "Lens",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.5,
+            "X": 3.35,
+            "2": 2.85
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lens-marseille-K6OpLTaB/"
+    },
+    {
+        "date": "2022-01-22",
+        "team_1": "Brest",
+        "team_2": "Lille",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.25,
+            "X": 3.3,
+            "2": 2.22
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/brest-lille-Q7VyNkVb/"
+    },
+    {
+        "date": "2022-01-21",
+        "team_1": "Lyon",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.34,
+            "X": 5.15,
+            "2": 8.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lyon-st-etienne-ETNlKmFH/"
+    },
+    {
+        "date": "2022-01-19",
+        "team_1": "Clermont",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.45,
+            "X": 3.5,
+            "2": 2.05
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/clermont-strasbourg-dWZ434Y8/"
+    },
+    {
+        "date": "2022-01-19",
+        "team_1": "Lille",
+        "team_2": "Lorient",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.48,
+            "X": 4.2,
+            "2": 6.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lille-lorient-8d4XfXo6/"
+    },
+    {
+        "date": "2022-01-19",
+        "team_1": "Montpellier",
+        "team_2": "Troyes",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.65,
+            "X": 3.7,
+            "2": 5.0
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/montpellier-troyes-tndphVVO/"
+    },
+    {
+        "date": "2022-01-16",
+        "team_1": "Marseille",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 3.25,
+            "2": 3.3
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/marseille-lille-EZQbBhWn/"
+    },
+    {
+        "date": "2022-01-16",
+        "team_1": "Troyes",
+        "team_2": "Lyon",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.5,
+            "X": 3.75,
+            "2": 1.73
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/troyes-lyon-viTPPiot/"
+    },
+    {
+        "date": "2022-01-16",
+        "team_1": "Lorient",
+        "team_2": "Angers",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.22,
+            "X": 3.0,
+            "2": 3.45
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lorient-angers-WAyfCYGt/"
+    },
+    {
+        "date": "2022-01-16",
+        "team_1": "Monaco",
+        "team_2": "Clermont",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.38,
+            "X": 4.6,
+            "2": 7.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/monaco-clermont-SxV2ACog/"
+    },
+    {
+        "date": "2022-01-16",
+        "team_1": "Reims",
+        "team_2": "Metz",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.75,
+            "X": 3.4,
+            "2": 4.95
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/reims-metz-SCa77AVB/"
+    },
+    {
+        "date": "2022-01-16",
+        "team_1": "Strasbourg",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.98,
+            "X": 3.4,
+            "2": 3.7
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/strasbourg-montpellier-ET1J48FU/"
+    },
+    {
+        "date": "2022-01-16",
+        "team_1": "Rennes",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 6,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.35,
+            "X": 4.75,
+            "2": 7.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/rennes-bordeaux-63bB6UpI/"
+    },
+    {
+        "date": "2022-01-15",
+        "team_1": "PSG",
+        "team_2": "Brest",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.22,
+            "X": 6.35,
+            "2": 11.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/psg-brest-0jTA8jG5/"
+    },
+    {
+        "date": "2022-01-15",
+        "team_1": "St Etienne",
+        "team_2": "Lens",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 4.0,
+            "X": 3.7,
+            "2": 1.82
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/st-etienne-lens-0QcF5l0O/"
+    },
+    {
+        "date": "2022-01-14",
+        "team_1": "Nice",
+        "team_2": "Nantes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.68,
+            "X": 3.7,
+            "2": 4.9
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nice-nantes-MaU69W0a/"
+    },
+    {
+        "date": "2022-01-09",
+        "team_1": "Lyon",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.1,
+            "X": 3.6,
+            "2": 2.1
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lyon-psg-KW7yfi1C/"
+    },
+    {
+        "date": "2022-01-09",
+        "team_1": "Nantes",
+        "team_2": "Monaco",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 4.0,
+            "X": 3.45,
+            "2": 1.92
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nantes-monaco-U1kSGE8P/"
+    },
+    {
+        "date": "2022-01-09",
+        "team_1": "Clermont",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.45,
+            "X": 2.85,
+            "2": 3.2
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/clermont-reims-I7BKcZ1m/"
+    },
+    {
+        "date": "2022-01-09",
+        "team_1": "Metz",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 4.65,
+            "X": 3.8,
+            "2": 1.7
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/metz-strasbourg-2ectgBGI/"
+    },
+    {
+        "date": "2022-01-09",
+        "team_1": "Brest",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.7,
+            "X": 3.3,
+            "2": 2.5
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/brest-nice-vHCGbFns/"
+    },
+    {
+        "date": "2022-01-08",
+        "team_1": "Lens",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.55,
+            "X": 3.4,
+            "2": 2.65
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lens-rennes-zq6PdgHg/"
+    },
+    {
+        "date": "2022-01-07",
+        "team_1": "Bordeaux",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 5.0,
+            "X": 4.0,
+            "2": 1.63
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/bordeaux-marseille-MyQl3evQ/"
+    },
+    {
+        "date": "2021-12-22",
+        "team_1": "Bordeaux",
+        "team_2": "Lille",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 4.0,
+            "X": 3.65,
+            "2": 1.7
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/bordeaux-lille-Iuy14pJ2/"
+    },
+    {
+        "date": "2021-12-22",
+        "team_1": "Lorient",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 7.0,
+            "X": 4.7,
+            "2": 1.32
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lorient-psg-E7U92OmF/"
+    },
+    {
+        "date": "2021-12-22",
+        "team_1": "Lyon",
+        "team_2": "Metz",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.25,
+            "X": 5.0,
+            "2": 7.85
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lyon-metz-jXiwodIs/"
+    },
+    {
+        "date": "2021-12-22",
+        "team_1": "Marseille",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.45,
+            "X": 3.95,
+            "2": 6.25
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/marseille-reims-pfispGXm/"
+    },
+    {
+        "date": "2021-12-22",
+        "team_1": "Monaco",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.15,
+            "X": 3.3,
+            "2": 3.2
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/monaco-rennes-bceoqzmf/"
+    },
+    {
+        "date": "2021-12-22",
+        "team_1": "Montpellier",
+        "team_2": "Angers",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.85,
+            "X": 3.4,
+            "2": 3.9
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/montpellier-angers-tMpjrf20/"
+    },
+    {
+        "date": "2021-12-22",
+        "team_1": "Nice",
+        "team_2": "Lens",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.9,
+            "X": 3.55,
+            "2": 3.55
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nice-lens-KCqfsEH6/"
+    },
+    {
+        "date": "2021-12-22",
+        "team_1": "St Etienne",
+        "team_2": "Nantes",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.35,
+            "X": 3.1,
+            "2": 2.95
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/st-etienne-nantes-SxqbtYWC/"
+    },
+    {
+        "date": "2021-12-22",
+        "team_1": "Troyes",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.38,
+            "X": 3.05,
+            "2": 2.9
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/troyes-brest-6Ts2uhnJ/"
+    },
+    {
+        "date": "2021-12-12",
+        "team_1": "PSG",
+        "team_2": "Monaco",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.4,
+            "X": 5.0,
+            "2": 6.7
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/psg-monaco-hplumqlS/"
+    },
+    {
+        "date": "2021-12-12",
+        "team_1": "Strasbourg",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.3,
+            "X": 3.35,
+            "2": 2.9
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/strasbourg-marseille-6iUFtsRe/"
+    },
+    {
+        "date": "2021-12-12",
+        "team_1": "Angers",
+        "team_2": "Clermont",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.92,
+            "X": 3.3,
+            "2": 4.0
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/angers-clermont-pEcKi7Zd/"
+    },
+    {
+        "date": "2021-12-12",
+        "team_1": "Metz",
+        "team_2": "Lorient",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.5,
+            "X": 3.05,
+            "2": 2.9
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/metz-lorient-WUaWl5JF/"
+    },
+    {
+        "date": "2021-12-12",
+        "team_1": "Rennes",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.77,
+            "X": 3.6,
+            "2": 4.35
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/rennes-nice-OSvBsNBk/"
+    },
+    {
+        "date": "2021-12-12",
+        "team_1": "Troyes",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.05,
+            "X": 3.5,
+            "2": 3.3
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/troyes-bordeaux-4xmJu1t2/"
+    },
+    {
+        "date": "2021-12-12",
+        "team_1": "Lille",
+        "team_2": "Lyon",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.05,
+            "X": 3.5,
+            "2": 3.35
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lille-lyon-IReSko49/"
+    },
+    {
+        "date": "2021-12-11",
+        "team_1": "Reims",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.1,
+            "X": 3.25,
+            "2": 3.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/reims-st-etienne-pxt7r3dq/"
+    },
+    {
+        "date": "2021-12-11",
+        "team_1": "Brest",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 0,
+            "2": 4
+        },
+        "odds": {
+            "1": 2.1,
+            "X": 3.4,
+            "2": 3.28
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/brest-montpellier-O4dOjRl3/"
+    },
+    {
+        "date": "2021-12-10",
+        "team_1": "Nantes",
+        "team_2": "Lens",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.75,
+            "X": 3.2,
+            "2": 2.58
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nantes-lens-EgkylPYL/"
+    },
+    {
+        "date": "2021-12-05",
+        "team_1": "Bordeaux",
+        "team_2": "Lyon",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 4.8,
+            "X": 4.25,
+            "2": 1.55
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/bordeaux-lyon-C8HquUki/"
+    },
+    {
+        "date": "2021-12-05",
+        "team_1": "Nice",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.75,
+            "X": 3.5,
+            "2": 4.65
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nice-strasbourg-C8gyVqSq/"
+    },
+    {
+        "date": "2021-12-05",
+        "team_1": "Lorient",
+        "team_2": "Nantes",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.75,
+            "X": 3.05,
+            "2": 2.75
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lorient-nantes-pb9dxSZ9/"
+    },
+    {
+        "date": "2021-12-05",
+        "team_1": "Monaco",
+        "team_2": "Metz",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.32,
+            "X": 5.0,
+            "2": 8.65
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/monaco-metz-hOC4z64M/"
+    },
+    {
+        "date": "2021-12-05",
+        "team_1": "Montpellier",
+        "team_2": "Clermont",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.9,
+            "X": 3.65,
+            "2": 3.65
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/montpellier-clermont-zm29ZPJS/"
+    },
+    {
+        "date": "2021-12-05",
+        "team_1": "Reims",
+        "team_2": "Angers",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.22,
+            "X": 2.95,
+            "2": 3.6
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/reims-angers-6VhuU3sj/"
+    },
+    {
+        "date": "2021-12-05",
+        "team_1": "St Etienne",
+        "team_2": "Rennes",
+        "score": {
+            "1": 0,
+            "2": 5
+        },
+        "odds": {
+            "1": 3.85,
+            "X": 3.65,
+            "2": 1.85
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/st-etienne-rennes-pMiqTNdd/"
+    },
+    {
+        "date": "2021-12-04",
+        "team_1": "Lens",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.85,
+            "X": 4.25,
+            "2": 1.57
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lens-psg-OrLmvl5c/"
+    },
+    {
+        "date": "2021-12-04",
+        "team_1": "Lille",
+        "team_2": "Troyes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.47,
+            "X": 4.1,
+            "2": 6.55
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lille-troyes-67Ahw8K3/"
+    },
+    {
+        "date": "2021-12-04",
+        "team_1": "Marseille",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.45,
+            "X": 4.35,
+            "2": 5.95
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/marseille-brest-EXD0ynkG/"
+    },
+    {
+        "date": "2021-12-01",
+        "team_1": "Clermont",
+        "team_2": "Lens",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.9,
+            "X": 3.3,
+            "2": 2.38
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/clermont-lens-WldAQUzb/"
+    },
+    {
+        "date": "2021-12-01",
+        "team_1": "Lyon",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.45,
+            "X": 4.4,
+            "2": 6.5
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lyon-reims-AueEPlj4/"
+    },
+    {
+        "date": "2021-12-01",
+        "team_1": "Nantes",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.1,
+            "X": 3.3,
+            "2": 2.3
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nantes-marseille-67lNNSKG/"
+    },
+    {
+        "date": "2021-12-01",
+        "team_1": "PSG",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.31,
+            "X": 5.4,
+            "2": 7.75
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/psg-nice-0UmRMnzN/"
+    },
+    {
+        "date": "2021-12-01",
+        "team_1": "Rennes",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 3.35,
+            "2": 3.7
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/rennes-lille-vLnVL6kT/"
+    },
+    {
+        "date": "2021-12-01",
+        "team_1": "Angers",
+        "team_2": "Monaco",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.3,
+            "X": 3.05,
+            "2": 2.28
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/angers-monaco-bNr3Sj6o/"
+    },
+    {
+        "date": "2021-12-01",
+        "team_1": "Brest",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.98,
+            "X": 3.55,
+            "2": 3.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/brest-st-etienne-xEs7RALi/"
+    },
+    {
+        "date": "2021-12-01",
+        "team_1": "Metz",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.65,
+            "X": 3.1,
+            "2": 2.7
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/metz-montpellier-h4pJO85A/"
+    },
+    {
+        "date": "2021-12-01",
+        "team_1": "Strasbourg",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 5,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 3.85,
+            "2": 3.95
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/strasbourg-bordeaux-KEUcHQcp/"
+    },
+    {
+        "date": "2021-12-01",
+        "team_1": "Troyes",
+        "team_2": "Lorient",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.25,
+            "X": 3.25,
+            "2": 3.15
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/troyes-lorient-b5T1GpDj/"
+    },
+    {
+        "date": "2021-11-28",
+        "team_1": "Marseille",
+        "team_2": "Troyes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.41,
+            "X": 4.6,
+            "2": 6.75
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/marseille-troyes-jHLyCVL4/"
+    },
+    {
+        "date": "2021-11-28",
+        "team_1": "Montpellier",
+        "team_2": "Lyon",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.0,
+            "X": 4.1,
+            "2": 1.72
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/montpellier-lyon-nqFpA9jH/"
+    },
+    {
+        "date": "2021-11-28",
+        "team_1": "Bordeaux",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.3,
+            "X": 3.25,
+            "2": 3.05
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/bordeaux-brest-O4UKFDMu/"
+    },
+    {
+        "date": "2021-11-28",
+        "team_1": "Lorient",
+        "team_2": "Rennes",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 4.5,
+            "X": 3.8,
+            "2": 1.72
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lorient-rennes-dfMXCB6b/"
+    },
+    {
+        "date": "2021-11-28",
+        "team_1": "Monaco",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.66,
+            "X": 3.8,
+            "2": 4.5
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/monaco-strasbourg-U7KuBkyB/"
+    },
+    {
+        "date": "2021-11-28",
+        "team_1": "Reims",
+        "team_2": "Clermont",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.25,
+            "X": 3.0,
+            "2": 3.4
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/reims-clermont-KdDh8mLT/"
+    },
+    {
+        "date": "2021-11-28",
+        "team_1": "St Etienne",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 8.5,
+            "X": 5.8,
+            "2": 1.28
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/st-etienne-psg-dI4K37Tp/"
+    },
+    {
+        "date": "2021-11-27",
+        "team_1": "Nice",
+        "team_2": "Metz",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.33,
+            "X": 5.0,
+            "2": 8.5
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nice-metz-QZDl9T5N/"
+    },
+    {
+        "date": "2021-11-27",
+        "team_1": "Lille",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.68,
+            "X": 3.85,
+            "2": 4.7
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lille-nantes-pKITDiih/"
+    },
+    {
+        "date": "2021-11-26",
+        "team_1": "Lens",
+        "team_2": "Angers",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.7,
+            "X": 3.55,
+            "2": 5.0
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lens-angers-2eTOEXyn/"
+    },
+    {
+        "date": "2021-11-21",
+        "team_1": "Clermont",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.08,
+            "X": 3.35,
+            "2": 2.13
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/clermont-nice-nPITH0hQ/"
+    },
+    {
+        "date": "2021-11-21",
+        "team_1": "Angers",
+        "team_2": "Lorient",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.68,
+            "X": 3.47,
+            "2": 4.58
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/angers-lorient-vaFLJMND/"
+    },
+    {
+        "date": "2021-11-21",
+        "team_1": "Metz",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 3,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.18,
+            "X": 3.1,
+            "2": 3.1
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/metz-bordeaux-UqMhCvGm/"
+    },
+    {
+        "date": "2021-11-21",
+        "team_1": "Strasbourg",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.9,
+            "X": 3.1,
+            "2": 3.95
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/strasbourg-reims-bPD98dFC/"
+    },
+    {
+        "date": "2021-11-21",
+        "team_1": "Troyes",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.15,
+            "X": 3.28,
+            "2": 3.0
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/troyes-st-etienne-xGCD7GUI/"
+    },
+    {
+        "date": "2021-11-21",
+        "team_1": "Brest",
+        "team_2": "Lens",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.05,
+            "X": 3.35,
+            "2": 2.11
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/brest-lens-h2JPItwK/"
+    },
+    {
+        "date": "2021-11-20",
+        "team_1": "Rennes",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.4,
+            "X": 4.55,
+            "2": 6.2
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/rennes-montpellier-G0O49x06/"
+    },
+    {
+        "date": "2021-11-20",
+        "team_1": "PSG",
+        "team_2": "Nantes",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.15,
+            "X": 7.38,
+            "2": 13.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/psg-nantes-2cK0AIp0/"
+    },
+    {
+        "date": "2021-11-19",
+        "team_1": "Monaco",
+        "team_2": "Lille",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 3.08,
+            "2": 3.68
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/monaco-lille-8zLdBbVg/"
+    },
+    {
+        "date": "2021-11-07",
+        "team_1": "Rennes",
+        "team_2": "Lyon",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.44,
+            "X": 3.47,
+            "2": 2.58
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/rennes-lyon-dzjyCA47/"
+    },
+    {
+        "date": "2021-11-07",
+        "team_1": "Nice",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.43,
+            "X": 4.55,
+            "2": 6.0
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nice-montpellier-lAnTDWZf/"
+    },
+    {
+        "date": "2021-11-07",
+        "team_1": "Lorient",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.4,
+            "X": 3.13,
+            "2": 2.83
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lorient-brest-jLigKYdR/"
+    },
+    {
+        "date": "2021-11-07",
+        "team_1": "Nantes",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.49,
+            "X": 2.98,
+            "2": 2.85
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nantes-strasbourg-6ocOECKl/"
+    },
+    {
+        "date": "2021-11-07",
+        "team_1": "Reims",
+        "team_2": "Monaco",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 4.03,
+            "X": 3.28,
+            "2": 1.88
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/reims-monaco-S0oXCjk1/"
+    },
+    {
+        "date": "2021-11-07",
+        "team_1": "St Etienne",
+        "team_2": "Clermont",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.36,
+            "X": 3.2,
+            "2": 2.85
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/st-etienne-clermont-zRluBUJD/"
+    },
+    {
+        "date": "2021-11-07",
+        "team_1": "Marseille",
+        "team_2": "Metz",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.37,
+            "X": 4.88,
+            "2": 7.38
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/marseille-metz-80vLFh5r/"
+    },
+    {
+        "date": "2021-11-06",
+        "team_1": "Bordeaux",
+        "team_2": "PSG",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 9.5,
+            "X": 5.88,
+            "2": 1.25
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/bordeaux-psg-G2atNzD8/"
+    },
+    {
+        "date": "2021-11-06",
+        "team_1": "Lille",
+        "team_2": "Angers",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.58,
+            "X": 3.73,
+            "2": 5.63
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lille-angers-CUhkLEsL/"
+    },
+    {
+        "date": "2021-11-05",
+        "team_1": "Lens",
+        "team_2": "Troyes",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.55,
+            "X": 3.95,
+            "2": 5.38
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lens-troyes-fgbpMfSE/"
+    },
+    {
+        "date": "2021-10-31",
+        "team_1": "Clermont",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.38,
+            "X": 3.53,
+            "2": 2.01
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/clermont-marseille-zqrB7eDL/"
+    },
+    {
+        "date": "2021-10-31",
+        "team_1": "Brest",
+        "team_2": "Monaco",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 4.25,
+            "X": 3.75,
+            "2": 1.78
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/brest-monaco-Muv78ybF/"
+    },
+    {
+        "date": "2021-10-31",
+        "team_1": "Bordeaux",
+        "team_2": "Reims",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.5,
+            "X": 3.08,
+            "2": 2.9
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/bordeaux-reims-SIv39Hr9/"
+    },
+    {
+        "date": "2021-10-31",
+        "team_1": "Montpellier",
+        "team_2": "Nantes",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.1,
+            "X": 3.43,
+            "2": 3.3
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/montpellier-nantes-StJo1gjk/"
+    },
+    {
+        "date": "2021-10-31",
+        "team_1": "Strasbourg",
+        "team_2": "Lorient",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.84,
+            "X": 3.47,
+            "2": 4.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/strasbourg-lorient-ld7faXK1/"
+    },
+    {
+        "date": "2021-10-31",
+        "team_1": "Troyes",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 4.0,
+            "X": 3.6,
+            "2": 1.84
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/troyes-rennes-2aBbbiz8/"
+    },
+    {
+        "date": "2021-10-31",
+        "team_1": "Angers",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.99,
+            "X": 3.25,
+            "2": 2.35
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/angers-nice-lSuaAcT2/"
+    },
+    {
+        "date": "2021-10-30",
+        "team_1": "Lyon",
+        "team_2": "Lens",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.53,
+            "X": 4.5,
+            "2": 5.48
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lyon-lens-I7XF6FSR/"
+    },
+    {
+        "date": "2021-10-30",
+        "team_1": "Metz",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.65,
+            "X": 3.2,
+            "2": 2.55
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/metz-st-etienne-KGJs2Zzq/"
+    },
+    {
+        "date": "2021-10-29",
+        "team_1": "PSG",
+        "team_2": "Lille",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.33,
+            "X": 5.13,
+            "2": 8.48
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/psg-lille-6XHk0D5e/"
+    },
+    {
+        "date": "2021-10-27",
+        "team_1": "Nice",
+        "team_2": "Marseille",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.83,
+            "X": 3.18,
+            "2": 2.55
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nice-marseille-KIrtyAcH/"
+    },
+    {
+        "date": "2021-10-24",
+        "team_1": "Marseille",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 5.5,
+            "X": 4.6,
+            "2": 1.5
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/marseille-psg-EFETfITF/"
+    },
+    {
+        "date": "2021-10-24",
+        "team_1": "Monaco",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.43,
+            "X": 4.65,
+            "2": 6.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/monaco-montpellier-rkJXgxqM/"
+    },
+    {
+        "date": "2021-10-24",
+        "team_1": "Lens",
+        "team_2": "Metz",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.41,
+            "X": 4.4,
+            "2": 7.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lens-metz-vcMGcKqc/"
+    },
+    {
+        "date": "2021-10-24",
+        "team_1": "Lorient",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.12,
+            "X": 3.25,
+            "2": 3.6
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lorient-bordeaux-zPFPebE9/"
+    },
+    {
+        "date": "2021-10-24",
+        "team_1": "Reims",
+        "team_2": "Troyes",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.35,
+            "X": 3.0,
+            "2": 3.25
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/reims-troyes-vcb8mzMk/"
+    },
+    {
+        "date": "2021-10-24",
+        "team_1": "Rennes",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.6,
+            "X": 3.9,
+            "2": 5.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/rennes-strasbourg-YJcCnfyd/"
+    },
+    {
+        "date": "2021-10-24",
+        "team_1": "Nice",
+        "team_2": "Lyon",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.9,
+            "X": 3.5,
+            "2": 2.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nice-lyon-SMf4lG6q/"
+    },
+    {
+        "date": "2021-10-23",
+        "team_1": "Lille",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.45,
+            "X": 4.4,
+            "2": 7.0
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lille-brest-h0QKdva3/"
+    },
+    {
+        "date": "2021-10-23",
+        "team_1": "Nantes",
+        "team_2": "Clermont",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.17,
+            "X": 3.15,
+            "2": 3.35
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nantes-clermont-MuIygdbS/"
+    },
+    {
+        "date": "2021-10-22",
+        "team_1": "St Etienne",
+        "team_2": "Angers",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.9,
+            "X": 3.2,
+            "2": 2.45
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/st-etienne-angers-CAdGoEj2/"
+    },
+    {
+        "date": "2021-10-17",
+        "team_1": "Marseille",
+        "team_2": "Lorient",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.49,
+            "X": 4.28,
+            "2": 6.08
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/marseille-lorient-vRstkohA/"
+    },
+    {
+        "date": "2021-10-17",
+        "team_1": "Montpellier",
+        "team_2": "Lens",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.92,
+            "X": 3.43,
+            "2": 2.33
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/montpellier-lens-CvtlmPMM/"
+    },
+    {
+        "date": "2021-10-17",
+        "team_1": "Bordeaux",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.67,
+            "X": 3.25,
+            "2": 2.58
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/bordeaux-nantes-WAsnT3Vj/"
+    },
+    {
+        "date": "2021-10-17",
+        "team_1": "Brest",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.05,
+            "X": 3.25,
+            "2": 3.65
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/brest-reims-KQzUim8i/"
+    },
+    {
+        "date": "2021-10-17",
+        "team_1": "Metz",
+        "team_2": "Rennes",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 4.2,
+            "X": 3.47,
+            "2": 1.91
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/metz-rennes-Ymspl57G/"
+    },
+    {
+        "date": "2021-10-17",
+        "team_1": "Strasbourg",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 5,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.04,
+            "X": 3.46,
+            "2": 3.44
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/strasbourg-st-etienne-WOMKs3pp/"
+    },
+    {
+        "date": "2021-10-17",
+        "team_1": "Troyes",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.8,
+            "X": 3.69,
+            "2": 1.89
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/troyes-nice-QoMOtNaj/"
+    },
+    {
+        "date": "2021-10-16",
+        "team_1": "Lyon",
+        "team_2": "Monaco",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.07,
+            "X": 3.59,
+            "2": 3.28
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lyon-monaco-ttPxjRx4/"
+    },
+    {
+        "date": "2021-10-16",
+        "team_1": "Clermont",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.12,
+            "X": 3.52,
+            "2": 2.18
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/clermont-lille-bHZXj7Nc/"
+    },
+    {
+        "date": "2021-10-15",
+        "team_1": "PSG",
+        "team_2": "Angers",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.25,
+            "X": 6.03,
+            "2": 10.57
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/psg-angers-UFzgnqxT/"
+    },
+    {
+        "date": "2021-10-03",
+        "team_1": "St Etienne",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.7,
+            "X": 4.18,
+            "2": 1.68
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/st-etienne-lyon-fPrrYhHI/"
+    },
+    {
+        "date": "2021-10-03",
+        "team_1": "Lille",
+        "team_2": "Marseille",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.35,
+            "X": 3.32,
+            "2": 3.19
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lille-marseille-vg6jrwuQ/"
+    },
+    {
+        "date": "2021-10-03",
+        "team_1": "Angers",
+        "team_2": "Metz",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.96,
+            "X": 3.35,
+            "2": 4.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/angers-metz-naJ4KZnJ/"
+    },
+    {
+        "date": "2021-10-03",
+        "team_1": "Lorient",
+        "team_2": "Clermont",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.46,
+            "X": 3.4,
+            "2": 2.85
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lorient-clermont-KnlJwcms/"
+    },
+    {
+        "date": "2021-10-03",
+        "team_1": "Monaco",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.4,
+            "X": 5.0,
+            "2": 7.6
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/monaco-bordeaux-bwmNxH2m/"
+    },
+    {
+        "date": "2021-10-03",
+        "team_1": "Nantes",
+        "team_2": "Troyes",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.83,
+            "X": 3.62,
+            "2": 4.51
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nantes-troyes-4zjVzeXa/"
+    },
+    {
+        "date": "2021-10-03",
+        "team_1": "Rennes",
+        "team_2": "PSG",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 6.25,
+            "X": 4.9,
+            "2": 1.48
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/rennes-psg-QkvvZY1C/"
+    },
+    {
+        "date": "2021-10-02",
+        "team_1": "Nice",
+        "team_2": "Brest",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.6,
+            "X": 4.33,
+            "2": 5.31
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nice-brest-nauzzFn6/"
+    },
+    {
+        "date": "2021-10-02",
+        "team_1": "Montpellier",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.47,
+            "X": 3.41,
+            "2": 2.89
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/montpellier-strasbourg-h0nRyyIg/"
+    },
+    {
+        "date": "2021-10-01",
+        "team_1": "Lens",
+        "team_2": "Reims",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.91,
+            "X": 3.49,
+            "2": 4.23
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lens-reims-027nqJPJ/"
+    },
+    {
+        "date": "2021-09-26",
+        "team_1": "Marseille",
+        "team_2": "Lens",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.73,
+            "X": 3.91,
+            "2": 4.88
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/marseille-lens-QBmBAbJf/"
+    },
+    {
+        "date": "2021-09-26",
+        "team_1": "Clermont",
+        "team_2": "Monaco",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 4.03,
+            "X": 3.78,
+            "2": 1.91
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/clermont-monaco-4da2CKlr/"
+    },
+    {
+        "date": "2021-09-26",
+        "team_1": "Brest",
+        "team_2": "Metz",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.02,
+            "X": 3.48,
+            "2": 3.72
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/brest-metz-C47zH0tR/"
+    },
+    {
+        "date": "2021-09-26",
+        "team_1": "Reims",
+        "team_2": "Nantes",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.71,
+            "X": 3.0,
+            "2": 2.93
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/reims-nantes-W8jJ8xl7/"
+    },
+    {
+        "date": "2021-09-26",
+        "team_1": "Troyes",
+        "team_2": "Angers",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.78,
+            "X": 3.15,
+            "2": 2.71
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/troyes-angers-Q7X9VaeK/"
+    },
+    {
+        "date": "2021-09-26",
+        "team_1": "Bordeaux",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.85,
+            "X": 3.5,
+            "2": 2.03
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/bordeaux-rennes-YD8WHtRK/"
+    },
+    {
+        "date": "2021-09-25",
+        "team_1": "Lyon",
+        "team_2": "Lorient",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.3,
+            "X": 5.96,
+            "2": 9.11
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lyon-lorient-rmb6Bv4l/"
+    },
+    {
+        "date": "2021-09-25",
+        "team_1": "PSG",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.13,
+            "X": 9.88,
+            "2": 19.55
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/psg-montpellier-xniF9IY0/"
+    },
+    {
+        "date": "2021-09-25",
+        "team_1": "Strasbourg",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.14,
+            "X": 3.06,
+            "2": 2.44
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/strasbourg-lille-nHY5WutE/"
+    },
+    {
+        "date": "2021-09-25",
+        "team_1": "St Etienne",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.47,
+            "X": 3.57,
+            "2": 2.12
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/st-etienne-nice-AakN7d3D/"
+    },
+    {
+        "date": "2021-09-22",
+        "team_1": "Angers",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.25,
+            "X": 3.18,
+            "2": 2.4
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/angers-marseille-QqFhdTn9/"
+    },
+    {
+        "date": "2021-09-22",
+        "team_1": "Lens",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.13,
+            "X": 3.42,
+            "2": 3.6
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lens-strasbourg-884cem2F/"
+    },
+    {
+        "date": "2021-09-22",
+        "team_1": "Lorient",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.31,
+            "X": 3.44,
+            "2": 2.22
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lorient-nice-hbRUxunl/"
+    },
+    {
+        "date": "2021-09-22",
+        "team_1": "Lyon",
+        "team_2": "Troyes",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.3,
+            "X": 5.7,
+            "2": 10.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lyon-troyes-WlQYya1f/"
+    },
+    {
+        "date": "2021-09-22",
+        "team_1": "Metz",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 10.95,
+            "X": 6.69,
+            "2": 1.25
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/metz-psg-EDFwyJG0/"
+    },
+    {
+        "date": "2021-09-22",
+        "team_1": "Lille",
+        "team_2": "Reims",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.75,
+            "X": 3.48,
+            "2": 5.43
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lille-reims-pYRQwLWs/"
+    },
+    {
+        "date": "2021-09-22",
+        "team_1": "Monaco",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.44,
+            "X": 4.5,
+            "2": 7.48
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/monaco-st-etienne-SGJszwW6/"
+    },
+    {
+        "date": "2021-09-22",
+        "team_1": "Montpellier",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 3,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.05,
+            "X": 3.66,
+            "2": 3.52
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/montpellier-bordeaux-MwJoZdoD/"
+    },
+    {
+        "date": "2021-09-22",
+        "team_1": "Nantes",
+        "team_2": "Brest",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.04,
+            "X": 3.49,
+            "2": 3.75
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nantes-brest-0UHkYG0J/"
+    },
+    {
+        "date": "2021-09-22",
+        "team_1": "Rennes",
+        "team_2": "Clermont",
+        "score": {
+            "1": 6,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.99,
+            "X": 3.5,
+            "2": 3.98
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/rennes-clermont-YHbrZv1J/"
+    },
+    {
+        "date": "2021-09-19",
+        "team_1": "PSG",
+        "team_2": "Lyon",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.3,
+            "X": 6.0,
+            "2": 8.69
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/psg-lyon-WSWgKZZi/"
+    },
+    {
+        "date": "2021-09-19",
+        "team_1": "Marseille",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.91,
+            "X": 3.64,
+            "2": 4.18
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/marseille-rennes-GKl7dWso/"
+    },
+    {
+        "date": "2021-09-19",
+        "team_1": "Angers",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 4
+        },
+        "odds": {
+            "1": 2.08,
+            "X": 3.17,
+            "2": 3.94
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/angers-nantes-tpkY2Y4H/"
+    },
+    {
+        "date": "2021-09-19",
+        "team_1": "Clermont",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.85,
+            "X": 3.77,
+            "2": 4.24
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/clermont-brest-Kzlx2hKN/"
+    },
+    {
+        "date": "2021-09-19",
+        "team_1": "Reims",
+        "team_2": "Lorient",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.21,
+            "X": 3.17,
+            "2": 3.56
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/reims-lorient-QkWcJgkb/"
+    },
+    {
+        "date": "2021-09-19",
+        "team_1": "Troyes",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.39,
+            "X": 3.51,
+            "2": 2.91
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/troyes-montpellier-08OAGiZG/"
+    },
+    {
+        "date": "2021-09-19",
+        "team_1": "Nice",
+        "team_2": "Monaco",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.07,
+            "X": 3.43,
+            "2": 2.39
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nice-monaco-IPSkLFKo/"
+    },
+    {
+        "date": "2021-09-18",
+        "team_1": "St Etienne",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.84,
+            "X": 3.68,
+            "2": 4.35
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/st-etienne-bordeaux-4tV1ID44/"
+    },
+    {
+        "date": "2021-09-18",
+        "team_1": "Lens",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.56,
+            "X": 3.24,
+            "2": 2.89
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lens-lille-EB2u1CZT/"
+    },
+    {
+        "date": "2021-09-17",
+        "team_1": "Strasbourg",
+        "team_2": "Metz",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.91,
+            "X": 3.5,
+            "2": 4.4
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/strasbourg-metz-MHP6HXJA/"
+    },
+    {
+        "date": "2021-09-12",
+        "team_1": "Lyon",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.53,
+            "X": 4.45,
+            "2": 6.23
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lyon-strasbourg-lYUuJVxP/"
+    },
+    {
+        "date": "2021-09-12",
+        "team_1": "Nantes",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.98,
+            "X": 3.15,
+            "2": 2.55
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nantes-nice-0CbbyDhg/"
+    },
+    {
+        "date": "2021-09-12",
+        "team_1": "Bordeaux",
+        "team_2": "Lens",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.17,
+            "X": 3.38,
+            "2": 2.29
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/bordeaux-lens-EFxTLXh6/"
+    },
+    {
+        "date": "2021-09-12",
+        "team_1": "Brest",
+        "team_2": "Angers",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.61,
+            "X": 3.2,
+            "2": 2.85
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/brest-angers-h6yXKi8C/"
+    },
+    {
+        "date": "2021-09-12",
+        "team_1": "Metz",
+        "team_2": "Troyes",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.42,
+            "X": 3.26,
+            "2": 3.07
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/metz-troyes-2yJNsFFP/"
+    },
+    {
+        "date": "2021-09-12",
+        "team_1": "Rennes",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.74,
+            "X": 3.5,
+            "2": 5.41
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/rennes-reims-6916ZjN5/"
+    },
+    {
+        "date": "2021-09-12",
+        "team_1": "Montpellier",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.51,
+            "X": 3.49,
+            "2": 2.73
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/montpellier-st-etienne-MLafxgwm/"
+    },
+    {
+        "date": "2021-09-11",
+        "team_1": "Monaco",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.82,
+            "X": 3.69,
+            "2": 4.53
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/monaco-marseille-4p5kwZNt/"
+    },
+    {
+        "date": "2021-09-11",
+        "team_1": "PSG",
+        "team_2": "Clermont",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.35,
+            "X": 5.56,
+            "2": 8.73
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/psg-clermont-fZc2zX7a/"
+    },
+    {
+        "date": "2021-09-10",
+        "team_1": "Lorient",
+        "team_2": "Lille",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.72,
+            "X": 3.36,
+            "2": 2.13
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lorient-lille-zVQyKBNI/"
+    },
+    {
+        "date": "2021-08-29",
+        "team_1": "Reims",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 14.88,
+            "X": 7.59,
+            "2": 1.2
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/reims-psg-prNWepZq/"
+    },
+    {
+        "date": "2021-08-29",
+        "team_1": "Lille",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.61,
+            "X": 4.16,
+            "2": 5.66
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lille-montpellier-hprh3StA/"
+    },
+    {
+        "date": "2021-08-29",
+        "team_1": "Angers",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.93,
+            "X": 3.06,
+            "2": 2.73
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/angers-rennes-IRku6Udi/"
+    },
+    {
+        "date": "2021-08-29",
+        "team_1": "Clermont",
+        "team_2": "Metz",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.67,
+            "X": 3.86,
+            "2": 5.58
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/clermont-metz-dIlq5lCc/"
+    },
+    {
+        "date": "2021-08-29",
+        "team_1": "Lens",
+        "team_2": "Lorient",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.61,
+            "X": 4.13,
+            "2": 5.71
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lens-lorient-vsvl48R3/"
+    },
+    {
+        "date": "2021-08-29",
+        "team_1": "Strasbourg",
+        "team_2": "Brest",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.99,
+            "X": 3.59,
+            "2": 3.92
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/strasbourg-brest-v5Mze4lj/"
+    },
+    {
+        "date": "2021-08-29",
+        "team_1": "Troyes",
+        "team_2": "Monaco",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 4.86,
+            "X": 3.77,
+            "2": 1.74
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/troyes-monaco-juQvfO3d/"
+    },
+    {
+        "date": "2021-08-28",
+        "team_1": "Marseille",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.71,
+            "X": 3.93,
+            "2": 5.23
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/marseille-st-etienne-n7sd2ndG/"
+    },
+    {
+        "date": "2021-08-28",
+        "team_1": "Nice",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 3.66,
+            "2": 4.61
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nice-bordeaux-rZz50QQS/"
+    },
+    {
+        "date": "2021-08-27",
+        "team_1": "Nantes",
+        "team_2": "Lyon",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.63,
+            "X": 4.0,
+            "2": 1.75
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nantes-lyon-Qct016BM/"
+    },
+    {
+        "date": "2021-08-22",
+        "team_1": "Rennes",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.66,
+            "X": 3.77,
+            "2": 5.57
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/rennes-nantes-b9spzUCN/"
+    },
+    {
+        "date": "2021-08-22",
+        "team_1": "Bordeaux",
+        "team_2": "Angers",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.35,
+            "X": 3.17,
+            "2": 2.33
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/bordeaux-angers-fFaILUcU/"
+    },
+    {
+        "date": "2021-08-22",
+        "team_1": "Metz",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.3,
+            "X": 3.04,
+            "2": 3.55
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/metz-reims-UTkTwCDb/"
+    },
+    {
+        "date": "2021-08-22",
+        "team_1": "Montpellier",
+        "team_2": "Lorient",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.15,
+            "X": 3.44,
+            "2": 3.42
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/montpellier-lorient-xfgyxjrB/"
+    },
+    {
+        "date": "2021-08-22",
+        "team_1": "Strasbourg",
+        "team_2": "Troyes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.96,
+            "X": 3.52,
+            "2": 3.88
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/strasbourg-troyes-UiYFU7zo/"
+    },
+    {
+        "date": "2021-08-22",
+        "team_1": "Lyon",
+        "team_2": "Clermont",
+        "score": {
+            "1": 3,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.59,
+            "X": 4.38,
+            "2": 5.25
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lyon-clermont-ARZRuYrn/"
+    },
+    {
+        "date": "2021-08-21",
+        "team_1": "St Etienne",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.17,
+            "X": 3.18,
+            "2": 2.41
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/st-etienne-lille-SrnlZmST/"
+    },
+    {
+        "date": "2021-08-21",
+        "team_1": "Monaco",
+        "team_2": "Lens",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.73,
+            "X": 3.82,
+            "2": 4.93
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/monaco-lens-OjkXxWS4/"
+    },
+    {
+        "date": "2021-08-20",
+        "team_1": "Brest",
+        "team_2": "PSG",
+        "score": {
+            "1": 2,
+            "2": 4
+        },
+        "odds": {
+            "1": 9.75,
+            "X": 5.88,
+            "2": 1.3
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/brest-psg-WzyOtETu/"
+    },
+    {
+        "date": "2021-08-15",
+        "team_1": "Marseille",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.5,
+            "X": 4.56,
+            "2": 6.93
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/marseille-bordeaux-6DDrWNFK/"
+    },
+    {
+        "date": "2021-08-15",
+        "team_1": "Lens",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.04,
+            "X": 3.55,
+            "2": 3.63
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lens-st-etienne-drWi9087/"
+    },
+    {
+        "date": "2021-08-15",
+        "team_1": "Brest",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.33,
+            "X": 3.38,
+            "2": 2.21
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/brest-rennes-0GxqBMwe/"
+    },
+    {
+        "date": "2021-08-15",
+        "team_1": "Clermont",
+        "team_2": "Troyes",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.89,
+            "X": 3.6,
+            "2": 4.14
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/clermont-troyes-IiXmAtg1/"
+    },
+    {
+        "date": "2021-08-15",
+        "team_1": "Nantes",
+        "team_2": "Metz",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.09,
+            "X": 3.32,
+            "2": 3.78
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nantes-metz-p4CnVsVQ/"
+    },
+    {
+        "date": "2021-08-15",
+        "team_1": "Reims",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 3,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.54,
+            "X": 3.3,
+            "2": 2.88
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/reims-montpellier-fwbIPLhl/"
+    },
+    {
+        "date": "2021-08-15",
+        "team_1": "Angers",
+        "team_2": "Lyon",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 4.22,
+            "X": 3.82,
+            "2": 1.85
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/angers-lyon-MPwuC2Ol/"
+    },
+    {
+        "date": "2021-08-14",
+        "team_1": "PSG",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 4,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.21,
+            "X": 7.17,
+            "2": 13.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/psg-strasbourg-GnaEQ1wr/"
+    },
+    {
+        "date": "2021-08-14",
+        "team_1": "Lille",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 4
+        },
+        "odds": {
+            "1": 1.87,
+            "X": 3.47,
+            "2": 4.6
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lille-nice-AoKZXqo8/"
+    },
+    {
+        "date": "2021-08-13",
+        "team_1": "Lorient",
+        "team_2": "Monaco",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 4.2,
+            "X": 3.57,
+            "2": 1.9
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lorient-monaco-OlOwX30E/"
+    },
+    {
+        "date": "2021-08-08",
+        "team_1": "Montpellier",
+        "team_2": "Marseille",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.6,
+            "X": 3.57,
+            "2": 2.08
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/montpellier-marseille-bXDBWEmr/"
+    },
+    {
+        "date": "2021-08-08",
+        "team_1": "Metz",
+        "team_2": "Lille",
+        "score": {
+            "1": 3,
+            "2": 3
+        },
+        "odds": {
+            "1": 4.95,
+            "X": 3.3,
+            "2": 1.86
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/metz-lille-EaxuxyQK/"
+    },
+    {
+        "date": "2021-08-08",
+        "team_1": "Bordeaux",
+        "team_2": "Clermont",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.57,
+            "X": 3.23,
+            "2": 2.93
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/bordeaux-clermont-tYOXwce8/"
+    },
+    {
+        "date": "2021-08-08",
+        "team_1": "Nice",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.81,
+            "X": 3.57,
+            "2": 4.77
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/nice-reims-CzIFVY2l/"
+    },
+    {
+        "date": "2021-08-08",
+        "team_1": "St Etienne",
+        "team_2": "Lorient",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.18,
+            "X": 3.47,
+            "2": 3.37
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/st-etienne-lorient-plGNTCX0/"
+    },
+    {
+        "date": "2021-08-08",
+        "team_1": "Strasbourg",
+        "team_2": "Angers",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 3.42,
+            "2": 3.93
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/strasbourg-angers-2PASSWn7/"
+    },
+    {
+        "date": "2021-08-08",
+        "team_1": "Rennes",
+        "team_2": "Lens",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.9,
+            "X": 3.65,
+            "2": 4.2
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/rennes-lens-6cHJUhIf/"
+    },
+    {
+        "date": "2021-08-07",
+        "team_1": "Troyes",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 8.8,
+            "X": 5.7,
+            "2": 1.34
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/troyes-psg-tG9WRj2D/"
+    },
+    {
+        "date": "2021-08-07",
+        "team_1": "Lyon",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.36,
+            "X": 5.58,
+            "2": 8.48
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/lyon-brest-KONywHAE/"
+    },
+    {
+        "date": "2021-08-06",
+        "team_1": "Monaco",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.4,
+            "X": 4.83,
+            "2": 8.2
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2021-2022/monaco-nantes-hjyqyeuR/"
+    }
+]

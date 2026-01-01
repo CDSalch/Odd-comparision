@@ -1,0 +1,162 @@
+[
+    {
+        "date": "2007-08-05",
+        "team_1": "Lyon",
+        "team_2": "Auxerre",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.35,
+            "X": 4.2,
+            "2": 8.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2007-2008/lyon-auxerre-OnlrJ70H/"
+    },
+    {
+        "date": "2007-08-05",
+        "team_1": "Le Mans",
+        "team_2": "Metz",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.9,
+            "X": 3.25,
+            "2": 3.75
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2007-2008/le-mans-metz-UPlvKmoB/"
+    },
+    {
+        "date": "2007-08-04",
+        "team_1": "Bordeaux",
+        "team_2": "Lens",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 2.95,
+            "2": 3.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2007-2008/bordeaux-lens-Equd3S0U/"
+    },
+    {
+        "date": "2007-08-04",
+        "team_1": "Caen",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 2.75,
+            "2": 4.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2007-2008/caen-nice-rPUAOBWu/"
+    },
+    {
+        "date": "2007-08-04",
+        "team_1": "Lille",
+        "team_2": "Lorient",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.65,
+            "X": 3.25,
+            "2": 5.5
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2007-2008/lille-lorient-jkYIMk1h/"
+    },
+    {
+        "date": "2007-08-04",
+        "team_1": "Monaco",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.9,
+            "X": 3.1,
+            "2": 3.95
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2007-2008/monaco-st-etienne-UuXML9Gb/"
+    },
+    {
+        "date": "2007-08-04",
+        "team_1": "PSG",
+        "team_2": "Sochaux",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.65,
+            "X": 3.4,
+            "2": 5.09
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2007-2008/psg-sochaux-nHRRKTV4/"
+    },
+    {
+        "date": "2007-08-04",
+        "team_1": "Rennes",
+        "team_2": "Nancy",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 3.1,
+            "2": 4.65
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2007-2008/rennes-nancy-zgth48oO/"
+    },
+    {
+        "date": "2007-08-04",
+        "team_1": "Valenciennes",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.8,
+            "X": 2.9,
+            "2": 2.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2007-2008/valenciennes-toulouse-dSYENVon/"
+    },
+    {
+        "date": "2007-08-04",
+        "team_1": "Strasbourg",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.4,
+            "X": 3.0,
+            "2": 2.1
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2007-2008/strasbourg-marseille-tIRl5lWH/"
+    }
+]

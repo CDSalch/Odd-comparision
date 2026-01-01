@@ -1,0 +1,5362 @@
+[
+    {
+        "date": "2021-05-23",
+        "team_1": "Angers",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 7.97,
+            "X": 4.85,
+            "2": 1.36
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/angers-lille-2XS8JTFk/"
+    },
+    {
+        "date": "2021-05-23",
+        "team_1": "Brest",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 10.18,
+            "X": 7.25,
+            "2": 1.21
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/brest-psg-OtU4K90q/"
+    },
+    {
+        "date": "2021-05-23",
+        "team_1": "Lens",
+        "team_2": "Monaco",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 5.12,
+            "X": 4.4,
+            "2": 1.57
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lens-monaco-K8NDImVe/"
+    },
+    {
+        "date": "2021-05-23",
+        "team_1": "Lyon",
+        "team_2": "Nice",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.2,
+            "X": 7.58,
+            "2": 11.5
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lyon-nice-baMHH7p2/"
+    },
+    {
+        "date": "2021-05-23",
+        "team_1": "Metz",
+        "team_2": "Marseille",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.78,
+            "X": 3.77,
+            "2": 1.89
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/metz-marseille-C2AatiN2/"
+    },
+    {
+        "date": "2021-05-23",
+        "team_1": "Nantes",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.55,
+            "X": 4.2,
+            "2": 5.43
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nantes-montpellier-OxE3uBx9/"
+    },
+    {
+        "date": "2021-05-23",
+        "team_1": "Reims",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.68,
+            "X": 3.01,
+            "2": 2.78
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/reims-bordeaux-6138vViF/"
+    },
+    {
+        "date": "2021-05-23",
+        "team_1": "Rennes",
+        "team_2": "Nimes",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.24,
+            "X": 6.38,
+            "2": 10.02
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/rennes-nimes-ph2Cwk7L/"
+    },
+    {
+        "date": "2021-05-23",
+        "team_1": "St Etienne",
+        "team_2": "Dijon",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.28,
+            "X": 5.85,
+            "2": 9.15
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/st-etienne-dijon-ER6Gx9MR/"
+    },
+    {
+        "date": "2021-05-23",
+        "team_1": "Strasbourg",
+        "team_2": "Lorient",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.66,
+            "X": 2.21,
+            "2": 4.18
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/strasbourg-lorient-GzgrYSUr/"
+    },
+    {
+        "date": "2021-05-16",
+        "team_1": "Bordeaux",
+        "team_2": "Lens",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.19,
+            "X": 3.27,
+            "2": 2.24
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/bordeaux-lens-zc9R6jWq/"
+    },
+    {
+        "date": "2021-05-16",
+        "team_1": "Dijon",
+        "team_2": "Nantes",
+        "score": {
+            "1": 0,
+            "2": 4
+        },
+        "odds": {
+            "1": 7.55,
+            "X": 4.66,
+            "2": 1.39
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/dijon-nantes-UJ8V5Aoj/"
+    },
+    {
+        "date": "2021-05-16",
+        "team_1": "Lille",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.36,
+            "X": 4.72,
+            "2": 8.83
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lille-st-etienne-rNCZ4U0d/"
+    },
+    {
+        "date": "2021-05-16",
+        "team_1": "Lorient",
+        "team_2": "Metz",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.62,
+            "X": 3.87,
+            "2": 5.42
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lorient-metz-pSjITDwc/"
+    },
+    {
+        "date": "2021-05-16",
+        "team_1": "Marseille",
+        "team_2": "Angers",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.45,
+            "X": 4.5,
+            "2": 7.13
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/marseille-angers-OIkMSXh3/"
+    },
+    {
+        "date": "2021-05-16",
+        "team_1": "Monaco",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.77,
+            "X": 3.82,
+            "2": 4.4
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/monaco-rennes-WrkQRi89/"
+    },
+    {
+        "date": "2021-05-16",
+        "team_1": "Montpellier",
+        "team_2": "Brest",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.42,
+            "X": 3.6,
+            "2": 2.7
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/montpellier-brest-AZmUQBNF/"
+    },
+    {
+        "date": "2021-05-16",
+        "team_1": "Nice",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.06,
+            "X": 3.31,
+            "2": 2.27
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nice-strasbourg-hbwZPVxM/"
+    },
+    {
+        "date": "2021-05-16",
+        "team_1": "Nimes",
+        "team_2": "Lyon",
+        "score": {
+            "1": 2,
+            "2": 5
+        },
+        "odds": {
+            "1": 8.03,
+            "X": 5.82,
+            "2": 1.31
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nimes-lyon-61swPkhS/"
+    },
+    {
+        "date": "2021-05-16",
+        "team_1": "PSG",
+        "team_2": "Reims",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.12,
+            "X": 10.08,
+            "2": 17.83
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/psg-reims-YmNaBWNS/"
+    },
+    {
+        "date": "2021-05-09",
+        "team_1": "Rennes",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 5.73,
+            "X": 4.33,
+            "2": 1.52
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/rennes-psg-x8lIbgvN/"
+    },
+    {
+        "date": "2021-05-09",
+        "team_1": "Reims",
+        "team_2": "Monaco",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 7.62,
+            "X": 4.75,
+            "2": 1.39
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/reims-monaco-raUnEYwA/"
+    },
+    {
+        "date": "2021-05-09",
+        "team_1": "Angers",
+        "team_2": "Dijon",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.59,
+            "X": 3.89,
+            "2": 5.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/angers-dijon-jBhMcDgT/"
+    },
+    {
+        "date": "2021-05-09",
+        "team_1": "Metz",
+        "team_2": "Nimes",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.76,
+            "X": 3.34,
+            "2": 2.46
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/metz-nimes-ObNzHzfi/"
+    },
+    {
+        "date": "2021-05-09",
+        "team_1": "Nice",
+        "team_2": "Brest",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.38,
+            "X": 3.35,
+            "2": 2.91
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nice-brest-pEBqFEO3/"
+    },
+    {
+        "date": "2021-05-09",
+        "team_1": "Strasbourg",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.6,
+            "X": 4.17,
+            "2": 4.97
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/strasbourg-montpellier-GCSfCC8M/"
+    },
+    {
+        "date": "2021-05-09",
+        "team_1": "St Etienne",
+        "team_2": "Marseille",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.17,
+            "X": 3.42,
+            "2": 2.19
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/st-etienne-marseille-xMTjDhgG/"
+    },
+    {
+        "date": "2021-05-08",
+        "team_1": "Lyon",
+        "team_2": "Lorient",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.39,
+            "X": 5.15,
+            "2": 7.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lyon-lorient-zqUhhiHj/"
+    },
+    {
+        "date": "2021-05-08",
+        "team_1": "Nantes",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.96,
+            "X": 3.37,
+            "2": 3.9
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nantes-bordeaux-2kMvGf9c/"
+    },
+    {
+        "date": "2021-05-07",
+        "team_1": "Lens",
+        "team_2": "Lille",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 4.22,
+            "X": 3.45,
+            "2": 1.89
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lens-lille-dhVlgX1p/"
+    },
+    {
+        "date": "2021-05-02",
+        "team_1": "Monaco",
+        "team_2": "Lyon",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.45,
+            "X": 3.67,
+            "2": 2.66
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/monaco-lyon-OrZC1ef4/"
+    },
+    {
+        "date": "2021-05-02",
+        "team_1": "Montpellier",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.87,
+            "X": 3.47,
+            "2": 2.32
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/montpellier-st-etienne-4fjA0F9A/"
+    },
+    {
+        "date": "2021-05-02",
+        "team_1": "Brest",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 4
+        },
+        "odds": {
+            "1": 2.52,
+            "X": 3.26,
+            "2": 2.72
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/brest-nantes-bcVlct3I/"
+    },
+    {
+        "date": "2021-05-02",
+        "team_1": "Dijon",
+        "team_2": "Metz",
+        "score": {
+            "1": 1,
+            "2": 5
+        },
+        "odds": {
+            "1": 3.33,
+            "X": 3.16,
+            "2": 2.25
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/dijon-metz-zNhIuEXp/"
+    },
+    {
+        "date": "2021-05-02",
+        "team_1": "Lorient",
+        "team_2": "Angers",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.91,
+            "X": 3.33,
+            "2": 4.17
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lorient-angers-jVz53HPi/"
+    },
+    {
+        "date": "2021-05-02",
+        "team_1": "Nimes",
+        "team_2": "Reims",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.27,
+            "X": 3.17,
+            "2": 3.27
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nimes-reims-rokEaZOG/"
+    },
+    {
+        "date": "2021-05-02",
+        "team_1": "Bordeaux",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 4.83,
+            "X": 3.9,
+            "2": 1.66
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/bordeaux-rennes-UNQpbMmC/"
+    },
+    {
+        "date": "2021-05-01",
+        "team_1": "Lille",
+        "team_2": "Nice",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.41,
+            "X": 4.53,
+            "2": 7.72
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lille-nice-xSW04cAo/"
+    },
+    {
+        "date": "2021-05-01",
+        "team_1": "PSG",
+        "team_2": "Lens",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.35,
+            "X": 5.17,
+            "2": 7.8
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/psg-lens-jXRta2Y5/"
+    },
+    {
+        "date": "2021-04-30",
+        "team_1": "Marseille",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 3.5,
+            "2": 4.52
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/marseille-strasbourg-phz92yub/"
+    },
+    {
+        "date": "2021-04-25",
+        "team_1": "Lyon",
+        "team_2": "Lille",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.01,
+            "X": 3.44,
+            "2": 3.63
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lyon-lille-4zfg86BJ/"
+    },
+    {
+        "date": "2021-04-25",
+        "team_1": "Angers",
+        "team_2": "Monaco",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 8.13,
+            "X": 4.48,
+            "2": 1.4
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/angers-monaco-f5C2oq46/"
+    },
+    {
+        "date": "2021-04-25",
+        "team_1": "Lens",
+        "team_2": "Nimes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 3.49,
+            "2": 4.34
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lens-nimes-xU17p3JC/"
+    },
+    {
+        "date": "2021-04-25",
+        "team_1": "Lorient",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.18,
+            "X": 3.28,
+            "2": 3.27
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lorient-bordeaux-jX5BqNYI/"
+    },
+    {
+        "date": "2021-04-25",
+        "team_1": "Rennes",
+        "team_2": "Dijon",
+        "score": {
+            "1": 5,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.33,
+            "X": 5.17,
+            "2": 8.27
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/rennes-dijon-2BZT14lm/"
+    },
+    {
+        "date": "2021-04-25",
+        "team_1": "Strasbourg",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.13,
+            "X": 3.25,
+            "2": 3.44
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/strasbourg-nantes-88xx0rJa/"
+    },
+    {
+        "date": "2021-04-25",
+        "team_1": "Nice",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.77,
+            "X": 3.35,
+            "2": 2.47
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nice-montpellier-rRhc7QQP/"
+    },
+    {
+        "date": "2021-04-24",
+        "team_1": "Metz",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 13.4,
+            "X": 6.6,
+            "2": 1.18
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/metz-psg-GEDbnPl0/"
+    },
+    {
+        "date": "2021-04-24",
+        "team_1": "St Etienne",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.99,
+            "X": 3.4,
+            "2": 3.62
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/st-etienne-brest-dYYX0O3g/"
+    },
+    {
+        "date": "2021-04-23",
+        "team_1": "Reims",
+        "team_2": "Marseille",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.74,
+            "X": 3.44,
+            "2": 1.99
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/reims-marseille-OKzQ2pZt/"
+    },
+    {
+        "date": "2021-04-18",
+        "team_1": "Nantes",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 6.5,
+            "X": 4.55,
+            "2": 1.44
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nantes-lyon-0OAnkR4s/"
+    },
+    {
+        "date": "2021-04-18",
+        "team_1": "Bordeaux",
+        "team_2": "Monaco",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 6.01,
+            "X": 4.08,
+            "2": 1.53
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/bordeaux-monaco-zswQXPZ6/"
+    },
+    {
+        "date": "2021-04-18",
+        "team_1": "Brest",
+        "team_2": "Lens",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.81,
+            "X": 3.34,
+            "2": 2.46
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/brest-lens-EXyUWqkD/"
+    },
+    {
+        "date": "2021-04-18",
+        "team_1": "Dijon",
+        "team_2": "Nice",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 4.46,
+            "X": 3.78,
+            "2": 1.73
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/dijon-nice-jkLCeTRD/"
+    },
+    {
+        "date": "2021-04-18",
+        "team_1": "Nimes",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.63,
+            "X": 3.44,
+            "2": 2.03
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nimes-strasbourg-rm0iloKm/"
+    },
+    {
+        "date": "2021-04-18",
+        "team_1": "Reims",
+        "team_2": "Metz",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.51,
+            "X": 3.0,
+            "2": 3.01
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/reims-metz-Mwaem5Zg/"
+    },
+    {
+        "date": "2021-04-18",
+        "team_1": "PSG",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.3,
+            "X": 5.69,
+            "2": 8.7
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/psg-st-etienne-UqzIZo5f/"
+    },
+    {
+        "date": "2021-04-17",
+        "team_1": "Marseille",
+        "team_2": "Lorient",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.04,
+            "X": 3.49,
+            "2": 3.7
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/marseille-lorient-O2JKg7dQ/"
+    },
+    {
+        "date": "2021-04-17",
+        "team_1": "Angers",
+        "team_2": "Rennes",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 4.66,
+            "X": 3.6,
+            "2": 1.77
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/angers-rennes-tKwMY5K0/"
+    },
+    {
+        "date": "2021-04-16",
+        "team_1": "Lille",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.56,
+            "X": 4.05,
+            "2": 5.96
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lille-montpellier-UuKGfmsK/"
+    },
+    {
+        "date": "2021-04-11",
+        "team_1": "Lyon",
+        "team_2": "Angers",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.31,
+            "X": 5.34,
+            "2": 9.13
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lyon-angers-SGDnK657/"
+    },
+    {
+        "date": "2021-04-11",
+        "team_1": "Monaco",
+        "team_2": "Dijon",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.15,
+            "X": 7.78,
+            "2": 14.95
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/monaco-dijon-fN5YsAcE/"
+    },
+    {
+        "date": "2021-04-11",
+        "team_1": "Brest",
+        "team_2": "Nimes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.92,
+            "X": 3.64,
+            "2": 3.76
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/brest-nimes-8EcoMSze/"
+    },
+    {
+        "date": "2021-04-11",
+        "team_1": "Lens",
+        "team_2": "Lorient",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.11,
+            "X": 3.38,
+            "2": 3.47
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lens-lorient-lQErLnj1/"
+    },
+    {
+        "date": "2021-04-11",
+        "team_1": "Nice",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.09,
+            "X": 3.21,
+            "2": 3.64
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nice-reims-GxfstlSQ/"
+    },
+    {
+        "date": "2021-04-11",
+        "team_1": "St Etienne",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.16,
+            "X": 3.11,
+            "2": 3.61
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/st-etienne-bordeaux-nLpDzSkl/"
+    },
+    {
+        "date": "2021-04-11",
+        "team_1": "Rennes",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.82,
+            "X": 3.51,
+            "2": 4.39
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/rennes-nantes-8Uo9y8zr/"
+    },
+    {
+        "date": "2021-04-10",
+        "team_1": "Montpellier",
+        "team_2": "Marseille",
+        "score": {
+            "1": 3,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.5,
+            "X": 3.32,
+            "2": 2.8
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/montpellier-marseille-xnewsUCK/"
+    },
+    {
+        "date": "2021-04-10",
+        "team_1": "Strasbourg",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 4
+        },
+        "odds": {
+            "1": 4.85,
+            "X": 4.04,
+            "2": 1.64
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/strasbourg-psg-UNbsN8Ll/"
+    },
+    {
+        "date": "2021-04-09",
+        "team_1": "Metz",
+        "team_2": "Lille",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 6.3,
+            "X": 3.65,
+            "2": 1.61
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/metz-lille-tK1Urjr8/"
+    },
+    {
+        "date": "2021-04-04",
+        "team_1": "Marseille",
+        "team_2": "Dijon",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.49,
+            "X": 4.28,
+            "2": 6.44
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/marseille-dijon-8jFbVWD8/"
+    },
+    {
+        "date": "2021-04-04",
+        "team_1": "Nimes",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.16,
+            "X": 3.34,
+            "2": 2.24
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nimes-st-etienne-bu8BSUcR/"
+    },
+    {
+        "date": "2021-04-04",
+        "team_1": "Bordeaux",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.8,
+            "X": 3.1,
+            "2": 2.6
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/bordeaux-strasbourg-YwMbWUrd/"
+    },
+    {
+        "date": "2021-04-04",
+        "team_1": "Lorient",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.23,
+            "X": 3.36,
+            "2": 3.16
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lorient-brest-UaGfWCb2/"
+    },
+    {
+        "date": "2021-04-04",
+        "team_1": "Nantes",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.33,
+            "X": 3.22,
+            "2": 3.06
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nantes-nice-GGI6TArL/"
+    },
+    {
+        "date": "2021-04-04",
+        "team_1": "Reims",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.71,
+            "X": 3.08,
+            "2": 2.11
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/reims-rennes-z1awOl6r/"
+    },
+    {
+        "date": "2021-04-04",
+        "team_1": "Angers",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.75,
+            "X": 3.14,
+            "2": 2.61
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/angers-montpellier-vHMfXATk/"
+    },
+    {
+        "date": "2021-04-03",
+        "team_1": "Lens",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.34,
+            "X": 4.09,
+            "2": 1.71
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lens-lyon-WOv2Vlb2/"
+    },
+    {
+        "date": "2021-04-03",
+        "team_1": "PSG",
+        "team_2": "Lille",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.65,
+            "X": 3.93,
+            "2": 5.24
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/psg-lille-0QNjYjEq/"
+    },
+    {
+        "date": "2021-04-03",
+        "team_1": "Monaco",
+        "team_2": "Metz",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.5,
+            "X": 4.38,
+            "2": 6.38
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/monaco-metz-xQJ2UjTE/"
+    },
+    {
+        "date": "2021-03-21",
+        "team_1": "Lyon",
+        "team_2": "PSG",
+        "score": {
+            "1": 2,
+            "2": 4
+        },
+        "odds": {
+            "1": 3.13,
+            "X": 3.95,
+            "2": 2.12
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lyon-psg-xpE1fsVo/"
+    },
+    {
+        "date": "2021-03-21",
+        "team_1": "Lille",
+        "team_2": "Nimes",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.3,
+            "X": 5.07,
+            "2": 10.74
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lille-nimes-AwQJVcho/"
+    },
+    {
+        "date": "2021-03-21",
+        "team_1": "Brest",
+        "team_2": "Angers",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.38,
+            "X": 3.15,
+            "2": 3.04
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/brest-angers-Q5lmyKUN/"
+    },
+    {
+        "date": "2021-03-21",
+        "team_1": "Dijon",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.56,
+            "X": 3.21,
+            "2": 2.12
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/dijon-reims-8UwhzvpU/"
+    },
+    {
+        "date": "2021-03-21",
+        "team_1": "Montpellier",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.12,
+            "X": 3.23,
+            "2": 3.46
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/montpellier-bordeaux-ba2AhLab/"
+    },
+    {
+        "date": "2021-03-21",
+        "team_1": "Nantes",
+        "team_2": "Lorient",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.26,
+            "X": 3.04,
+            "2": 3.37
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nantes-lorient-C26EiuF4/"
+    },
+    {
+        "date": "2021-03-21",
+        "team_1": "Strasbourg",
+        "team_2": "Lens",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.72,
+            "X": 3.14,
+            "2": 2.62
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/strasbourg-lens-C2pqx0FH/"
+    },
+    {
+        "date": "2021-03-20",
+        "team_1": "Nice",
+        "team_2": "Marseille",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.29,
+            "X": 3.26,
+            "2": 2.24
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nice-marseille-6P5IjaUA/"
+    },
+    {
+        "date": "2021-03-20",
+        "team_1": "Metz",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.66,
+            "X": 3.07,
+            "2": 2.11
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/metz-rennes-GzD5g1ph/"
+    },
+    {
+        "date": "2021-03-19",
+        "team_1": "St Etienne",
+        "team_2": "Monaco",
+        "score": {
+            "1": 0,
+            "2": 4
+        },
+        "odds": {
+            "1": 4.39,
+            "X": 3.46,
+            "2": 1.83
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/st-etienne-monaco-pG4MkJqH/"
+    },
+    {
+        "date": "2021-03-14",
+        "team_1": "PSG",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.21,
+            "X": 6.34,
+            "2": 14.0
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/psg-nantes-QoM1PMVB/"
+    },
+    {
+        "date": "2021-03-14",
+        "team_1": "Monaco",
+        "team_2": "Lille",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.5,
+            "X": 3.24,
+            "2": 3.19
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/monaco-lille-rNhSurGh/"
+    },
+    {
+        "date": "2021-03-14",
+        "team_1": "Dijon",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.42,
+            "X": 3.25,
+            "2": 2.21
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/dijon-bordeaux-YBP9N00O/"
+    },
+    {
+        "date": "2021-03-14",
+        "team_1": "Lens",
+        "team_2": "Metz",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.91,
+            "X": 3.29,
+            "2": 4.38
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lens-metz-C2ODMKFU/"
+    },
+    {
+        "date": "2021-03-14",
+        "team_1": "Lorient",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.38,
+            "X": 3.32,
+            "2": 3.03
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lorient-nice-xQkKs4ot/"
+    },
+    {
+        "date": "2021-03-14",
+        "team_1": "Rennes",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.08,
+            "X": 3.31,
+            "2": 3.78
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/rennes-strasbourg-Iuouwt0B/"
+    },
+    {
+        "date": "2021-03-14",
+        "team_1": "Nimes",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.13,
+            "X": 3.61,
+            "2": 1.88
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nimes-montpellier-MDiWv2Vb/"
+    },
+    {
+        "date": "2021-03-13",
+        "team_1": "Marseille",
+        "team_2": "Brest",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.95,
+            "X": 3.42,
+            "2": 4.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/marseille-brest-l0gOtO0n/"
+    },
+    {
+        "date": "2021-03-13",
+        "team_1": "Angers",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.29,
+            "X": 3.15,
+            "2": 3.37
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/angers-st-etienne-4xL5OtoI/"
+    },
+    {
+        "date": "2021-03-12",
+        "team_1": "Reims",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 6.73,
+            "X": 4.57,
+            "2": 1.48
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/reims-lyon-vknyvMp5/"
+    },
+    {
+        "date": "2021-03-10",
+        "team_1": "Marseille",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.83,
+            "X": 3.14,
+            "2": 2.63
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/marseille-rennes-b1kJWqxn/"
+    },
+    {
+        "date": "2021-03-03",
+        "team_1": "Bordeaux",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 7.1,
+            "X": 4.43,
+            "2": 1.48
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/bordeaux-psg-vFVRCqn6/"
+    },
+    {
+        "date": "2021-03-03",
+        "team_1": "Lille",
+        "team_2": "Marseille",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.69,
+            "X": 3.55,
+            "2": 5.55
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lille-marseille-0UJzBNGI/"
+    },
+    {
+        "date": "2021-03-03",
+        "team_1": "Montpellier",
+        "team_2": "Lorient",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.96,
+            "X": 3.56,
+            "2": 3.91
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/montpellier-lorient-UqblUpHt/"
+    },
+    {
+        "date": "2021-03-03",
+        "team_1": "Nantes",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.56,
+            "X": 2.97,
+            "2": 3.09
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nantes-reims-d6UpT4Wn/"
+    },
+    {
+        "date": "2021-03-03",
+        "team_1": "Strasbourg",
+        "team_2": "Monaco",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 4.34,
+            "X": 3.86,
+            "2": 1.81
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/strasbourg-monaco-rNWdQ2G5/"
+    },
+    {
+        "date": "2021-03-03",
+        "team_1": "Brest",
+        "team_2": "Dijon",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.74,
+            "X": 3.78,
+            "2": 4.73
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/brest-dijon-I5UVB31C/"
+    },
+    {
+        "date": "2021-03-03",
+        "team_1": "Lyon",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.68,
+            "X": 3.88,
+            "2": 5.15
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lyon-rennes-EXNvAsWO/"
+    },
+    {
+        "date": "2021-03-03",
+        "team_1": "Metz",
+        "team_2": "Angers",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.58,
+            "X": 2.95,
+            "2": 3.03
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/metz-angers-SzCMYQ8P/"
+    },
+    {
+        "date": "2021-03-03",
+        "team_1": "Nice",
+        "team_2": "Nimes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.81,
+            "X": 3.46,
+            "2": 4.6
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nice-nimes-zcTlSOog/"
+    },
+    {
+        "date": "2021-03-03",
+        "team_1": "St Etienne",
+        "team_2": "Lens",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.81,
+            "X": 3.1,
+            "2": 2.61
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/st-etienne-lens-UJShRr1a/"
+    },
+    {
+        "date": "2021-02-28",
+        "team_1": "Marseille",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 5.25,
+            "X": 4.44,
+            "2": 1.59
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/marseille-lyon-KAnqL7vQ/"
+    },
+    {
+        "date": "2021-02-28",
+        "team_1": "Lille",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.63,
+            "X": 3.63,
+            "2": 5.96
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lille-strasbourg-424dc4nJ/"
+    },
+    {
+        "date": "2021-02-28",
+        "team_1": "Angers",
+        "team_2": "Lens",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.04,
+            "X": 3.0,
+            "2": 2.53
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/angers-lens-Wl6laQH6/"
+    },
+    {
+        "date": "2021-02-28",
+        "team_1": "Lorient",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.93,
+            "X": 3.16,
+            "2": 2.51
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lorient-st-etienne-tKmuMmPJ/"
+    },
+    {
+        "date": "2021-02-28",
+        "team_1": "Nimes",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.12,
+            "X": 3.25,
+            "2": 2.36
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nimes-nantes-lQxFFo2m/"
+    },
+    {
+        "date": "2021-02-28",
+        "team_1": "Reims",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.65,
+            "X": 3.12,
+            "2": 2.79
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/reims-montpellier-WlSJE5Hg/"
+    },
+    {
+        "date": "2021-02-28",
+        "team_1": "Monaco",
+        "team_2": "Brest",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.42,
+            "X": 5.04,
+            "2": 7.1
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/monaco-brest-xjZAGRns/"
+    },
+    {
+        "date": "2021-02-27",
+        "team_1": "Dijon",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 4
+        },
+        "odds": {
+            "1": 11.98,
+            "X": 6.52,
+            "2": 1.23
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/dijon-psg-Io2p0620/"
+    },
+    {
+        "date": "2021-02-27",
+        "team_1": "Bordeaux",
+        "team_2": "Metz",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.42,
+            "X": 3.07,
+            "2": 3.15
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/bordeaux-metz-QB5hbpXC/"
+    },
+    {
+        "date": "2021-02-26",
+        "team_1": "Rennes",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.78,
+            "X": 3.35,
+            "2": 4.68
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/rennes-nice-AuRNDPWa/"
+    },
+    {
+        "date": "2021-02-24",
+        "team_1": "Nimes",
+        "team_2": "Lorient",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.39,
+            "X": 3.54,
+            "2": 2.26
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nimes-lorient-8Y1GZChQ/"
+    },
+    {
+        "date": "2021-02-21",
+        "team_1": "PSG",
+        "team_2": "Monaco",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.63,
+            "X": 4.13,
+            "2": 5.5
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/psg-monaco-ShH00Fdq/"
+    },
+    {
+        "date": "2021-02-21",
+        "team_1": "Lorient",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 4
+        },
+        "odds": {
+            "1": 5.03,
+            "X": 3.53,
+            "2": 1.77
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lorient-lille-2B9DcDt2/"
+    },
+    {
+        "date": "2021-02-21",
+        "team_1": "Lens",
+        "team_2": "Dijon",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.49,
+            "X": 4.25,
+            "2": 6.89
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lens-dijon-OKA9bgRe/"
+    },
+    {
+        "date": "2021-02-21",
+        "team_1": "Nice",
+        "team_2": "Metz",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.16,
+            "X": 3.2,
+            "2": 3.63
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nice-metz-Cti4KzlF/"
+    },
+    {
+        "date": "2021-02-21",
+        "team_1": "Nimes",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.15,
+            "X": 3.32,
+            "2": 2.29
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nimes-bordeaux-l6EX28Is/"
+    },
+    {
+        "date": "2021-02-21",
+        "team_1": "Strasbourg",
+        "team_2": "Angers",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.27,
+            "X": 3.09,
+            "2": 3.45
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/strasbourg-angers-zNCu1nmf/"
+    },
+    {
+        "date": "2021-02-21",
+        "team_1": "Montpellier",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.21,
+            "X": 3.26,
+            "2": 2.28
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/montpellier-rennes-GEceMdJ2/"
+    },
+    {
+        "date": "2021-02-20",
+        "team_1": "Nantes",
+        "team_2": "Marseille",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.56,
+            "X": 3.14,
+            "2": 2.91
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nantes-marseille-UH1aLGY8/"
+    },
+    {
+        "date": "2021-02-20",
+        "team_1": "St Etienne",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.13,
+            "X": 3.11,
+            "2": 3.74
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/st-etienne-reims-dWDy2SXm/"
+    },
+    {
+        "date": "2021-02-19",
+        "team_1": "Brest",
+        "team_2": "Lyon",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 6.0,
+            "X": 4.78,
+            "2": 1.49
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/brest-lyon-6qG4aZBk/"
+    },
+    {
+        "date": "2021-02-17",
+        "team_1": "Marseille",
+        "team_2": "Nice",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.45,
+            "X": 3.18,
+            "2": 3.1
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/marseille-nice-ELcvo6MF/"
+    },
+    {
+        "date": "2021-02-14",
+        "team_1": "Bordeaux",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.51,
+            "X": 3.2,
+            "2": 2.91
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/bordeaux-marseille-SvxSoGsj/"
+    },
+    {
+        "date": "2021-02-14",
+        "team_1": "Lille",
+        "team_2": "Brest",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.57,
+            "X": 3.88,
+            "2": 6.19
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lille-brest-rmKE9JZd/"
+    },
+    {
+        "date": "2021-02-14",
+        "team_1": "Angers",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.14,
+            "X": 3.01,
+            "2": 3.91
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/angers-nantes-YHxOndSq/"
+    },
+    {
+        "date": "2021-02-14",
+        "team_1": "Dijon",
+        "team_2": "Nimes",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.55,
+            "X": 3.21,
+            "2": 2.86
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/dijon-nimes-trtWpzcd/"
+    },
+    {
+        "date": "2021-02-14",
+        "team_1": "Metz",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.95,
+            "X": 2.93,
+            "2": 2.68
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/metz-strasbourg-jDNM7c49/"
+    },
+    {
+        "date": "2021-02-14",
+        "team_1": "Rennes",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.89,
+            "X": 3.42,
+            "2": 4.34
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/rennes-st-etienne-ADUY4elS/"
+    },
+    {
+        "date": "2021-02-14",
+        "team_1": "Monaco",
+        "team_2": "Lorient",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.41,
+            "X": 4.79,
+            "2": 7.24
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/monaco-lorient-U3MQ6HJF/"
+    },
+    {
+        "date": "2021-02-13",
+        "team_1": "Lyon",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.39,
+            "X": 5.06,
+            "2": 7.04
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lyon-montpellier-MwJI8wk3/"
+    },
+    {
+        "date": "2021-02-13",
+        "team_1": "Reims",
+        "team_2": "Lens",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.08,
+            "X": 3.0,
+            "2": 2.52
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/reims-lens-CSBV5yZL/"
+    },
+    {
+        "date": "2021-02-13",
+        "team_1": "PSG",
+        "team_2": "Nice",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.28,
+            "X": 5.88,
+            "2": 9.94
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/psg-nice-W8jdixKS/"
+    },
+    {
+        "date": "2021-02-07",
+        "team_1": "Marseille",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 7.01,
+            "X": 5.06,
+            "2": 1.43
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/marseille-psg-b3ALvazN/"
+    },
+    {
+        "date": "2021-02-07",
+        "team_1": "Nantes",
+        "team_2": "Lille",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 4.61,
+            "X": 3.47,
+            "2": 1.82
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nantes-lille-4tXneKK3/"
+    },
+    {
+        "date": "2021-02-07",
+        "team_1": "Montpellier",
+        "team_2": "Dijon",
+        "score": {
+            "1": 4,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.71,
+            "X": 3.76,
+            "2": 4.91
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/montpellier-dijon-MHsrd05c/"
+    },
+    {
+        "date": "2021-02-07",
+        "team_1": "Nice",
+        "team_2": "Angers",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.9,
+            "X": 3.13,
+            "2": 2.59
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nice-angers-IqyifvzA/"
+    },
+    {
+        "date": "2021-02-07",
+        "team_1": "Nimes",
+        "team_2": "Monaco",
+        "score": {
+            "1": 3,
+            "2": 4
+        },
+        "odds": {
+            "1": 6.9,
+            "X": 4.65,
+            "2": 1.44
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nimes-monaco-C6zegbkG/"
+    },
+    {
+        "date": "2021-02-07",
+        "team_1": "St Etienne",
+        "team_2": "Metz",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.31,
+            "X": 3.18,
+            "2": 3.2
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/st-etienne-metz-jcZbhI4M/"
+    },
+    {
+        "date": "2021-02-07",
+        "team_1": "Brest",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.74,
+            "X": 3.26,
+            "2": 2.64
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/brest-bordeaux-AwEPwJkT/"
+    },
+    {
+        "date": "2021-02-06",
+        "team_1": "Lens",
+        "team_2": "Rennes",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.78,
+            "X": 3.09,
+            "2": 2.69
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lens-rennes-GKjhZxbp/"
+    },
+    {
+        "date": "2021-02-06",
+        "team_1": "Lyon",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.35,
+            "X": 5.23,
+            "2": 8.09
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lyon-strasbourg-rRrvctji/"
+    },
+    {
+        "date": "2021-02-06",
+        "team_1": "Lorient",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.9,
+            "X": 3.18,
+            "2": 2.52
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lorient-reims-fBkdYdDj/"
+    },
+    {
+        "date": "2021-02-03",
+        "team_1": "Dijon",
+        "team_2": "Lyon",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 9.25,
+            "X": 6.01,
+            "2": 1.29
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/dijon-lyon-IqknQaLT/"
+    },
+    {
+        "date": "2021-02-03",
+        "team_1": "Lens",
+        "team_2": "Marseille",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.31,
+            "X": 3.25,
+            "2": 3.26
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lens-marseille-KhyELJTp/"
+    },
+    {
+        "date": "2021-02-03",
+        "team_1": "Monaco",
+        "team_2": "Nice",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.46,
+            "X": 4.65,
+            "2": 6.56
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/monaco-nice-z1J0qNLi/"
+    },
+    {
+        "date": "2021-02-03",
+        "team_1": "PSG",
+        "team_2": "Nimes",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.13,
+            "X": 9.63,
+            "2": 18.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/psg-nimes-pIyuSLjH/"
+    },
+    {
+        "date": "2021-02-03",
+        "team_1": "St Etienne",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 3.34,
+            "2": 3.89
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/st-etienne-nantes-QkCDtL5A/"
+    },
+    {
+        "date": "2021-02-03",
+        "team_1": "Bordeaux",
+        "team_2": "Lille",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.95,
+            "X": 3.13,
+            "2": 2.09
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/bordeaux-lille-O8zqRu6N/"
+    },
+    {
+        "date": "2021-02-03",
+        "team_1": "Metz",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.66,
+            "X": 3.04,
+            "2": 2.86
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/metz-montpellier-McFdp36o/"
+    },
+    {
+        "date": "2021-02-03",
+        "team_1": "Reims",
+        "team_2": "Angers",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.54,
+            "X": 3.0,
+            "2": 3.04
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/reims-angers-UNI4rsyb/"
+    },
+    {
+        "date": "2021-02-03",
+        "team_1": "Rennes",
+        "team_2": "Lorient",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.61,
+            "X": 3.89,
+            "2": 5.55
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/rennes-lorient-8EH8s1j4/"
+    },
+    {
+        "date": "2021-02-03",
+        "team_1": "Strasbourg",
+        "team_2": "Brest",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.7,
+            "X": 3.84,
+            "2": 4.74
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/strasbourg-brest-4tBHuuLG/"
+    },
+    {
+        "date": "2021-01-31",
+        "team_1": "Nantes",
+        "team_2": "Monaco",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 4.84,
+            "X": 3.9,
+            "2": 1.73
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nantes-monaco-fTrSUN6b/"
+    },
+    {
+        "date": "2021-01-31",
+        "team_1": "Lille",
+        "team_2": "Dijon",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.33,
+            "X": 4.98,
+            "2": 10.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lille-dijon-8Yw8PSUI/"
+    },
+    {
+        "date": "2021-01-31",
+        "team_1": "Angers",
+        "team_2": "Nimes",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.63,
+            "X": 3.82,
+            "2": 5.46
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/angers-nimes-EZpaRl06/"
+    },
+    {
+        "date": "2021-01-31",
+        "team_1": "Brest",
+        "team_2": "Metz",
+        "score": {
+            "1": 2,
+            "2": 4
+        },
+        "odds": {
+            "1": 1.88,
+            "X": 3.46,
+            "2": 4.19
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/brest-metz-dbz4Q8FC/"
+    },
+    {
+        "date": "2021-01-31",
+        "team_1": "Lorient",
+        "team_2": "PSG",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 15.05,
+            "X": 8.71,
+            "2": 1.15
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lorient-psg-zqneSUp0/"
+    },
+    {
+        "date": "2021-01-31",
+        "team_1": "Strasbourg",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.08,
+            "X": 3.2,
+            "2": 3.76
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/strasbourg-reims-2gnzT1yB/"
+    },
+    {
+        "date": "2021-01-31",
+        "team_1": "Nice",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.34,
+            "X": 3.39,
+            "2": 2.97
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nice-st-etienne-ljrWTsM4/"
+    },
+    {
+        "date": "2021-01-30",
+        "team_1": "Montpellier",
+        "team_2": "Lens",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.07,
+            "X": 3.25,
+            "2": 2.38
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/montpellier-lens-GxpOV3ih/"
+    },
+    {
+        "date": "2021-01-29",
+        "team_1": "Lyon",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.36,
+            "X": 5.13,
+            "2": 7.96
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lyon-bordeaux-KAjFXPMu/"
+    },
+    {
+        "date": "2021-01-27",
+        "team_1": "Lorient",
+        "team_2": "Dijon",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.19,
+            "X": 3.39,
+            "2": 3.29
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lorient-dijon-0YXhG3z8/"
+    },
+    {
+        "date": "2021-01-24",
+        "team_1": "St Etienne",
+        "team_2": "Lyon",
+        "score": {
+            "1": 0,
+            "2": 5
+        },
+        "odds": {
+            "1": 6.61,
+            "X": 4.44,
+            "2": 1.47
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/st-etienne-lyon-69siTAVg/"
+    },
+    {
+        "date": "2021-01-24",
+        "team_1": "Rennes",
+        "team_2": "Lille",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.02,
+            "X": 2.96,
+            "2": 2.63
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/rennes-lille-SIrmUjGm/"
+    },
+    {
+        "date": "2021-01-24",
+        "team_1": "Dijon",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.77,
+            "X": 3.34,
+            "2": 2.03
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/dijon-strasbourg-f9CVTM47/"
+    },
+    {
+        "date": "2021-01-24",
+        "team_1": "Metz",
+        "team_2": "Nantes",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.55,
+            "X": 3.06,
+            "2": 2.92
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/metz-nantes-zL38yZND/"
+    },
+    {
+        "date": "2021-01-24",
+        "team_1": "Reims",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.49,
+            "X": 3.32,
+            "2": 2.88
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/reims-brest-pfgrVW0s/"
+    },
+    {
+        "date": "2021-01-24",
+        "team_1": "Bordeaux",
+        "team_2": "Angers",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.48,
+            "X": 3.06,
+            "2": 3.06
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/bordeaux-angers-0nDRU2k1/"
+    },
+    {
+        "date": "2021-01-23",
+        "team_1": "Monaco",
+        "team_2": "Marseille",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.7,
+            "X": 3.86,
+            "2": 4.53
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/monaco-marseille-EB2CzgwK/"
+    },
+    {
+        "date": "2021-01-23",
+        "team_1": "Lens",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.01,
+            "X": 3.44,
+            "2": 3.66
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lens-nice-YaBZStKD/"
+    },
+    {
+        "date": "2021-01-22",
+        "team_1": "PSG",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.16,
+            "X": 8.1,
+            "2": 16.75
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/psg-montpellier-nq9NVrze/"
+    },
+    {
+        "date": "2021-01-20",
+        "team_1": "Marseille",
+        "team_2": "Lens",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.14,
+            "X": 3.36,
+            "2": 3.63
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/marseille-lens-O8p9ZHHn/"
+    },
+    {
+        "date": "2021-01-17",
+        "team_1": "Lyon",
+        "team_2": "Metz",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.35,
+            "X": 5.06,
+            "2": 8.5
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lyon-metz-EyMzumD8/"
+    },
+    {
+        "date": "2021-01-17",
+        "team_1": "Lille",
+        "team_2": "Reims",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.69,
+            "X": 3.58,
+            "2": 5.53
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lille-reims-MsZlHqL1/"
+    },
+    {
+        "date": "2021-01-17",
+        "team_1": "Nantes",
+        "team_2": "Lens",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.72,
+            "X": 3.2,
+            "2": 2.64
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nantes-lens-YyTnxocR/"
+    },
+    {
+        "date": "2021-01-17",
+        "team_1": "Nice",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.31,
+            "X": 3.2,
+            "2": 3.23
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nice-bordeaux-QTKEX45r/"
+    },
+    {
+        "date": "2021-01-17",
+        "team_1": "Strasbourg",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.6,
+            "X": 3.78,
+            "2": 5.08
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/strasbourg-st-etienne-4KJIWOKl/"
+    },
+    {
+        "date": "2021-01-17",
+        "team_1": "Brest",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.15,
+            "X": 3.38,
+            "2": 2.26
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/brest-rennes-46vpIP5e/"
+    },
+    {
+        "date": "2021-01-16",
+        "team_1": "Angers",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 10.51,
+            "X": 6.3,
+            "2": 1.28
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/angers-psg-QFutJ5jk/"
+    },
+    {
+        "date": "2021-01-16",
+        "team_1": "Marseille",
+        "team_2": "Nimes",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.44,
+            "X": 4.57,
+            "2": 7.64
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/marseille-nimes-CMvvv7SE/"
+    },
+    {
+        "date": "2021-01-15",
+        "team_1": "Montpellier",
+        "team_2": "Monaco",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.2,
+            "X": 3.47,
+            "2": 2.16
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/montpellier-monaco-foUrwRsL/"
+    },
+    {
+        "date": "2021-01-09",
+        "team_1": "Bordeaux",
+        "team_2": "Lorient",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.12,
+            "X": 3.25,
+            "2": 3.62
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/bordeaux-lorient-UkPNI2eD/"
+    },
+    {
+        "date": "2021-01-09",
+        "team_1": "Dijon",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 4.5,
+            "X": 3.56,
+            "2": 1.79
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/dijon-marseille-rgD5snYD/"
+    },
+    {
+        "date": "2021-01-09",
+        "team_1": "Lens",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.34,
+            "X": 3.27,
+            "2": 3.06
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lens-strasbourg-ddH9t6mK/"
+    },
+    {
+        "date": "2021-01-09",
+        "team_1": "PSG",
+        "team_2": "Brest",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.16,
+            "X": 8.16,
+            "2": 13.56
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/psg-brest-jaQJJrt7/"
+    },
+    {
+        "date": "2021-01-09",
+        "team_1": "Metz",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.79,
+            "X": 3.13,
+            "2": 2.64
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/metz-nice-vL6EuQ2Q/"
+    },
+    {
+        "date": "2021-01-09",
+        "team_1": "Monaco",
+        "team_2": "Angers",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.68,
+            "X": 3.78,
+            "2": 5.23
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/monaco-angers-tUhtypBs/"
+    },
+    {
+        "date": "2021-01-09",
+        "team_1": "Montpellier",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.12,
+            "X": 3.39,
+            "2": 3.38
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/montpellier-nantes-A3cpz4Qm/"
+    },
+    {
+        "date": "2021-01-09",
+        "team_1": "Nimes",
+        "team_2": "Lille",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 7.26,
+            "X": 4.28,
+            "2": 1.46
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nimes-lille-lfdlZNuf/"
+    },
+    {
+        "date": "2021-01-09",
+        "team_1": "Reims",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.65,
+            "X": 3.05,
+            "2": 2.83
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/reims-st-etienne-WIogYse0/"
+    },
+    {
+        "date": "2021-01-09",
+        "team_1": "Rennes",
+        "team_2": "Lyon",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.8,
+            "X": 3.59,
+            "2": 1.94
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/rennes-lyon-U34dX1A6/"
+    },
+    {
+        "date": "2021-01-06",
+        "team_1": "Lille",
+        "team_2": "Angers",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.82,
+            "X": 3.39,
+            "2": 4.81
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lille-angers-dIjUseSd/"
+    },
+    {
+        "date": "2021-01-06",
+        "team_1": "Lyon",
+        "team_2": "Lens",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.49,
+            "X": 4.65,
+            "2": 5.9
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lyon-lens-4rfxtZd9/"
+    },
+    {
+        "date": "2021-01-06",
+        "team_1": "Marseille",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 3.2,
+            "2": 3.54
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/marseille-montpellier-rZhtugCF/"
+    },
+    {
+        "date": "2021-01-06",
+        "team_1": "Reims",
+        "team_2": "Dijon",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.84,
+            "X": 3.47,
+            "2": 4.46
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/reims-dijon-WdAIL4Bf/"
+    },
+    {
+        "date": "2021-01-06",
+        "team_1": "St Etienne",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 9.9,
+            "X": 6.11,
+            "2": 1.28
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/st-etienne-psg-rw9sKizj/"
+    },
+    {
+        "date": "2021-01-06",
+        "team_1": "Brest",
+        "team_2": "Nice",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.33,
+            "X": 3.53,
+            "2": 2.95
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/brest-nice-fDCoJBkd/"
+    },
+    {
+        "date": "2021-01-06",
+        "team_1": "Lorient",
+        "team_2": "Monaco",
+        "score": {
+            "1": 2,
+            "2": 5
+        },
+        "odds": {
+            "1": 4.31,
+            "X": 3.87,
+            "2": 1.79
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lorient-monaco-z9kYtFs3/"
+    },
+    {
+        "date": "2021-01-06",
+        "team_1": "Metz",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.71,
+            "X": 3.05,
+            "2": 2.84
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/metz-bordeaux-OW6ANQtr/"
+    },
+    {
+        "date": "2021-01-06",
+        "team_1": "Nantes",
+        "team_2": "Rennes",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.91,
+            "X": 3.45,
+            "2": 1.97
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nantes-rennes-xzBEMpdl/"
+    },
+    {
+        "date": "2021-01-06",
+        "team_1": "Strasbourg",
+        "team_2": "Nimes",
+        "score": {
+            "1": 5,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.46,
+            "X": 4.46,
+            "2": 7.03
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/strasbourg-nimes-Am9MKOQ0/"
+    },
+    {
+        "date": "2020-12-23",
+        "team_1": "Angers",
+        "team_2": "Marseille",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.08,
+            "X": 2.98,
+            "2": 2.45
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/angers-marseille-8rZ46Y5j/"
+    },
+    {
+        "date": "2020-12-23",
+        "team_1": "Lyon",
+        "team_2": "Nantes",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.26,
+            "X": 5.76,
+            "2": 9.54
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lyon-nantes-rFQfTeD3/"
+    },
+    {
+        "date": "2020-12-23",
+        "team_1": "Monaco",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.55,
+            "X": 4.13,
+            "2": 5.41
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/monaco-st-etienne-dIUbSFS9/"
+    },
+    {
+        "date": "2020-12-23",
+        "team_1": "Montpellier",
+        "team_2": "Lille",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.84,
+            "X": 3.28,
+            "2": 2.03
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/montpellier-lille-juU2RZsG/"
+    },
+    {
+        "date": "2020-12-23",
+        "team_1": "PSG",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.31,
+            "X": 5.35,
+            "2": 8.65
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/psg-strasbourg-Uiz17Ejp/"
+    },
+    {
+        "date": "2020-12-23",
+        "team_1": "Bordeaux",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.22,
+            "X": 3.13,
+            "2": 3.33
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/bordeaux-reims-MaxnVHri/"
+    },
+    {
+        "date": "2020-12-23",
+        "team_1": "Lens",
+        "team_2": "Brest",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.99,
+            "X": 3.58,
+            "2": 3.4
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lens-brest-0jyjUybc/"
+    },
+    {
+        "date": "2020-12-23",
+        "team_1": "Nice",
+        "team_2": "Lorient",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.86,
+            "X": 3.46,
+            "2": 3.98
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nice-lorient-UVS6QgcM/"
+    },
+    {
+        "date": "2020-12-23",
+        "team_1": "Nimes",
+        "team_2": "Dijon",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.46,
+            "X": 3.29,
+            "2": 2.8
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nimes-dijon-n7NBPDCS/"
+    },
+    {
+        "date": "2020-12-23",
+        "team_1": "Rennes",
+        "team_2": "Metz",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.52,
+            "X": 3.81,
+            "2": 6.41
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/rennes-metz-lG9wLXKq/"
+    },
+    {
+        "date": "2020-12-20",
+        "team_1": "Lille",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.32,
+            "X": 3.4,
+            "2": 2.08
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lille-psg-UmncESnU/"
+    },
+    {
+        "date": "2020-12-20",
+        "team_1": "Lorient",
+        "team_2": "Rennes",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 4.06,
+            "X": 3.47,
+            "2": 1.84
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lorient-rennes-n529HbEi/"
+    },
+    {
+        "date": "2020-12-20",
+        "team_1": "Dijon",
+        "team_2": "Monaco",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 6.29,
+            "X": 4.65,
+            "2": 1.4
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/dijon-monaco-zVb5Ivao/"
+    },
+    {
+        "date": "2020-12-20",
+        "team_1": "Nantes",
+        "team_2": "Angers",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.4,
+            "X": 3.09,
+            "2": 2.93
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nantes-angers-xfeMEdbA/"
+    },
+    {
+        "date": "2020-12-20",
+        "team_1": "St Etienne",
+        "team_2": "Nimes",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.44,
+            "X": 4.38,
+            "2": 6.49
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/st-etienne-nimes-A7gUCzTM/"
+    },
+    {
+        "date": "2020-12-20",
+        "team_1": "Strasbourg",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.06,
+            "X": 3.21,
+            "2": 3.46
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/strasbourg-bordeaux-OAcYBfrT/"
+    },
+    {
+        "date": "2020-12-20",
+        "team_1": "Brest",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.55,
+            "X": 3.26,
+            "2": 2.61
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/brest-montpellier-WdYO9neo/"
+    },
+    {
+        "date": "2020-12-19",
+        "team_1": "Nice",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 4
+        },
+        "odds": {
+            "1": 5.94,
+            "X": 4.39,
+            "2": 1.46
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nice-lyon-GpfQDGDG/"
+    },
+    {
+        "date": "2020-12-19",
+        "team_1": "Marseille",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.82,
+            "X": 3.36,
+            "2": 4.34
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/marseille-reims-tS1DGITc/"
+    },
+    {
+        "date": "2020-12-19",
+        "team_1": "Metz",
+        "team_2": "Lens",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.21,
+            "X": 3.04,
+            "2": 2.27
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/metz-lens-KI0HFxq4/"
+    },
+    {
+        "date": "2020-12-16",
+        "team_1": "Bordeaux",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.22,
+            "X": 3.19,
+            "2": 3.06
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/bordeaux-st-etienne-YuyXLhlt/"
+    },
+    {
+        "date": "2020-12-16",
+        "team_1": "Lyon",
+        "team_2": "Brest",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.24,
+            "X": 5.57,
+            "2": 9.25
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lyon-brest-hriYJWIh/"
+    },
+    {
+        "date": "2020-12-16",
+        "team_1": "Monaco",
+        "team_2": "Lens",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.52,
+            "X": 4.2,
+            "2": 5.09
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/monaco-lens-WYkxJjYb/"
+    },
+    {
+        "date": "2020-12-16",
+        "team_1": "PSG",
+        "team_2": "Lorient",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.13,
+            "X": 7.71,
+            "2": 13.75
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/psg-lorient-rHeN1k3O/"
+    },
+    {
+        "date": "2020-12-16",
+        "team_1": "Rennes",
+        "team_2": "Marseille",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 3.02,
+            "2": 3.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/rennes-marseille-0EsgF8XN/"
+    },
+    {
+        "date": "2020-12-16",
+        "team_1": "Angers",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.29,
+            "X": 3.3,
+            "2": 2.9
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/angers-strasbourg-dKaR09IU/"
+    },
+    {
+        "date": "2020-12-16",
+        "team_1": "Dijon",
+        "team_2": "Lille",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 6.81,
+            "X": 4.35,
+            "2": 1.42
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/dijon-lille-CWZzLC3n/"
+    },
+    {
+        "date": "2020-12-16",
+        "team_1": "Montpellier",
+        "team_2": "Metz",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.57,
+            "X": 3.8,
+            "2": 5.39
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/montpellier-metz-QektIAm5/"
+    },
+    {
+        "date": "2020-12-16",
+        "team_1": "Nimes",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.91,
+            "X": 3.63,
+            "2": 1.8
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nimes-nice-vagpHU2B/"
+    },
+    {
+        "date": "2020-12-16",
+        "team_1": "Reims",
+        "team_2": "Nantes",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.3,
+            "X": 3.14,
+            "2": 3.04
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/reims-nantes-MNrkGlIH/"
+    },
+    {
+        "date": "2020-12-13",
+        "team_1": "PSG",
+        "team_2": "Lyon",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.46,
+            "X": 4.78,
+            "2": 5.19
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/psg-lyon-nXjv2bc7/"
+    },
+    {
+        "date": "2020-12-13",
+        "team_1": "Lille",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.54,
+            "X": 3.64,
+            "2": 5.95
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lille-bordeaux-v5df8ZJt/"
+    },
+    {
+        "date": "2020-12-13",
+        "team_1": "Brest",
+        "team_2": "Reims",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.32,
+            "X": 3.18,
+            "2": 2.88
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/brest-reims-QNkr1ICD/"
+    },
+    {
+        "date": "2020-12-13",
+        "team_1": "Lorient",
+        "team_2": "Nimes",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.85,
+            "X": 3.46,
+            "2": 3.8
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lorient-nimes-YReb7gZn/"
+    },
+    {
+        "date": "2020-12-13",
+        "team_1": "Nantes",
+        "team_2": "Dijon",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.65,
+            "X": 3.63,
+            "2": 4.7
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nantes-dijon-Ey465X3a/"
+    },
+    {
+        "date": "2020-12-13",
+        "team_1": "Strasbourg",
+        "team_2": "Metz",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.79,
+            "X": 3.36,
+            "2": 4.1
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/strasbourg-metz-0h6I2VmI/"
+    },
+    {
+        "date": "2020-12-13",
+        "team_1": "Nice",
+        "team_2": "Rennes",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.08,
+            "X": 3.11,
+            "2": 2.28
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nice-rennes-hS2A4iJ5/"
+    },
+    {
+        "date": "2020-12-12",
+        "team_1": "Lens",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.41,
+            "X": 3.08,
+            "2": 2.84
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lens-montpellier-2uZQP1kE/"
+    },
+    {
+        "date": "2020-12-12",
+        "team_1": "Marseille",
+        "team_2": "Monaco",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.18,
+            "X": 3.45,
+            "2": 2.1
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/marseille-monaco-WCE16Dlg/"
+    },
+    {
+        "date": "2020-12-11",
+        "team_1": "St Etienne",
+        "team_2": "Angers",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.19,
+            "X": 3.34,
+            "2": 3.05
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/st-etienne-angers-M17E3BYB/"
+    },
+    {
+        "date": "2020-12-06",
+        "team_1": "Metz",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 6.61,
+            "X": 4.5,
+            "2": 1.4
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/metz-lyon-n9CeAMkR/"
+    },
+    {
+        "date": "2020-12-06",
+        "team_1": "Reims",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.31,
+            "X": 3.25,
+            "2": 2.96
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/reims-nice-v7mW3KSf/"
+    },
+    {
+        "date": "2020-12-06",
+        "team_1": "Angers",
+        "team_2": "Lorient",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.7,
+            "X": 3.55,
+            "2": 4.41
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/angers-lorient-bmW0luT7/"
+    },
+    {
+        "date": "2020-12-06",
+        "team_1": "Bordeaux",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.06,
+            "X": 3.38,
+            "2": 3.16
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/bordeaux-brest-CjKrDO58/"
+    },
+    {
+        "date": "2020-12-06",
+        "team_1": "Dijon",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.53,
+            "X": 3.43,
+            "2": 1.93
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/dijon-st-etienne-QgOnCrLE/"
+    },
+    {
+        "date": "2020-12-06",
+        "team_1": "Nantes",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 0,
+            "2": 4
+        },
+        "odds": {
+            "1": 2.05,
+            "X": 3.16,
+            "2": 3.12
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nantes-strasbourg-IiaN5tbr/"
+    },
+    {
+        "date": "2020-12-06",
+        "team_1": "Lille",
+        "team_2": "Monaco",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.4,
+            "X": 3.41,
+            "2": 2.65
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lille-monaco-8IDiB2zL/"
+    },
+    {
+        "date": "2020-12-05",
+        "team_1": "Montpellier",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 4.49,
+            "X": 3.98,
+            "2": 1.63
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/montpellier-psg-KdXdkLD1/"
+    },
+    {
+        "date": "2020-12-05",
+        "team_1": "Rennes",
+        "team_2": "Lens",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.95,
+            "X": 3.36,
+            "2": 3.49
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/rennes-lens-hAiz3vr1/"
+    },
+    {
+        "date": "2020-12-04",
+        "team_1": "Nimes",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 4.99,
+            "X": 3.76,
+            "2": 1.61
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nimes-marseille-drbR40Dl/"
+    },
+    {
+        "date": "2020-11-29",
+        "team_1": "St Etienne",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.75,
+            "X": 3.33,
+            "2": 1.94
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/st-etienne-lille-OUwlisqk/"
+    },
+    {
+        "date": "2020-11-29",
+        "team_1": "Nice",
+        "team_2": "Dijon",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.71,
+            "X": 3.79,
+            "2": 4.25
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nice-dijon-U7vphNTr/"
+    },
+    {
+        "date": "2020-11-29",
+        "team_1": "Lens",
+        "team_2": "Angers",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.07,
+            "X": 3.13,
+            "2": 3.43
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lens-angers-OUHIy2q2/"
+    },
+    {
+        "date": "2020-11-29",
+        "team_1": "Lorient",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.67,
+            "X": 3.46,
+            "2": 1.92
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lorient-montpellier-QZe10oM2/"
+    },
+    {
+        "date": "2020-11-29",
+        "team_1": "Metz",
+        "team_2": "Brest",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.31,
+            "X": 3.17,
+            "2": 2.82
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/metz-brest-CjbDcq6L/"
+    },
+    {
+        "date": "2020-11-29",
+        "team_1": "Monaco",
+        "team_2": "Nimes",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.27,
+            "X": 5.51,
+            "2": 8.54
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/monaco-nimes-fFmId3LR/"
+    },
+    {
+        "date": "2020-11-29",
+        "team_1": "Lyon",
+        "team_2": "Reims",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.33,
+            "X": 4.86,
+            "2": 7.8
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lyon-reims-4Qf5a5y9/"
+    },
+    {
+        "date": "2020-11-28",
+        "team_1": "PSG",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.15,
+            "X": 7.06,
+            "2": 12.0
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/psg-bordeaux-ARDExrUe/"
+    },
+    {
+        "date": "2020-11-28",
+        "team_1": "Marseille",
+        "team_2": "Nantes",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.89,
+            "X": 3.35,
+            "2": 3.98
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/marseille-nantes-Yaa9bPjF/"
+    },
+    {
+        "date": "2020-11-27",
+        "team_1": "Strasbourg",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.02,
+            "X": 3.15,
+            "2": 2.25
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/strasbourg-rennes-2Lxhj1be/"
+    },
+    {
+        "date": "2020-11-25",
+        "team_1": "Lens",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.19,
+            "X": 3.17,
+            "2": 3.21
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lens-nantes-SSBRMvYt/"
+    },
+    {
+        "date": "2020-11-22",
+        "team_1": "Lille",
+        "team_2": "Lorient",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.58,
+            "X": 3.9,
+            "2": 5.66
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lille-lorient-0Igznn79/"
+    },
+    {
+        "date": "2020-11-22",
+        "team_1": "Angers",
+        "team_2": "Lyon",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.1,
+            "X": 3.82,
+            "2": 1.76
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/angers-lyon-jmCqPOad/"
+    },
+    {
+        "date": "2020-11-22",
+        "team_1": "Dijon",
+        "team_2": "Lens",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.08,
+            "X": 3.68,
+            "2": 1.81
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/dijon-lens-Ig4VnSi3/"
+    },
+    {
+        "date": "2020-11-22",
+        "team_1": "Montpellier",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 4,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.91,
+            "X": 3.25,
+            "2": 4.04
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/montpellier-strasbourg-8rcrpQyM/"
+    },
+    {
+        "date": "2020-11-22",
+        "team_1": "Reims",
+        "team_2": "Nimes",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.78,
+            "X": 3.65,
+            "2": 4.3
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/reims-nimes-xEF6v4aq/"
+    },
+    {
+        "date": "2020-11-22",
+        "team_1": "Nantes",
+        "team_2": "Metz",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.15,
+            "X": 3.17,
+            "2": 3.51
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nantes-metz-nZenqpiS/"
+    },
+    {
+        "date": "2020-11-21",
+        "team_1": "Brest",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.25,
+            "X": 3.45,
+            "2": 3.04
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/brest-st-etienne-v35Rm8xc/"
+    },
+    {
+        "date": "2020-11-20",
+        "team_1": "Monaco",
+        "team_2": "PSG",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 5.39,
+            "X": 4.99,
+            "2": 1.44
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/monaco-psg-CdDuQ4pj/"
+    },
+    {
+        "date": "2020-11-20",
+        "team_1": "Rennes",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.89,
+            "X": 3.34,
+            "2": 3.96
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/rennes-bordeaux-G4EAwOEk/"
+    },
+    {
+        "date": "2020-11-08",
+        "team_1": "Lyon",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.3,
+            "X": 5.76,
+            "2": 10.04
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lyon-st-etienne-4jvdYSxA/"
+    },
+    {
+        "date": "2020-11-08",
+        "team_1": "Nice",
+        "team_2": "Monaco",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.57,
+            "X": 3.82,
+            "2": 1.98
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nice-monaco-0IX4W67M/"
+    },
+    {
+        "date": "2020-11-08",
+        "team_1": "Lens",
+        "team_2": "Reims",
+        "score": {
+            "1": 4,
+            "2": 4
+        },
+        "odds": {
+            "1": 2.16,
+            "X": 3.23,
+            "2": 3.57
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lens-reims-Wxtlzk8c/"
+    },
+    {
+        "date": "2020-11-08",
+        "team_1": "Lorient",
+        "team_2": "Nantes",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.73,
+            "X": 3.07,
+            "2": 2.75
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lorient-nantes-QauhZ8N3/"
+    },
+    {
+        "date": "2020-11-08",
+        "team_1": "Metz",
+        "team_2": "Dijon",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.08,
+            "X": 3.22,
+            "2": 3.83
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/metz-dijon-MRY0XnhG/"
+    },
+    {
+        "date": "2020-11-08",
+        "team_1": "Nimes",
+        "team_2": "Angers",
+        "score": {
+            "1": 1,
+            "2": 5
+        },
+        "odds": {
+            "1": 2.88,
+            "X": 3.18,
+            "2": 2.56
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nimes-angers-fuX8VQMS/"
+    },
+    {
+        "date": "2020-11-08",
+        "team_1": "Brest",
+        "team_2": "Lille",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 4.54,
+            "X": 3.85,
+            "2": 1.74
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/brest-lille-IZypyVhi/"
+    },
+    {
+        "date": "2020-11-07",
+        "team_1": "PSG",
+        "team_2": "Rennes",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.49,
+            "X": 4.8,
+            "2": 6.3
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/psg-rennes-xvacDR0p/"
+    },
+    {
+        "date": "2020-11-07",
+        "team_1": "Bordeaux",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.66,
+            "X": 3.1,
+            "2": 2.85
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/bordeaux-montpellier-GUc1CoGj/"
+    },
+    {
+        "date": "2020-11-06",
+        "team_1": "Strasbourg",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.57,
+            "X": 3.09,
+            "2": 3.03
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/strasbourg-marseille-UXNzRpVq/"
+    },
+    {
+        "date": "2020-11-01",
+        "team_1": "Lille",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.82,
+            "X": 3.42,
+            "2": 2.69
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lille-lyon-6Xk4zb2t/"
+    },
+    {
+        "date": "2020-11-01",
+        "team_1": "Monaco",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.82,
+            "X": 4.0,
+            "2": 4.41
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/monaco-bordeaux-2aqDYyXh/"
+    },
+    {
+        "date": "2020-11-01",
+        "team_1": "Angers",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.38,
+            "X": 3.46,
+            "2": 3.13
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/angers-nice-jLFfGfHO/"
+    },
+    {
+        "date": "2020-11-01",
+        "team_1": "Dijon",
+        "team_2": "Lorient",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.19,
+            "X": 3.6,
+            "2": 2.26
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/dijon-lorient-4O3xuvfP/"
+    },
+    {
+        "date": "2020-11-01",
+        "team_1": "Nimes",
+        "team_2": "Metz",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.06,
+            "X": 3.05,
+            "2": 2.69
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nimes-metz-dMrHXena/"
+    },
+    {
+        "date": "2020-11-01",
+        "team_1": "Reims",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.75,
+            "X": 3.14,
+            "2": 2.9
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/reims-strasbourg-APnLWF15/"
+    },
+    {
+        "date": "2020-11-01",
+        "team_1": "St Etienne",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.66,
+            "X": 3.36,
+            "2": 2.82
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/st-etienne-montpellier-WvyUUgWH/"
+    },
+    {
+        "date": "2020-10-31",
+        "team_1": "Nantes",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 7.13,
+            "X": 5.31,
+            "2": 1.44
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nantes-psg-hzciHz2I/"
+    },
+    {
+        "date": "2020-10-31",
+        "team_1": "Rennes",
+        "team_2": "Brest",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.91,
+            "X": 3.94,
+            "2": 4.01
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/rennes-brest-hlxQVZGB/"
+    },
+    {
+        "date": "2020-09-20",
+        "team_1": "Nice",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 9.85,
+            "X": 5.84,
+            "2": 1.32
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nice-psg-rJICn4uU/"
+    },
+    {
+        "date": "2020-09-19",
+        "team_1": "Rennes",
+        "team_2": "Monaco",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.27,
+            "X": 3.55,
+            "2": 3.14
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/rennes-monaco-nD0v13fN/"
+    },
+    {
+        "date": "2020-09-19",
+        "team_1": "Lens",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.44,
+            "X": 3.13,
+            "2": 3.2
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lens-bordeaux-0zmR5Ruh/"
+    },
+    {
+        "date": "2020-09-18",
+        "team_1": "Lyon",
+        "team_2": "Nimes",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.27,
+            "X": 6.21,
+            "2": 11.18
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lyon-nimes-fcnV4oeb/"
+    },
+    {
+        "date": "2020-09-17",
+        "team_1": "Marseille",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.85,
+            "X": 3.58,
+            "2": 4.85
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/marseille-st-etienne-65T6kCfI/"
+    },
+    {
+        "date": "2020-09-16",
+        "team_1": "PSG",
+        "team_2": "Metz",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.25,
+            "X": 6.67,
+            "2": 13.17
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/psg-metz-WppIdT1o/"
+    },
+    {
+        "date": "2020-09-15",
+        "team_1": "Montpellier",
+        "team_2": "Lyon",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.74,
+            "X": 3.65,
+            "2": 1.98
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/montpellier-lyon-O0bRho1A/"
+    },
+    {
+        "date": "2020-09-13",
+        "team_1": "PSG",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.44,
+            "X": 5.38,
+            "2": 6.5
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/psg-marseille-nHjjI1UL/"
+    },
+    {
+        "date": "2020-09-13",
+        "team_1": "Monaco",
+        "team_2": "Nantes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.88,
+            "X": 3.55,
+            "2": 4.37
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/monaco-nantes-WpCLXtU8/"
+    },
+    {
+        "date": "2020-09-13",
+        "team_1": "Angers",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.11,
+            "X": 2.98,
+            "2": 4.07
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/angers-reims-61XMCuhq/"
+    },
+    {
+        "date": "2020-09-13",
+        "team_1": "Dijon",
+        "team_2": "Brest",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.67,
+            "X": 3.21,
+            "2": 2.65
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/dijon-brest-vFVUAJMe/"
+    },
+    {
+        "date": "2020-09-13",
+        "team_1": "Lorient",
+        "team_2": "Lens",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.25,
+            "X": 3.19,
+            "2": 3.44
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lorient-lens-hfDHYME2/"
+    },
+    {
+        "date": "2020-09-13",
+        "team_1": "Nimes",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 4
+        },
+        "odds": {
+            "1": 3.36,
+            "X": 3.28,
+            "2": 2.26
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nimes-rennes-vBFTVKbL/"
+    },
+    {
+        "date": "2020-09-13",
+        "team_1": "Lille",
+        "team_2": "Metz",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.56,
+            "X": 3.68,
+            "2": 7.85
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lille-metz-jkZY9wx2/"
+    },
+    {
+        "date": "2020-09-12",
+        "team_1": "St Etienne",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.13,
+            "X": 3.34,
+            "2": 3.82
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/st-etienne-strasbourg-Q7kfHLqS/"
+    },
+    {
+        "date": "2020-09-12",
+        "team_1": "Montpellier",
+        "team_2": "Nice",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.12,
+            "X": 3.41,
+            "2": 3.55
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/montpellier-nice-0KGPW0qF/"
+    },
+    {
+        "date": "2020-09-11",
+        "team_1": "Bordeaux",
+        "team_2": "Lyon",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 4.2,
+            "X": 3.48,
+            "2": 1.98
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/bordeaux-lyon-phWQBa7k/"
+    },
+    {
+        "date": "2020-09-10",
+        "team_1": "Lens",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 5.03,
+            "X": 3.93,
+            "2": 1.73
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lens-psg-Uivd8Q0c/"
+    },
+    {
+        "date": "2020-08-30",
+        "team_1": "Brest",
+        "team_2": "Marseille",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.98,
+            "X": 3.32,
+            "2": 2.07
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/brest-marseille-KtX85OpG/"
+    },
+    {
+        "date": "2020-08-30",
+        "team_1": "Angers",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.33,
+            "X": 3.15,
+            "2": 3.42
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/angers-bordeaux-25x464V9/"
+    },
+    {
+        "date": "2020-08-30",
+        "team_1": "Metz",
+        "team_2": "Monaco",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.97,
+            "X": 3.7,
+            "2": 1.97
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/metz-monaco-bXVC4r0M/"
+    },
+    {
+        "date": "2020-08-30",
+        "team_1": "Nantes",
+        "team_2": "Nimes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.9,
+            "X": 3.41,
+            "2": 4.7
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nantes-nimes-UFMraMNq/"
+    },
+    {
+        "date": "2020-08-30",
+        "team_1": "St Etienne",
+        "team_2": "Lorient",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.33,
+            "X": 3.3,
+            "2": 3.37
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/st-etienne-lorient-OEw07pG3/"
+    },
+    {
+        "date": "2020-08-30",
+        "team_1": "Reims",
+        "team_2": "Lille",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.13,
+            "X": 3.06,
+            "2": 2.65
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/reims-lille-CvCmbtwj/"
+    },
+    {
+        "date": "2020-08-29",
+        "team_1": "Strasbourg",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.16,
+            "X": 3.48,
+            "2": 3.49
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/strasbourg-nice-IyaZLqVd/"
+    },
+    {
+        "date": "2020-08-29",
+        "team_1": "Rennes",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.88,
+            "X": 3.5,
+            "2": 4.64
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/rennes-montpellier-jVAic0hd/"
+    },
+    {
+        "date": "2020-08-28",
+        "team_1": "Lyon",
+        "team_2": "Dijon",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.26,
+            "X": 6.5,
+            "2": 12.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lyon-dijon-hfVG32FS/"
+    },
+    {
+        "date": "2020-08-23",
+        "team_1": "Nice",
+        "team_2": "Lens",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.01,
+            "X": 3.35,
+            "2": 4.03
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nice-lens-jm0Jf7Wc/"
+    },
+    {
+        "date": "2020-08-23",
+        "team_1": "Lorient",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.45,
+            "X": 3.08,
+            "2": 3.11
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lorient-strasbourg-KSiziPVM/"
+    },
+    {
+        "date": "2020-08-23",
+        "team_1": "Nimes",
+        "team_2": "Brest",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.27,
+            "X": 3.27,
+            "2": 3.24
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/nimes-brest-bJjvjqoT/"
+    },
+    {
+        "date": "2020-08-23",
+        "team_1": "Monaco",
+        "team_2": "Reims",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.95,
+            "X": 3.58,
+            "2": 4.3
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/monaco-reims-AyqMemHi/"
+    },
+    {
+        "date": "2020-08-22",
+        "team_1": "Lille",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.93,
+            "X": 3.37,
+            "2": 4.33
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/lille-rennes-IsdzYqPp/"
+    },
+    {
+        "date": "2020-08-22",
+        "team_1": "Dijon",
+        "team_2": "Angers",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.16,
+            "X": 3.08,
+            "2": 2.48
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/dijon-angers-UwaNgRo4/"
+    },
+    {
+        "date": "2020-08-21",
+        "team_1": "Bordeaux",
+        "team_2": "Nantes",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.49,
+            "X": 3.0,
+            "2": 3.22
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2020-2021/bordeaux-nantes-x42Vi5GG/"
+    }
+]

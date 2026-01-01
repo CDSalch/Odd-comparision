@@ -1,0 +1,4802 @@
+[
+    {
+        "date": "2020-03-22",
+        "team_1": "Marseille",
+        "team_2": "PSG",
+        "score": {
+            "1": null,
+            "2": null
+        },
+        "odds": {
+            "1": null,
+            "X": null,
+            "2": null
+        },
+        "winner": null,
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/marseille-psg-pGIw7IpA/"
+    },
+    {
+        "date": "2020-03-22",
+        "team_1": "Reims",
+        "team_2": "Nantes",
+        "score": {
+            "1": null,
+            "2": null
+        },
+        "odds": {
+            "1": null,
+            "X": null,
+            "2": null
+        },
+        "winner": null,
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/reims-nantes-zocIazwp/"
+    },
+    {
+        "date": "2020-03-22",
+        "team_1": "St Etienne",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": null,
+            "2": null
+        },
+        "odds": {
+            "1": null,
+            "X": null,
+            "2": null
+        },
+        "winner": null,
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/st-etienne-strasbourg-6PJZ7bV3/"
+    },
+    {
+        "date": "2020-03-21",
+        "team_1": "Angers",
+        "team_2": "Toulouse",
+        "score": {
+            "1": null,
+            "2": null
+        },
+        "odds": {
+            "1": null,
+            "X": null,
+            "2": null
+        },
+        "winner": null,
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/angers-toulouse-vFBn5dFM/"
+    },
+    {
+        "date": "2020-03-21",
+        "team_1": "Dijon",
+        "team_2": "Amiens",
+        "score": {
+            "1": null,
+            "2": null
+        },
+        "odds": {
+            "1": null,
+            "X": null,
+            "2": null
+        },
+        "winner": null,
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/dijon-amiens-sc-bJrDLHa3/"
+    },
+    {
+        "date": "2020-03-21",
+        "team_1": "Metz",
+        "team_2": "Brest",
+        "score": {
+            "1": null,
+            "2": null
+        },
+        "odds": {
+            "1": null,
+            "X": null,
+            "2": null
+        },
+        "winner": null,
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/metz-brest-WCjRcE7d/"
+    },
+    {
+        "date": "2020-03-21",
+        "team_1": "Nice",
+        "team_2": "Montpellier",
+        "score": {
+            "1": null,
+            "2": null
+        },
+        "odds": {
+            "1": null,
+            "X": null,
+            "2": null
+        },
+        "winner": null,
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nice-montpellier-YyBj4GUS/"
+    },
+    {
+        "date": "2020-03-21",
+        "team_1": "Nimes",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": null,
+            "2": null
+        },
+        "odds": {
+            "1": null,
+            "X": null,
+            "2": null
+        },
+        "winner": null,
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nimes-bordeaux-Sv8r6x0G/"
+    },
+    {
+        "date": "2020-03-21",
+        "team_1": "Rennes",
+        "team_2": "Lyon",
+        "score": {
+            "1": null,
+            "2": null
+        },
+        "odds": {
+            "1": null,
+            "X": null,
+            "2": null
+        },
+        "winner": null,
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/rennes-lyon-pGv9Mcpc/"
+    },
+    {
+        "date": "2020-03-20",
+        "team_1": "Lille",
+        "team_2": "Monaco",
+        "score": {
+            "1": null,
+            "2": null
+        },
+        "odds": {
+            "1": null,
+            "X": null,
+            "2": null
+        },
+        "winner": null,
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lille-monaco-hMiNbfhj/"
+    },
+    {
+        "date": "2020-03-18",
+        "team_1": "Strasbourg",
+        "team_2": "PSG",
+        "score": {
+            "1": null,
+            "2": null
+        },
+        "odds": {
+            "1": null,
+            "X": null,
+            "2": null
+        },
+        "winner": null,
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/strasbourg-psg-bwuicsHo/"
+    },
+    {
+        "date": "2020-03-15",
+        "team_1": "PSG",
+        "team_2": "Nice",
+        "score": {
+            "1": null,
+            "2": null
+        },
+        "odds": {
+            "1": null,
+            "X": null,
+            "2": null
+        },
+        "winner": null,
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/psg-nice-xjFV8vGc/"
+    },
+    {
+        "date": "2020-03-15",
+        "team_1": "Monaco",
+        "team_2": "St Etienne",
+        "score": {
+            "1": null,
+            "2": null
+        },
+        "odds": {
+            "1": null,
+            "X": null,
+            "2": null
+        },
+        "winner": null,
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/monaco-st-etienne-KhTaeLob/"
+    },
+    {
+        "date": "2020-03-15",
+        "team_1": "Bordeaux",
+        "team_2": "Rennes",
+        "score": {
+            "1": null,
+            "2": null
+        },
+        "odds": {
+            "1": null,
+            "X": null,
+            "2": null
+        },
+        "winner": null,
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/bordeaux-rennes-YeX3fu14/"
+    },
+    {
+        "date": "2020-03-14",
+        "team_1": "Amiens",
+        "team_2": "Angers",
+        "score": {
+            "1": null,
+            "2": null
+        },
+        "odds": {
+            "1": null,
+            "X": null,
+            "2": null
+        },
+        "winner": null,
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/amiens-sc-angers-QBoDjc0T/"
+    },
+    {
+        "date": "2020-03-14",
+        "team_1": "Brest",
+        "team_2": "Lille",
+        "score": {
+            "1": null,
+            "2": null
+        },
+        "odds": {
+            "1": null,
+            "X": null,
+            "2": null
+        },
+        "winner": null,
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/brest-lille-dfxqoyOj/"
+    },
+    {
+        "date": "2020-03-14",
+        "team_1": "Nantes",
+        "team_2": "Nimes",
+        "score": {
+            "1": null,
+            "2": null
+        },
+        "odds": {
+            "1": null,
+            "X": null,
+            "2": null
+        },
+        "winner": null,
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nantes-nimes-riYvnH8p/"
+    },
+    {
+        "date": "2020-03-14",
+        "team_1": "Strasbourg",
+        "team_2": "Dijon",
+        "score": {
+            "1": null,
+            "2": null
+        },
+        "odds": {
+            "1": null,
+            "X": null,
+            "2": null
+        },
+        "winner": null,
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/strasbourg-dijon-SIW7gaGA/"
+    },
+    {
+        "date": "2020-03-14",
+        "team_1": "Toulouse",
+        "team_2": "Metz",
+        "score": {
+            "1": null,
+            "2": null
+        },
+        "odds": {
+            "1": null,
+            "X": null,
+            "2": null
+        },
+        "winner": null,
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/toulouse-metz-baGR9K0i/"
+    },
+    {
+        "date": "2020-03-14",
+        "team_1": "Montpellier",
+        "team_2": "Marseille",
+        "score": {
+            "1": null,
+            "2": null
+        },
+        "odds": {
+            "1": null,
+            "X": null,
+            "2": null
+        },
+        "winner": null,
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/montpellier-marseille-69VBhJVG/"
+    },
+    {
+        "date": "2020-03-13",
+        "team_1": "Lyon",
+        "team_2": "Reims",
+        "score": {
+            "1": null,
+            "2": null
+        },
+        "odds": {
+            "1": null,
+            "X": null,
+            "2": null
+        },
+        "winner": null,
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lyon-reims-nLn9iwoN/"
+    },
+    {
+        "date": "2020-03-08",
+        "team_1": "Lille",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.24,
+            "X": 3.28,
+            "2": 3.43
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lille-lyon-YcOujQ9I/"
+    },
+    {
+        "date": "2020-03-08",
+        "team_1": "Rennes",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 5,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.13,
+            "X": 3.12,
+            "2": 3.57
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/rennes-montpellier-O8OGeUus/"
+    },
+    {
+        "date": "2020-03-08",
+        "team_1": "St Etienne",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 3.23,
+            "2": 3.43
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/st-etienne-bordeaux-xUwed1Wi/"
+    },
+    {
+        "date": "2020-03-07",
+        "team_1": "Angers",
+        "team_2": "Nantes",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.55,
+            "X": 2.95,
+            "2": 3.05
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/angers-nantes-KzIPg8Ag/"
+    },
+    {
+        "date": "2020-03-07",
+        "team_1": "Dijon",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.82,
+            "X": 3.63,
+            "2": 4.35
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/dijon-toulouse-ANo9Ycvo/"
+    },
+    {
+        "date": "2020-03-07",
+        "team_1": "Metz",
+        "team_2": "Nimes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.36,
+            "X": 3.06,
+            "2": 3.34
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/metz-nimes-hlGXinu6/"
+    },
+    {
+        "date": "2020-03-07",
+        "team_1": "Nice",
+        "team_2": "Monaco",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.21,
+            "X": 3.76,
+            "2": 2.1
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nice-monaco-jZYzi6fC/"
+    },
+    {
+        "date": "2020-03-07",
+        "team_1": "Reims",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.04,
+            "X": 3.19,
+            "2": 3.89
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/reims-brest-2aNKflem/"
+    },
+    {
+        "date": "2020-03-06",
+        "team_1": "Marseille",
+        "team_2": "Amiens",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.56,
+            "X": 3.98,
+            "2": 6.34
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/marseille-amiens-sc-bRGThSPa/"
+    },
+    {
+        "date": "2020-03-01",
+        "team_1": "Lyon",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.65,
+            "X": 3.68,
+            "2": 5.45
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lyon-st-etienne-jLg2x7uJ/"
+    },
+    {
+        "date": "2020-03-01",
+        "team_1": "Bordeaux",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.9,
+            "X": 3.47,
+            "2": 3.87
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/bordeaux-nice-rk7otktf/"
+    },
+    {
+        "date": "2020-03-01",
+        "team_1": "Nantes",
+        "team_2": "Lille",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.92,
+            "X": 2.95,
+            "2": 2.57
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nantes-lille-Uo3ssVQm/"
+    },
+    {
+        "date": "2020-02-29",
+        "team_1": "Amiens",
+        "team_2": "Metz",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.02,
+            "X": 3.03,
+            "2": 4.13
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/amiens-sc-metz-6Tyk0AXP/"
+    },
+    {
+        "date": "2020-02-29",
+        "team_1": "Brest",
+        "team_2": "Angers",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.52,
+            "X": 3.08,
+            "2": 2.86
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/brest-angers-hQXp1jIJ/"
+    },
+    {
+        "date": "2020-02-29",
+        "team_1": "Monaco",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 3.48,
+            "2": 4.5
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/monaco-reims-CUfbwmQC/"
+    },
+    {
+        "date": "2020-02-29",
+        "team_1": "Montpellier",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.38,
+            "X": 2.95,
+            "2": 3.2
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/montpellier-strasbourg-zP3wrBBs/"
+    },
+    {
+        "date": "2020-02-29",
+        "team_1": "Toulouse",
+        "team_2": "Rennes",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.77,
+            "X": 3.4,
+            "2": 1.96
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/toulouse-rennes-QDdju9e0/"
+    },
+    {
+        "date": "2020-02-29",
+        "team_1": "PSG",
+        "team_2": "Dijon",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.09,
+            "X": 10.75,
+            "2": 20.17
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/psg-dijon-44efvTA6/"
+    },
+    {
+        "date": "2020-02-28",
+        "team_1": "Nimes",
+        "team_2": "Marseille",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.38,
+            "X": 3.3,
+            "2": 2.15
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nimes-marseille-YFHBni3Q/"
+    },
+    {
+        "date": "2020-02-23",
+        "team_1": "PSG",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 4,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.12,
+            "X": 9.63,
+            "2": 19.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/psg-bordeaux-MLw4TBdl/"
+    },
+    {
+        "date": "2020-02-23",
+        "team_1": "Rennes",
+        "team_2": "Nimes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.55,
+            "X": 3.64,
+            "2": 6.53
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/rennes-nimes-rVv0Uisr/"
+    },
+    {
+        "date": "2020-02-23",
+        "team_1": "St Etienne",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.31,
+            "X": 2.96,
+            "2": 3.34
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/st-etienne-reims-GvN6mXmK/"
+    },
+    {
+        "date": "2020-02-22",
+        "team_1": "Angers",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.48,
+            "X": 2.93,
+            "2": 3.06
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/angers-montpellier-UosCRkR0/"
+    },
+    {
+        "date": "2020-02-22",
+        "team_1": "Dijon",
+        "team_2": "Monaco",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.61,
+            "X": 3.56,
+            "2": 1.96
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/dijon-monaco-OpzLPTeD/"
+    },
+    {
+        "date": "2020-02-22",
+        "team_1": "Lille",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.29,
+            "X": 5.11,
+            "2": 10.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lille-toulouse-CAWGQ9t7/"
+    },
+    {
+        "date": "2020-02-22",
+        "team_1": "Strasbourg",
+        "team_2": "Amiens",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.73,
+            "X": 3.46,
+            "2": 4.93
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/strasbourg-amiens-sc-jer8SVBf/"
+    },
+    {
+        "date": "2020-02-22",
+        "team_1": "Marseille",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.81,
+            "X": 3.31,
+            "2": 4.43
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/marseille-nantes-xlO2lDYD/"
+    },
+    {
+        "date": "2020-02-21",
+        "team_1": "Metz",
+        "team_2": "Lyon",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 4.31,
+            "X": 3.39,
+            "2": 1.86
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/metz-lyon-OpbTZDJK/"
+    },
+    {
+        "date": "2020-02-21",
+        "team_1": "Nice",
+        "team_2": "Brest",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.92,
+            "X": 3.71,
+            "2": 3.53
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nice-brest-xl2XYXYQ/"
+    },
+    {
+        "date": "2020-02-16",
+        "team_1": "Lille",
+        "team_2": "Marseille",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.16,
+            "X": 2.98,
+            "2": 3.84
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lille-marseille-46dbMfkL/"
+    },
+    {
+        "date": "2020-02-16",
+        "team_1": "Brest",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.63,
+            "X": 3.07,
+            "2": 2.76
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/brest-st-etienne-IDxZFhSl/"
+    },
+    {
+        "date": "2020-02-16",
+        "team_1": "Reims",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.73,
+            "X": 2.76,
+            "2": 2.98
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/reims-rennes-Yu12LE4R/"
+    },
+    {
+        "date": "2020-02-16",
+        "team_1": "Lyon",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.66,
+            "X": 3.49,
+            "2": 5.46
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lyon-strasbourg-WGtwFCse/"
+    },
+    {
+        "date": "2020-02-15",
+        "team_1": "Bordeaux",
+        "team_2": "Dijon",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.79,
+            "X": 3.39,
+            "2": 4.86
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/bordeaux-dijon-UNbPzf4E/"
+    },
+    {
+        "date": "2020-02-15",
+        "team_1": "Nantes",
+        "team_2": "Metz",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.87,
+            "X": 3.22,
+            "2": 4.63
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nantes-metz-zkmUGYCr/"
+    },
+    {
+        "date": "2020-02-15",
+        "team_1": "Nimes",
+        "team_2": "Angers",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.8,
+            "X": 3.18,
+            "2": 2.58
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nimes-angers-QFcfNzzF/"
+    },
+    {
+        "date": "2020-02-15",
+        "team_1": "Toulouse",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.38,
+            "X": 3.43,
+            "2": 2.83
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/toulouse-nice-QwtsEWd1/"
+    },
+    {
+        "date": "2020-02-15",
+        "team_1": "Amiens",
+        "team_2": "PSG",
+        "score": {
+            "1": 4,
+            "2": 4
+        },
+        "odds": {
+            "1": 6.31,
+            "X": 4.66,
+            "2": 1.44
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/amiens-sc-psg-jXaLyzk8/"
+    },
+    {
+        "date": "2020-02-14",
+        "team_1": "Monaco",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.73,
+            "X": 3.69,
+            "2": 4.78
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/monaco-montpellier-4UvoDjC7/"
+    },
+    {
+        "date": "2020-02-09",
+        "team_1": "PSG",
+        "team_2": "Lyon",
+        "score": {
+            "1": 4,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.33,
+            "X": 5.55,
+            "2": 8.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/psg-lyon-reOj3Frq/"
+    },
+    {
+        "date": "2020-02-09",
+        "team_1": "Strasbourg",
+        "team_2": "Reims",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.04,
+            "X": 2.93,
+            "2": 4.1
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/strasbourg-reims-xddJLNbA/"
+    },
+    {
+        "date": "2020-02-09",
+        "team_1": "Montpellier",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 3.1,
+            "2": 3.99
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/montpellier-st-etienne-IDG30DS1/"
+    },
+    {
+        "date": "2020-02-08",
+        "team_1": "Amiens",
+        "team_2": "Monaco",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.23,
+            "X": 3.43,
+            "2": 2.16
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/amiens-sc-monaco-WG4oPd52/"
+    },
+    {
+        "date": "2020-02-08",
+        "team_1": "Dijon",
+        "team_2": "Nantes",
+        "score": {
+            "1": 3,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.56,
+            "X": 3.09,
+            "2": 2.85
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/dijon-nantes-vNHa1gDe/"
+    },
+    {
+        "date": "2020-02-08",
+        "team_1": "Metz",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.59,
+            "X": 2.98,
+            "2": 2.91
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/metz-bordeaux-ja0NKsEG/"
+    },
+    {
+        "date": "2020-02-08",
+        "team_1": "Nice",
+        "team_2": "Nimes",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.87,
+            "X": 3.65,
+            "2": 3.85
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nice-nimes-fX6EM3q4/"
+    },
+    {
+        "date": "2020-02-08",
+        "team_1": "Rennes",
+        "team_2": "Brest",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.58,
+            "X": 3.86,
+            "2": 5.93
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/rennes-brest-ri8kOGK8/"
+    },
+    {
+        "date": "2020-02-08",
+        "team_1": "Marseille",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.34,
+            "X": 4.74,
+            "2": 9.03
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/marseille-toulouse-Gt8ANqUc/"
+    },
+    {
+        "date": "2020-02-07",
+        "team_1": "Angers",
+        "team_2": "Lille",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.9,
+            "X": 3.04,
+            "2": 2.57
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/angers-lille-MoNf2Zck/"
+    },
+    {
+        "date": "2020-02-05",
+        "team_1": "St Etienne",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.84,
+            "X": 3.25,
+            "2": 2.49
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/st-etienne-marseille-GIgnNFIH/"
+    },
+    {
+        "date": "2020-02-05",
+        "team_1": "Brest",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.6,
+            "X": 3.15,
+            "2": 2.64
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/brest-bordeaux-8G86OPEi/"
+    },
+    {
+        "date": "2020-02-05",
+        "team_1": "Lyon",
+        "team_2": "Amiens",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.36,
+            "X": 4.6,
+            "2": 7.81
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lyon-amiens-sc-Kj0wPyl5/"
+    },
+    {
+        "date": "2020-02-05",
+        "team_1": "Montpellier",
+        "team_2": "Metz",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.62,
+            "X": 3.48,
+            "2": 5.9
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/montpellier-metz-lWifLgmU/"
+    },
+    {
+        "date": "2020-02-05",
+        "team_1": "Nimes",
+        "team_2": "Dijon",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.14,
+            "X": 3.22,
+            "2": 3.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nimes-dijon-QiqMGDeo/"
+    },
+    {
+        "date": "2020-02-05",
+        "team_1": "Reims",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.85,
+            "X": 3.2,
+            "2": 4.38
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/reims-nice-UP92P5ao/"
+    },
+    {
+        "date": "2020-02-05",
+        "team_1": "Toulouse",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.35,
+            "X": 3.13,
+            "2": 2.16
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/toulouse-strasbourg-f9hjMZXN/"
+    },
+    {
+        "date": "2020-02-04",
+        "team_1": "Nantes",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 9.06,
+            "X": 5.63,
+            "2": 1.29
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nantes-psg-bsasOe3B/"
+    },
+    {
+        "date": "2020-02-04",
+        "team_1": "Lille",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.93,
+            "X": 3.26,
+            "2": 4.09
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lille-rennes-SrrWQcJh/"
+    },
+    {
+        "date": "2020-02-04",
+        "team_1": "Monaco",
+        "team_2": "Angers",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.63,
+            "X": 3.94,
+            "2": 5.1
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/monaco-angers-QT0ZPHYb/"
+    },
+    {
+        "date": "2020-02-02",
+        "team_1": "Bordeaux",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.55,
+            "X": 3.11,
+            "2": 2.21
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/bordeaux-marseille-pKhRRw4n/"
+    },
+    {
+        "date": "2020-02-02",
+        "team_1": "Metz",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.81,
+            "X": 2.98,
+            "2": 2.68
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/metz-st-etienne-6TgNSJlt/"
+    },
+    {
+        "date": "2020-02-02",
+        "team_1": "Nice",
+        "team_2": "Lyon",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.68,
+            "X": 3.58,
+            "2": 1.93
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nice-lyon-nPMdCb4a/"
+    },
+    {
+        "date": "2020-02-01",
+        "team_1": "Amiens",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.99,
+            "X": 3.24,
+            "2": 3.89
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/amiens-sc-toulouse-G4ED8G3O/"
+    },
+    {
+        "date": "2020-02-01",
+        "team_1": "Angers",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 4
+        },
+        "odds": {
+            "1": 2.03,
+            "X": 3.03,
+            "2": 4.08
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/angers-reims-YuP89dlI/"
+    },
+    {
+        "date": "2020-02-01",
+        "team_1": "Dijon",
+        "team_2": "Brest",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.03,
+            "X": 3.43,
+            "2": 3.58
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/dijon-brest-6D5aDvkg/"
+    },
+    {
+        "date": "2020-02-01",
+        "team_1": "Nimes",
+        "team_2": "Monaco",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.13,
+            "X": 4.05,
+            "2": 1.73
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nimes-monaco-QFL0BIJ5/"
+    },
+    {
+        "date": "2020-02-01",
+        "team_1": "Strasbourg",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.76,
+            "X": 2.91,
+            "2": 2.73
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/strasbourg-lille-feDH7zJU/"
+    },
+    {
+        "date": "2020-02-01",
+        "team_1": "PSG",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 5,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.11,
+            "X": 9.46,
+            "2": 19.75
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/psg-montpellier-KxL4AxZB/"
+    },
+    {
+        "date": "2020-01-31",
+        "team_1": "Rennes",
+        "team_2": "Nantes",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.84,
+            "X": 3.24,
+            "2": 4.64
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/rennes-nantes-SM6eEKZn/"
+    },
+    {
+        "date": "2020-01-26",
+        "team_1": "Lille",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 6.15,
+            "X": 4.79,
+            "2": 1.41
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lille-psg-t6rE1sjs/"
+    },
+    {
+        "date": "2020-01-26",
+        "team_1": "Nantes",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.89,
+            "X": 3.16,
+            "2": 4.4
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nantes-bordeaux-8IZUcak6/"
+    },
+    {
+        "date": "2020-01-26",
+        "team_1": "Lyon",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.2,
+            "X": 6.41,
+            "2": 12.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lyon-toulouse-KdsI015m/"
+    },
+    {
+        "date": "2020-01-25",
+        "team_1": "Brest",
+        "team_2": "Amiens",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 3.46,
+            "2": 3.53
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/brest-amiens-sc-GrwwdwKI/"
+    },
+    {
+        "date": "2020-01-25",
+        "team_1": "Monaco",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.59,
+            "X": 3.84,
+            "2": 5.4
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/monaco-strasbourg-Ya7iF0Kt/"
+    },
+    {
+        "date": "2020-01-25",
+        "team_1": "Montpellier",
+        "team_2": "Dijon",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.64,
+            "X": 3.68,
+            "2": 5.4
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/montpellier-dijon-dvGPJtCP/"
+    },
+    {
+        "date": "2020-01-25",
+        "team_1": "Reims",
+        "team_2": "Metz",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.96,
+            "X": 2.89,
+            "2": 4.65
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/reims-metz-QgpQbuz0/"
+    },
+    {
+        "date": "2020-01-25",
+        "team_1": "St Etienne",
+        "team_2": "Nimes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.68,
+            "X": 3.69,
+            "2": 4.84
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/st-etienne-nimes-EJtMaLKg/"
+    },
+    {
+        "date": "2020-01-25",
+        "team_1": "Marseille",
+        "team_2": "Angers",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.9,
+            "X": 3.41,
+            "2": 4.1
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/marseille-angers-fZysecZO/"
+    },
+    {
+        "date": "2020-01-24",
+        "team_1": "Nice",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.66,
+            "X": 2.99,
+            "2": 2.81
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nice-rennes-n9YYdJ4C/"
+    },
+    {
+        "date": "2020-01-15",
+        "team_1": "Monaco",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 4
+        },
+        "odds": {
+            "1": 4.81,
+            "X": 4.7,
+            "2": 1.51
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/monaco-psg-CCg6BOIC/"
+    },
+    {
+        "date": "2020-01-15",
+        "team_1": "Amiens",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.59,
+            "X": 2.79,
+            "2": 2.89
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/amiens-sc-reims-WdjwEHvB/"
+    },
+    {
+        "date": "2020-01-15",
+        "team_1": "Nimes",
+        "team_2": "Rennes",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.52,
+            "X": 3.13,
+            "2": 2.12
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nimes-rennes-hWbWy3Ad/"
+    },
+    {
+        "date": "2020-01-12",
+        "team_1": "PSG",
+        "team_2": "Monaco",
+        "score": {
+            "1": 3,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.14,
+            "X": 9.0,
+            "2": 14.88
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/psg-monaco-CjKjptL6/"
+    },
+    {
+        "date": "2020-01-12",
+        "team_1": "Dijon",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.85,
+            "X": 3.24,
+            "2": 1.98
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/dijon-lille-vP6qn2jf/"
+    },
+    {
+        "date": "2020-01-12",
+        "team_1": "St Etienne",
+        "team_2": "Nantes",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.38,
+            "X": 2.97,
+            "2": 3.14
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/st-etienne-nantes-fF9eq0zD/"
+    },
+    {
+        "date": "2020-01-11",
+        "team_1": "Amiens",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.04,
+            "X": 3.01,
+            "2": 2.47
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/amiens-sc-montpellier-I9IzlOLs/"
+    },
+    {
+        "date": "2020-01-11",
+        "team_1": "Angers",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.73,
+            "X": 3.61,
+            "2": 4.54
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/angers-nice-8IDarKkJ/"
+    },
+    {
+        "date": "2020-01-11",
+        "team_1": "Metz",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.83,
+            "X": 2.84,
+            "2": 2.73
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/metz-strasbourg-YaLnoM50/"
+    },
+    {
+        "date": "2020-01-11",
+        "team_1": "Nimes",
+        "team_2": "Reims",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.78,
+            "X": 2.93,
+            "2": 2.67
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nimes-reims-ML1s73SJ/"
+    },
+    {
+        "date": "2020-01-11",
+        "team_1": "Toulouse",
+        "team_2": "Brest",
+        "score": {
+            "1": 2,
+            "2": 5
+        },
+        "odds": {
+            "1": 2.21,
+            "X": 3.33,
+            "2": 3.04
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/toulouse-brest-6Xk75jiF/"
+    },
+    {
+        "date": "2020-01-11",
+        "team_1": "Bordeaux",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.48,
+            "X": 3.2,
+            "2": 2.1
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/bordeaux-lyon-0Y7umryl/"
+    },
+    {
+        "date": "2020-01-10",
+        "team_1": "Rennes",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.57,
+            "X": 3.08,
+            "2": 2.85
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/rennes-marseille-0C0o6NsQ/"
+    },
+    {
+        "date": "2019-12-21",
+        "team_1": "Dijon",
+        "team_2": "Metz",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.11,
+            "X": 3.14,
+            "2": 3.76
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/dijon-metz-IB9Cq9Ue/"
+    },
+    {
+        "date": "2019-12-21",
+        "team_1": "Marseille",
+        "team_2": "Nimes",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.36,
+            "X": 4.94,
+            "2": 8.0
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/marseille-nimes-b7QTiXMF/"
+    },
+    {
+        "date": "2019-12-21",
+        "team_1": "Monaco",
+        "team_2": "Lille",
+        "score": {
+            "1": 5,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.19,
+            "X": 3.54,
+            "2": 3.08
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/monaco-lille-CE64oVaq/"
+    },
+    {
+        "date": "2019-12-21",
+        "team_1": "Montpellier",
+        "team_2": "Brest",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.53,
+            "X": 3.95,
+            "2": 6.43
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/montpellier-brest-d28GrTq2/"
+    },
+    {
+        "date": "2019-12-21",
+        "team_1": "Nantes",
+        "team_2": "Angers",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.12,
+            "X": 3.03,
+            "2": 3.88
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nantes-angers-OlA8pkFk/"
+    },
+    {
+        "date": "2019-12-21",
+        "team_1": "Nice",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.74,
+            "X": 3.75,
+            "2": 4.39
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nice-toulouse-KGRPhD79/"
+    },
+    {
+        "date": "2019-12-21",
+        "team_1": "PSG",
+        "team_2": "Amiens",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.06,
+            "X": 15.5,
+            "2": 40.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/psg-amiens-sc-StVXjixM/"
+    },
+    {
+        "date": "2019-12-21",
+        "team_1": "Reims",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.78,
+            "X": 3.03,
+            "2": 2.68
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/reims-lyon-6XTyjBiS/"
+    },
+    {
+        "date": "2019-12-21",
+        "team_1": "Rennes",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.85,
+            "X": 3.35,
+            "2": 4.33
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/rennes-bordeaux-YJia7CM2/"
+    },
+    {
+        "date": "2019-12-21",
+        "team_1": "Strasbourg",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.95,
+            "X": 3.21,
+            "2": 4.13
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/strasbourg-st-etienne-CAj36Wy9/"
+    },
+    {
+        "date": "2019-12-15",
+        "team_1": "St Etienne",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 4
+        },
+        "odds": {
+            "1": 10.0,
+            "X": 6.49,
+            "2": 1.26
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/st-etienne-psg-fDr2wY7M/"
+    },
+    {
+        "date": "2019-12-15",
+        "team_1": "Lyon",
+        "team_2": "Rennes",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.6,
+            "X": 3.83,
+            "2": 5.13
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lyon-rennes-lzr6xhNS/"
+    },
+    {
+        "date": "2019-12-15",
+        "team_1": "Bordeaux",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.15,
+            "X": 3.05,
+            "2": 3.33
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/bordeaux-strasbourg-jqUXXBVq/"
+    },
+    {
+        "date": "2019-12-14",
+        "team_1": "Amiens",
+        "team_2": "Dijon",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.02,
+            "X": 3.16,
+            "2": 3.7
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/amiens-sc-dijon-xhxLggh3/"
+    },
+    {
+        "date": "2019-12-14",
+        "team_1": "Angers",
+        "team_2": "Monaco",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.05,
+            "X": 3.4,
+            "2": 2.18
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/angers-monaco-WfoVWVpj/"
+    },
+    {
+        "date": "2019-12-14",
+        "team_1": "Brest",
+        "team_2": "Nice",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.44,
+            "X": 3.23,
+            "2": 2.76
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/brest-nice-OlYGfZxc/"
+    },
+    {
+        "date": "2019-12-14",
+        "team_1": "Nimes",
+        "team_2": "Nantes",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.72,
+            "X": 3.1,
+            "2": 2.05
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nimes-nantes-AopZVk0d/"
+    },
+    {
+        "date": "2019-12-14",
+        "team_1": "Toulouse",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.27,
+            "X": 3.1,
+            "2": 2.21
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/toulouse-reims-KfjktzO3/"
+    },
+    {
+        "date": "2019-12-14",
+        "team_1": "Metz",
+        "team_2": "Marseille",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 4.59,
+            "X": 3.45,
+            "2": 1.78
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/metz-marseille-tAvbvEhG/"
+    },
+    {
+        "date": "2019-12-13",
+        "team_1": "Lille",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.7,
+            "X": 3.4,
+            "2": 4.95
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lille-montpellier-bokgufwA/"
+    },
+    {
+        "date": "2019-12-08",
+        "team_1": "Marseille",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.62,
+            "X": 3.89,
+            "2": 5.34
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/marseille-bordeaux-CUnsrdgi/"
+    },
+    {
+        "date": "2019-12-08",
+        "team_1": "Nantes",
+        "team_2": "Dijon",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.6,
+            "X": 3.75,
+            "2": 5.73
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nantes-dijon-G84PPEwN/"
+    },
+    {
+        "date": "2019-12-08",
+        "team_1": "Reims",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 3.03,
+            "2": 3.56
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/reims-st-etienne-CvjeKh1p/"
+    },
+    {
+        "date": "2019-12-07",
+        "team_1": "Monaco",
+        "team_2": "Amiens",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.41,
+            "X": 4.84,
+            "2": 7.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/monaco-amiens-sc-jLoosG8c/"
+    },
+    {
+        "date": "2019-12-07",
+        "team_1": "Nice",
+        "team_2": "Metz",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 3.48,
+            "2": 4.91
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nice-metz-CG78Tdvb/"
+    },
+    {
+        "date": "2019-12-07",
+        "team_1": "Rennes",
+        "team_2": "Angers",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.07,
+            "X": 3.16,
+            "2": 3.88
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/rennes-angers-KtBGRz9A/"
+    },
+    {
+        "date": "2019-12-07",
+        "team_1": "Strasbourg",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 4,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.69,
+            "X": 3.81,
+            "2": 4.84
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/strasbourg-toulouse-AP8bJCGj/"
+    },
+    {
+        "date": "2019-12-07",
+        "team_1": "Montpellier",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 6.61,
+            "X": 4.91,
+            "2": 1.42
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/montpellier-psg-bX9KQfOG/"
+    },
+    {
+        "date": "2019-12-06",
+        "team_1": "Nimes",
+        "team_2": "Lyon",
+        "score": {
+            "1": 0,
+            "2": 4
+        },
+        "odds": {
+            "1": 4.94,
+            "X": 3.84,
+            "2": 1.67
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nimes-lyon-QJBCSGg4/"
+    },
+    {
+        "date": "2019-12-06",
+        "team_1": "Lille",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.32,
+            "X": 5.35,
+            "2": 8.94
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lille-brest-fa3TOYhT/"
+    },
+    {
+        "date": "2019-12-04",
+        "team_1": "PSG",
+        "team_2": "Nantes",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.12,
+            "X": 8.73,
+            "2": 20.75
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/psg-nantes-OfVH6ZWp/"
+    },
+    {
+        "date": "2019-12-04",
+        "team_1": "Dijon",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.94,
+            "X": 3.0,
+            "2": 2.58
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/dijon-montpellier-QJksDyfH/"
+    },
+    {
+        "date": "2019-12-04",
+        "team_1": "Metz",
+        "team_2": "Rennes",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.01,
+            "X": 2.98,
+            "2": 2.55
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/metz-rennes-zVdUFwAb/"
+    },
+    {
+        "date": "2019-12-04",
+        "team_1": "St Etienne",
+        "team_2": "Nice",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.06,
+            "X": 3.4,
+            "2": 3.61
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/st-etienne-nice-j1JaVI9o/"
+    },
+    {
+        "date": "2019-12-04",
+        "team_1": "Toulouse",
+        "team_2": "Monaco",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.89,
+            "X": 3.8,
+            "2": 1.84
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/toulouse-monaco-h6iZEcP4/"
+    },
+    {
+        "date": "2019-12-03",
+        "team_1": "Lyon",
+        "team_2": "Lille",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.96,
+            "X": 3.4,
+            "2": 4.0
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lyon-lille-MoqjBFOT/"
+    },
+    {
+        "date": "2019-12-03",
+        "team_1": "Brest",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 5,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.35,
+            "X": 3.24,
+            "2": 2.22
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/brest-strasbourg-dvbQGJfh/"
+    },
+    {
+        "date": "2019-12-03",
+        "team_1": "Angers",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.14,
+            "X": 3.26,
+            "2": 2.38
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/angers-marseille-vNgoCe9N/"
+    },
+    {
+        "date": "2019-12-03",
+        "team_1": "Bordeaux",
+        "team_2": "Nimes",
+        "score": {
+            "1": 6,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.96,
+            "X": 3.31,
+            "2": 4.21
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/bordeaux-nimes-UiI3UxPi/"
+    },
+    {
+        "date": "2019-12-01",
+        "team_1": "Rennes",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.93,
+            "X": 3.28,
+            "2": 4.23
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/rennes-st-etienne-jseIIuQu/"
+    },
+    {
+        "date": "2019-12-01",
+        "team_1": "Nantes",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.71,
+            "X": 3.53,
+            "2": 5.21
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nantes-toulouse-j3hAArYI/"
+    },
+    {
+        "date": "2019-11-30",
+        "team_1": "Lille",
+        "team_2": "Dijon",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.4,
+            "X": 4.51,
+            "2": 7.91
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lille-dijon-EccoGn4s/"
+    },
+    {
+        "date": "2019-11-30",
+        "team_1": "Montpellier",
+        "team_2": "Amiens",
+        "score": {
+            "1": 4,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.65,
+            "X": 3.6,
+            "2": 5.65
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/montpellier-amiens-sc-8KdkF6Jm/"
+    },
+    {
+        "date": "2019-11-30",
+        "team_1": "Nice",
+        "team_2": "Angers",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.19,
+            "X": 3.16,
+            "2": 3.48
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nice-angers-MN0gEQYg/"
+    },
+    {
+        "date": "2019-11-30",
+        "team_1": "Nimes",
+        "team_2": "Metz",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.09,
+            "X": 3.2,
+            "2": 3.75
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nimes-metz-rwk2C436/"
+    },
+    {
+        "date": "2019-11-30",
+        "team_1": "Reims",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.16,
+            "X": 2.97,
+            "2": 3.91
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/reims-bordeaux-4njbDpl0/"
+    },
+    {
+        "date": "2019-11-30",
+        "team_1": "Strasbourg",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.46,
+            "X": 3.29,
+            "2": 2.89
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/strasbourg-lyon-2HbMHaun/"
+    },
+    {
+        "date": "2019-11-29",
+        "team_1": "Marseille",
+        "team_2": "Brest",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.38,
+            "X": 4.7,
+            "2": 8.26
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/marseille-brest-ClBJKSeQ/"
+    },
+    {
+        "date": "2019-11-24",
+        "team_1": "Toulouse",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.39,
+            "X": 3.54,
+            "2": 2.1
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/toulouse-marseille-hYFq8kCK/"
+    },
+    {
+        "date": "2019-11-24",
+        "team_1": "St Etienne",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.57,
+            "X": 3.13,
+            "2": 2.91
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/st-etienne-montpellier-hYiyb5lD/"
+    },
+    {
+        "date": "2019-11-24",
+        "team_1": "Bordeaux",
+        "team_2": "Monaco",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.23,
+            "X": 3.55,
+            "2": 2.14
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/bordeaux-monaco-lteK1mkl/"
+    },
+    {
+        "date": "2019-11-23",
+        "team_1": "Amiens",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 0,
+            "2": 4
+        },
+        "odds": {
+            "1": 2.48,
+            "X": 3.02,
+            "2": 3.2
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/amiens-sc-strasbourg-pSvNL8tK/"
+    },
+    {
+        "date": "2019-11-23",
+        "team_1": "Angers",
+        "team_2": "Nimes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.81,
+            "X": 3.57,
+            "2": 4.63
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/angers-nimes-6ytJMlRD/"
+    },
+    {
+        "date": "2019-11-23",
+        "team_1": "Brest",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.8,
+            "X": 3.13,
+            "2": 2.66
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/brest-nantes-IFaO074f/"
+    },
+    {
+        "date": "2019-11-23",
+        "team_1": "Dijon",
+        "team_2": "Rennes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.89,
+            "X": 3.25,
+            "2": 2.48
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/dijon-rennes-d6bSaRJ0/"
+    },
+    {
+        "date": "2019-11-23",
+        "team_1": "Metz",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.99,
+            "X": 2.86,
+            "2": 2.78
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/metz-reims-vVmXboZ6/"
+    },
+    {
+        "date": "2019-11-23",
+        "team_1": "Lyon",
+        "team_2": "Nice",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.53,
+            "X": 4.26,
+            "2": 6.06
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lyon-nice-48Jm79RQ/"
+    },
+    {
+        "date": "2019-11-22",
+        "team_1": "PSG",
+        "team_2": "Lille",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.27,
+            "X": 6.09,
+            "2": 10.88
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/psg-lille-AkdG2TZs/"
+    },
+    {
+        "date": "2019-11-10",
+        "team_1": "Marseille",
+        "team_2": "Lyon",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.43,
+            "X": 3.41,
+            "2": 3.06
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/marseille-lyon-OU94B31F/"
+    },
+    {
+        "date": "2019-11-10",
+        "team_1": "Montpellier",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.77,
+            "X": 3.55,
+            "2": 4.74
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/montpellier-toulouse-2qmi2aO1/"
+    },
+    {
+        "date": "2019-11-10",
+        "team_1": "Nantes",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 1.87,
+            "X": 3.33,
+            "2": 4.55
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nantes-st-etienne-fJqq4Lgk/"
+    },
+    {
+        "date": "2019-11-10",
+        "team_1": "Rennes",
+        "team_2": "Amiens",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.05,
+            "X": 3.26,
+            "2": 3.79
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/rennes-amiens-sc-KKHyABs8/"
+    },
+    {
+        "date": "2019-11-09",
+        "team_1": "Lille",
+        "team_2": "Metz",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.52,
+            "X": 3.9,
+            "2": 6.63
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lille-metz-tzne1Jw8/"
+    },
+    {
+        "date": "2019-11-09",
+        "team_1": "Monaco",
+        "team_2": "Dijon",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.39,
+            "X": 4.85,
+            "2": 7.38
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/monaco-dijon-bBGu9VdE/"
+    },
+    {
+        "date": "2019-11-09",
+        "team_1": "Reims",
+        "team_2": "Angers",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.51,
+            "X": 2.93,
+            "2": 3.1
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/reims-angers-Cffv51vq/"
+    },
+    {
+        "date": "2019-11-09",
+        "team_1": "Strasbourg",
+        "team_2": "Nimes",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.82,
+            "X": 3.4,
+            "2": 4.79
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/strasbourg-nimes-Ao8C9sWR/"
+    },
+    {
+        "date": "2019-11-09",
+        "team_1": "Brest",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 11.25,
+            "X": 6.44,
+            "2": 1.24
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/brest-psg-2L88ANGL/"
+    },
+    {
+        "date": "2019-11-08",
+        "team_1": "Nice",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.23,
+            "X": 3.14,
+            "2": 3.5
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nice-bordeaux-8Mmm3u9e/"
+    },
+    {
+        "date": "2019-11-03",
+        "team_1": "St Etienne",
+        "team_2": "Monaco",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.98,
+            "X": 3.5,
+            "2": 2.31
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/st-etienne-monaco-YRyJa623/"
+    },
+    {
+        "date": "2019-11-03",
+        "team_1": "Nice",
+        "team_2": "Reims",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.85,
+            "X": 3.0,
+            "2": 2.72
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nice-reims-IXY4j2Pk/"
+    },
+    {
+        "date": "2019-11-03",
+        "team_1": "Bordeaux",
+        "team_2": "Nantes",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.31,
+            "X": 2.95,
+            "2": 3.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/bordeaux-nantes-vTfSxqej/"
+    },
+    {
+        "date": "2019-11-02",
+        "team_1": "Amiens",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.66,
+            "X": 3.84,
+            "2": 5.16
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/amiens-sc-brest-vsz1irAq/"
+    },
+    {
+        "date": "2019-11-02",
+        "team_1": "Angers",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.08,
+            "X": 3.13,
+            "2": 4.07
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/angers-strasbourg-M1mZeO1S/"
+    },
+    {
+        "date": "2019-11-02",
+        "team_1": "Metz",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.0,
+            "X": 2.97,
+            "2": 2.53
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/metz-montpellier-21tNbQH9/"
+    },
+    {
+        "date": "2019-11-02",
+        "team_1": "Toulouse",
+        "team_2": "Lyon",
+        "score": {
+            "1": 2,
+            "2": 3
+        },
+        "odds": {
+            "1": 4.8,
+            "X": 3.91,
+            "2": 1.67
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/toulouse-lyon-thuRcpXF/"
+    },
+    {
+        "date": "2019-11-02",
+        "team_1": "Marseille",
+        "team_2": "Lille",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 3.3,
+            "2": 3.38
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/marseille-lille-fywF0nmc/"
+    },
+    {
+        "date": "2019-11-01",
+        "team_1": "Dijon",
+        "team_2": "PSG",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 14.13,
+            "X": 7.06,
+            "2": 1.2
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/dijon-psg-OGUVd4nM/"
+    },
+    {
+        "date": "2019-10-27",
+        "team_1": "PSG",
+        "team_2": "Marseille",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.21,
+            "X": 7.63,
+            "2": 14.75
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/psg-marseille-fHIkbgRb/"
+    },
+    {
+        "date": "2019-10-27",
+        "team_1": "St Etienne",
+        "team_2": "Amiens",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.11,
+            "X": 3.21,
+            "2": 3.48
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/st-etienne-amiens-sc-KbQx1est/"
+    },
+    {
+        "date": "2019-10-27",
+        "team_1": "Rennes",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.82,
+            "X": 3.55,
+            "2": 4.46
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/rennes-toulouse-8QqXuCBU/"
+    },
+    {
+        "date": "2019-10-26",
+        "team_1": "Brest",
+        "team_2": "Dijon",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.32,
+            "X": 3.26,
+            "2": 3.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/brest-dijon-bkPt0Fdn/"
+    },
+    {
+        "date": "2019-10-26",
+        "team_1": "Lyon",
+        "team_2": "Metz",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.39,
+            "X": 4.58,
+            "2": 8.56
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lyon-metz-tEEoaZBh/"
+    },
+    {
+        "date": "2019-10-26",
+        "team_1": "Montpellier",
+        "team_2": "Angers",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.19,
+            "X": 3.18,
+            "2": 3.55
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/montpellier-angers-8tYfeiBH/"
+    },
+    {
+        "date": "2019-10-26",
+        "team_1": "Reims",
+        "team_2": "Nimes",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.63,
+            "X": 3.65,
+            "2": 6.06
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/reims-nimes-SUGcdXeB/"
+    },
+    {
+        "date": "2019-10-26",
+        "team_1": "Strasbourg",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.88,
+            "X": 3.26,
+            "2": 4.58
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/strasbourg-nice-UZpTthdO/"
+    },
+    {
+        "date": "2019-10-26",
+        "team_1": "Lille",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.83,
+            "X": 3.45,
+            "2": 4.7
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lille-bordeaux-p6eOwPup/"
+    },
+    {
+        "date": "2019-10-25",
+        "team_1": "Nantes",
+        "team_2": "Monaco",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.96,
+            "X": 3.29,
+            "2": 2.46
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nantes-monaco-lvIgcDt5/"
+    },
+    {
+        "date": "2019-10-20",
+        "team_1": "Marseille",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.83,
+            "X": 3.43,
+            "2": 4.86
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/marseille-strasbourg-tEhGqfC5/"
+    },
+    {
+        "date": "2019-10-20",
+        "team_1": "Monaco",
+        "team_2": "Rennes",
+        "score": {
+            "1": 3,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.7,
+            "X": 3.95,
+            "2": 4.85
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/monaco-rennes-nBeOsYtI/"
+    },
+    {
+        "date": "2019-10-20",
+        "team_1": "Bordeaux",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.45,
+            "X": 3.13,
+            "2": 3.16
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/bordeaux-st-etienne-pna7oGsg/"
+    },
+    {
+        "date": "2019-10-19",
+        "team_1": "Angers",
+        "team_2": "Brest",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.59,
+            "X": 3.81,
+            "2": 6.25
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/angers-brest-Y7VlTYRO/"
+    },
+    {
+        "date": "2019-10-19",
+        "team_1": "Metz",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.55,
+            "X": 3.04,
+            "2": 3.03
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/metz-nantes-zD9XiI4P/"
+    },
+    {
+        "date": "2019-10-19",
+        "team_1": "Nimes",
+        "team_2": "Amiens",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.25,
+            "X": 3.38,
+            "2": 3.25
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nimes-amiens-sc-2NgCpzca/"
+    },
+    {
+        "date": "2019-10-19",
+        "team_1": "Reims",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.24,
+            "X": 2.94,
+            "2": 3.78
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/reims-montpellier-fHWpUECI/"
+    },
+    {
+        "date": "2019-10-19",
+        "team_1": "Toulouse",
+        "team_2": "Lille",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.45,
+            "X": 3.31,
+            "2": 2.2
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/toulouse-lille-CY0amxDt/"
+    },
+    {
+        "date": "2019-10-19",
+        "team_1": "Lyon",
+        "team_2": "Dijon",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.37,
+            "X": 5.08,
+            "2": 8.66
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lyon-dijon-zyhKrERB/"
+    },
+    {
+        "date": "2019-10-18",
+        "team_1": "Nice",
+        "team_2": "PSG",
+        "score": {
+            "1": 1,
+            "2": 4
+        },
+        "odds": {
+            "1": 8.13,
+            "X": 5.06,
+            "2": 1.38
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nice-psg-6e03ndSn/"
+    },
+    {
+        "date": "2019-10-06",
+        "team_1": "St Etienne",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 4.1,
+            "X": 3.57,
+            "2": 1.93
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/st-etienne-lyon-MkJwWzr6/"
+    },
+    {
+        "date": "2019-10-06",
+        "team_1": "Rennes",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.31,
+            "X": 3.04,
+            "2": 3.45
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/rennes-reims-8ng4HyTC/"
+    },
+    {
+        "date": "2019-10-06",
+        "team_1": "Lille",
+        "team_2": "Nimes",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.57,
+            "X": 3.94,
+            "2": 6.06
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lille-nimes-hARMZIrs/"
+    },
+    {
+        "date": "2019-10-05",
+        "team_1": "Brest",
+        "team_2": "Metz",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.48,
+            "X": 3.21,
+            "2": 2.93
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/brest-metz-vRTYWGSa/"
+    },
+    {
+        "date": "2019-10-05",
+        "team_1": "Dijon",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.89,
+            "X": 2.95,
+            "2": 2.69
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/dijon-strasbourg-KMd8GerJ/"
+    },
+    {
+        "date": "2019-10-05",
+        "team_1": "Montpellier",
+        "team_2": "Monaco",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.15,
+            "X": 3.29,
+            "2": 2.28
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/montpellier-monaco-CGqfvazQ/"
+    },
+    {
+        "date": "2019-10-05",
+        "team_1": "Nantes",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.09,
+            "X": 3.24,
+            "2": 3.84
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nantes-nice-0tIsVfcC/"
+    },
+    {
+        "date": "2019-10-05",
+        "team_1": "Toulouse",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.46,
+            "X": 3.13,
+            "2": 3.09
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/toulouse-bordeaux-QNPUXdDg/"
+    },
+    {
+        "date": "2019-10-05",
+        "team_1": "PSG",
+        "team_2": "Angers",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.17,
+            "X": 7.6,
+            "2": 15.19
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/psg-angers-W0QQYxbm/"
+    },
+    {
+        "date": "2019-10-04",
+        "team_1": "Amiens",
+        "team_2": "Marseille",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.14,
+            "X": 3.38,
+            "2": 2.29
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/amiens-sc-marseille-YPpjuuLJ/"
+    },
+    {
+        "date": "2019-09-29",
+        "team_1": "Marseille",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.98,
+            "X": 3.53,
+            "2": 3.96
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/marseille-rennes-Ic0iKwqf/"
+    },
+    {
+        "date": "2019-09-29",
+        "team_1": "Nimes",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.34,
+            "X": 3.36,
+            "2": 3.15
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nimes-st-etienne-nX4eJcb0/"
+    },
+    {
+        "date": "2019-09-29",
+        "team_1": "Strasbourg",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.29,
+            "X": 3.05,
+            "2": 3.43
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/strasbourg-montpellier-v71mLJTm/"
+    },
+    {
+        "date": "2019-09-28",
+        "team_1": "Angers",
+        "team_2": "Amiens",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.65,
+            "X": 3.51,
+            "2": 6.18
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/angers-amiens-sc-n9M8S1yE/"
+    },
+    {
+        "date": "2019-09-28",
+        "team_1": "Metz",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.12,
+            "X": 3.29,
+            "2": 3.78
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/metz-toulouse-KMKGQu6Q/"
+    },
+    {
+        "date": "2019-09-28",
+        "team_1": "Monaco",
+        "team_2": "Brest",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.4,
+            "X": 4.75,
+            "2": 7.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/monaco-brest-QaLCRLjK/"
+    },
+    {
+        "date": "2019-09-28",
+        "team_1": "Nice",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.05,
+            "X": 3.2,
+            "2": 2.46
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nice-lille-8QHT4bq7/"
+    },
+    {
+        "date": "2019-09-28",
+        "team_1": "Reims",
+        "team_2": "Dijon",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.69,
+            "X": 3.55,
+            "2": 5.68
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/reims-dijon-QN3aIHD6/"
+    },
+    {
+        "date": "2019-09-28",
+        "team_1": "Bordeaux",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 7.38,
+            "X": 5.06,
+            "2": 1.4
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/bordeaux-psg-nHGX3IbD/"
+    },
+    {
+        "date": "2019-09-28",
+        "team_1": "Lyon",
+        "team_2": "Nantes",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.53,
+            "X": 4.13,
+            "2": 6.5
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lyon-nantes-drCrMaEs/"
+    },
+    {
+        "date": "2019-09-25",
+        "team_1": "PSG",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.22,
+            "X": 6.03,
+            "2": 11.75
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/psg-reims-jN8zSUp3/"
+    },
+    {
+        "date": "2019-09-25",
+        "team_1": "Amiens",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 3
+        },
+        "odds": {
+            "1": 2.64,
+            "X": 2.95,
+            "2": 3.0
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/amiens-sc-bordeaux-E3IP5vU0/"
+    },
+    {
+        "date": "2019-09-25",
+        "team_1": "Brest",
+        "team_2": "Lyon",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 4.46,
+            "X": 3.95,
+            "2": 1.74
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/brest-lyon-vZ1k4Rhd/"
+    },
+    {
+        "date": "2019-09-25",
+        "team_1": "Lille",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.78,
+            "X": 3.55,
+            "2": 4.96
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lille-strasbourg-00EL6KEf/"
+    },
+    {
+        "date": "2019-09-25",
+        "team_1": "Montpellier",
+        "team_2": "Nimes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.96,
+            "X": 3.3,
+            "2": 4.13
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/montpellier-nimes-CxcqQ8FF/"
+    },
+    {
+        "date": "2019-09-25",
+        "team_1": "Nantes",
+        "team_2": "Rennes",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.31,
+            "X": 3.01,
+            "2": 3.4
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nantes-rennes-hxjXSAVd/"
+    },
+    {
+        "date": "2019-09-25",
+        "team_1": "St Etienne",
+        "team_2": "Metz",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.89,
+            "X": 3.35,
+            "2": 4.35
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/st-etienne-metz-YobuRl09/"
+    },
+    {
+        "date": "2019-09-25",
+        "team_1": "Toulouse",
+        "team_2": "Angers",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.68,
+            "X": 3.2,
+            "2": 2.8
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/toulouse-angers-IyPG70al/"
+    },
+    {
+        "date": "2019-09-24",
+        "team_1": "Monaco",
+        "team_2": "Nice",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.88,
+            "X": 3.72,
+            "2": 4.15
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/monaco-nice-0r3o57wj/"
+    },
+    {
+        "date": "2019-09-24",
+        "team_1": "Dijon",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.61,
+            "X": 3.41,
+            "2": 2.1
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/dijon-marseille-voQC8tpr/"
+    },
+    {
+        "date": "2019-09-22",
+        "team_1": "Lyon",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 3.72,
+            "X": 4.05,
+            "2": 1.91
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lyon-psg-Q1WkGXoi/"
+    },
+    {
+        "date": "2019-09-22",
+        "team_1": "Angers",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 4,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.13,
+            "X": 3.3,
+            "2": 3.63
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/angers-st-etienne-nyNAB90M/"
+    },
+    {
+        "date": "2019-09-22",
+        "team_1": "Rennes",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.85,
+            "X": 3.09,
+            "2": 2.63
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/rennes-lille-tbMEATFS/"
+    },
+    {
+        "date": "2019-09-21",
+        "team_1": "Bordeaux",
+        "team_2": "Brest",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.83,
+            "X": 3.4,
+            "2": 5.0
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/bordeaux-brest-4hVgFi1c/"
+    },
+    {
+        "date": "2019-09-21",
+        "team_1": "Metz",
+        "team_2": "Amiens",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.17,
+            "X": 3.01,
+            "2": 4.05
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/metz-amiens-sc-Odh7il9j/"
+    },
+    {
+        "date": "2019-09-21",
+        "team_1": "Nice",
+        "team_2": "Dijon",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.75,
+            "X": 3.68,
+            "2": 5.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nice-dijon-r78t6mOq/"
+    },
+    {
+        "date": "2019-09-21",
+        "team_1": "Nimes",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.18,
+            "X": 3.45,
+            "2": 3.43
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nimes-toulouse-YXI6CkoG/"
+    },
+    {
+        "date": "2019-09-21",
+        "team_1": "Reims",
+        "team_2": "Monaco",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.54,
+            "X": 3.28,
+            "2": 2.98
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/reims-monaco-Agl3hUgp/"
+    },
+    {
+        "date": "2019-09-21",
+        "team_1": "Marseille",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 3.24,
+            "2": 4.07
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/marseille-montpellier-j9T1DVV9/"
+    },
+    {
+        "date": "2019-09-20",
+        "team_1": "Strasbourg",
+        "team_2": "Nantes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.29,
+            "X": 3.05,
+            "2": 3.58
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/strasbourg-nantes-CIUcEBG3/"
+    },
+    {
+        "date": "2019-09-15",
+        "team_1": "Monaco",
+        "team_2": "Marseille",
+        "score": {
+            "1": 3,
+            "2": 4
+        },
+        "odds": {
+            "1": 2.08,
+            "X": 3.69,
+            "2": 3.35
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/monaco-marseille-4IEplF2b/"
+    },
+    {
+        "date": "2019-09-15",
+        "team_1": "St Etienne",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.57,
+            "X": 4.2,
+            "2": 5.6
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/st-etienne-toulouse-WvosmZH4/"
+    },
+    {
+        "date": "2019-09-15",
+        "team_1": "Nantes",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.15,
+            "X": 3.02,
+            "2": 3.89
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nantes-reims-I1CYjHIu/"
+    },
+    {
+        "date": "2019-09-14",
+        "team_1": "Bordeaux",
+        "team_2": "Metz",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.94,
+            "X": 3.19,
+            "2": 4.6
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/bordeaux-metz-4hqkoDnH/"
+    },
+    {
+        "date": "2019-09-14",
+        "team_1": "Brest",
+        "team_2": "Rennes",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.21,
+            "X": 3.18,
+            "2": 2.35
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/brest-rennes-QRFtkemh/"
+    },
+    {
+        "date": "2019-09-14",
+        "team_1": "Dijon",
+        "team_2": "Nimes",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.75,
+            "X": 3.4,
+            "2": 2.61
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/dijon-nimes-jBbUoPLU/"
+    },
+    {
+        "date": "2019-09-14",
+        "team_1": "Montpellier",
+        "team_2": "Nice",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.96,
+            "X": 3.33,
+            "2": 4.45
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/montpellier-nice-W4GxjyYo/"
+    },
+    {
+        "date": "2019-09-14",
+        "team_1": "PSG",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.16,
+            "X": 7.88,
+            "2": 16.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/psg-strasbourg-Cb6G1YWc/"
+    },
+    {
+        "date": "2019-09-13",
+        "team_1": "Amiens",
+        "team_2": "Lyon",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 4.49,
+            "X": 3.58,
+            "2": 1.78
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/amiens-sc-lyon-IemgpX1N/"
+    },
+    {
+        "date": "2019-09-13",
+        "team_1": "Lille",
+        "team_2": "Angers",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.89,
+            "X": 3.34,
+            "2": 4.56
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lille-angers-AVqongXA/"
+    },
+    {
+        "date": "2019-09-01",
+        "team_1": "Marseille",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.87,
+            "X": 3.57,
+            "2": 4.39
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/marseille-st-etienne-OY9K0hn4/"
+    },
+    {
+        "date": "2019-09-01",
+        "team_1": "Strasbourg",
+        "team_2": "Monaco",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.61,
+            "X": 3.18,
+            "2": 2.75
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/strasbourg-monaco-UZGB2EHi/"
+    },
+    {
+        "date": "2019-09-01",
+        "team_1": "Reims",
+        "team_2": "Lille",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.98,
+            "X": 3.0,
+            "2": 2.63
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/reims-lille-K6AdgkNt/"
+    },
+    {
+        "date": "2019-09-01",
+        "team_1": "Rennes",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.75,
+            "X": 3.45,
+            "2": 5.29
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/rennes-nice-xr51h9xm/"
+    },
+    {
+        "date": "2019-08-31",
+        "team_1": "Angers",
+        "team_2": "Dijon",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.68,
+            "X": 3.75,
+            "2": 5.44
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/angers-dijon-UwaonYFD/"
+    },
+    {
+        "date": "2019-08-31",
+        "team_1": "Nantes",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.46,
+            "X": 3.08,
+            "2": 3.08
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nantes-montpellier-GY35iTig/"
+    },
+    {
+        "date": "2019-08-31",
+        "team_1": "Nimes",
+        "team_2": "Brest",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.04,
+            "X": 3.3,
+            "2": 3.85
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nimes-brest-roeMmoiI/"
+    },
+    {
+        "date": "2019-08-31",
+        "team_1": "Toulouse",
+        "team_2": "Amiens",
+        "score": {
+            "1": 2,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.31,
+            "X": 3.09,
+            "2": 3.39
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/toulouse-amiens-sc-rsmTAHhE/"
+    },
+    {
+        "date": "2019-08-31",
+        "team_1": "Lyon",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.51,
+            "X": 4.04,
+            "2": 6.88
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lyon-bordeaux-Ae39jm7a/"
+    },
+    {
+        "date": "2019-08-30",
+        "team_1": "Metz",
+        "team_2": "PSG",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 7.73,
+            "X": 4.6,
+            "2": 1.43
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/metz-psg-CKaQn56O/"
+    },
+    {
+        "date": "2019-08-28",
+        "team_1": "Nice",
+        "team_2": "Marseille",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.24,
+            "X": 3.28,
+            "2": 2.31
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nice-marseille-ne7UkGGl/"
+    },
+    {
+        "date": "2019-08-28",
+        "team_1": "Lille",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.13,
+            "X": 3.43,
+            "2": 3.58
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lille-st-etienne-fL6YlzWf/"
+    },
+    {
+        "date": "2019-08-27",
+        "team_1": "Montpellier",
+        "team_2": "Lyon",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 4.1,
+            "X": 3.76,
+            "2": 1.83
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/montpellier-lyon-YB5xlfo1/"
+    },
+    {
+        "date": "2019-08-25",
+        "team_1": "PSG",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 4,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.1,
+            "X": 10.5,
+            "2": 24.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/psg-toulouse-G6Tobv98/"
+    },
+    {
+        "date": "2019-08-25",
+        "team_1": "Strasbourg",
+        "team_2": "Rennes",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.71,
+            "X": 3.03,
+            "2": 2.78
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/strasbourg-rennes-2TOPvBPp/"
+    },
+    {
+        "date": "2019-08-25",
+        "team_1": "Monaco",
+        "team_2": "Nimes",
+        "score": {
+            "1": 2,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.6,
+            "X": 3.98,
+            "2": 5.69
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/monaco-nimes-848Qjd1r/"
+    },
+    {
+        "date": "2019-08-24",
+        "team_1": "Amiens",
+        "team_2": "Nantes",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.73,
+            "X": 2.98,
+            "2": 2.78
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/amiens-sc-nantes-fcSkcbOE/"
+    },
+    {
+        "date": "2019-08-24",
+        "team_1": "Angers",
+        "team_2": "Metz",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.05,
+            "X": 3.18,
+            "2": 3.85
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/angers-metz-2NVcexgR/"
+    },
+    {
+        "date": "2019-08-24",
+        "team_1": "Brest",
+        "team_2": "Reims",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.63,
+            "X": 3.03,
+            "2": 2.85
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/brest-reims-GzesmE07/"
+    },
+    {
+        "date": "2019-08-24",
+        "team_1": "Dijon",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.81,
+            "X": 3.08,
+            "2": 2.64
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/dijon-bordeaux-lKRgdIwL/"
+    },
+    {
+        "date": "2019-08-18",
+        "team_1": "Rennes",
+        "team_2": "PSG",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 8.38,
+            "X": 5.73,
+            "2": 1.33
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/rennes-psg-vkp3ZfW7/"
+    },
+    {
+        "date": "2019-08-18",
+        "team_1": "Reims",
+        "team_2": "Strasbourg",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.01,
+            "X": 3.15,
+            "2": 4.1
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/reims-strasbourg-0boazyH1/"
+    },
+    {
+        "date": "2019-08-18",
+        "team_1": "St Etienne",
+        "team_2": "Brest",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 1.56,
+            "X": 3.98,
+            "2": 6.11
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/st-etienne-brest-fqmHra9L/"
+    },
+    {
+        "date": "2019-08-17",
+        "team_1": "Amiens",
+        "team_2": "Lille",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.41,
+            "X": 3.1,
+            "2": 2.25
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/amiens-sc-lille-8jTixcnk/"
+    },
+    {
+        "date": "2019-08-17",
+        "team_1": "Bordeaux",
+        "team_2": "Montpellier",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.62,
+            "X": 2.94,
+            "2": 2.95
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/bordeaux-montpellier-6yneyH1e/"
+    },
+    {
+        "date": "2019-08-17",
+        "team_1": "Metz",
+        "team_2": "Monaco",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 3.03,
+            "X": 3.1,
+            "2": 2.44
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/metz-monaco-KQf4o1P2/"
+    },
+    {
+        "date": "2019-08-17",
+        "team_1": "Nimes",
+        "team_2": "Nice",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 2.05,
+            "X": 3.33,
+            "2": 3.63
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nimes-nice-OIiLsJOR/"
+    },
+    {
+        "date": "2019-08-17",
+        "team_1": "Toulouse",
+        "team_2": "Dijon",
+        "score": {
+            "1": 1,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.93,
+            "X": 3.38,
+            "2": 4.03
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/toulouse-dijon-YTb8pLv9/"
+    },
+    {
+        "date": "2019-08-17",
+        "team_1": "Nantes",
+        "team_2": "Marseille",
+        "score": {
+            "1": 0,
+            "2": 0
+        },
+        "odds": {
+            "1": 2.54,
+            "X": 3.15,
+            "2": 2.91
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nantes-marseille-QRwmwwXr/"
+    },
+    {
+        "date": "2019-08-16",
+        "team_1": "Lyon",
+        "team_2": "Angers",
+        "score": {
+            "1": 6,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.47,
+            "X": 4.53,
+            "2": 6.88
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lyon-angers-GhlDqufF/"
+    },
+    {
+        "date": "2019-08-11",
+        "team_1": "PSG",
+        "team_2": "Nimes",
+        "score": {
+            "1": 3,
+            "2": 0
+        },
+        "odds": {
+            "1": 1.09,
+            "X": 13.5,
+            "2": 35.5
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/psg-nimes-f3qeKOQ3/"
+    },
+    {
+        "date": "2019-08-11",
+        "team_1": "Strasbourg",
+        "team_2": "Metz",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.13,
+            "X": 3.05,
+            "2": 3.81
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/strasbourg-metz-CvfjL4Bc/"
+    },
+    {
+        "date": "2019-08-11",
+        "team_1": "Lille",
+        "team_2": "Nantes",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.19,
+            "X": 3.03,
+            "2": 3.6
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/lille-nantes-ttg1bs4p/"
+    },
+    {
+        "date": "2019-08-10",
+        "team_1": "Angers",
+        "team_2": "Bordeaux",
+        "score": {
+            "1": 3,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.06,
+            "X": 3.18,
+            "2": 3.95
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/angers-bordeaux-YmenMpdi/"
+    },
+    {
+        "date": "2019-08-10",
+        "team_1": "Brest",
+        "team_2": "Toulouse",
+        "score": {
+            "1": 1,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.07,
+            "X": 3.36,
+            "2": 3.65
+        },
+        "winner": "X",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/brest-toulouse-nuyTGkKB/"
+    },
+    {
+        "date": "2019-08-10",
+        "team_1": "Dijon",
+        "team_2": "St Etienne",
+        "score": {
+            "1": 1,
+            "2": 2
+        },
+        "odds": {
+            "1": 3.59,
+            "X": 3.33,
+            "2": 2.08
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/dijon-st-etienne-KWi5c1Jj/"
+    },
+    {
+        "date": "2019-08-10",
+        "team_1": "Montpellier",
+        "team_2": "Rennes",
+        "score": {
+            "1": 0,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 3.2,
+            "2": 3.48
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/montpellier-rennes-hIyPHV45/"
+    },
+    {
+        "date": "2019-08-10",
+        "team_1": "Nice",
+        "team_2": "Amiens",
+        "score": {
+            "1": 2,
+            "2": 1
+        },
+        "odds": {
+            "1": 2.26,
+            "X": 2.96,
+            "2": 3.71
+        },
+        "winner": "1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/nice-amiens-sc-86maJrtA/"
+    },
+    {
+        "date": "2019-08-10",
+        "team_1": "Marseille",
+        "team_2": "Reims",
+        "score": {
+            "1": 0,
+            "2": 2
+        },
+        "odds": {
+            "1": 1.66,
+            "X": 3.58,
+            "2": 5.84
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/marseille-reims-0ruXF9ZH/"
+    },
+    {
+        "date": "2019-08-09",
+        "team_1": "Monaco",
+        "team_2": "Lyon",
+        "score": {
+            "1": 0,
+            "2": 3
+        },
+        "odds": {
+            "1": 3.33,
+            "X": 3.56,
+            "2": 2.13
+        },
+        "winner": "2",
+        "url": "https://www.oddsportal.com/football/france/ligue-1-2019-2020/monaco-lyon-ERxLIBka/"
+    }
+]
